@@ -1,0 +1,16 @@
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/types/tx/signing/signature.go)
+
+The `signing` package in the `cosmos-sdk` project contains code related to signing and verifying transactions. The `SignatureV2` type is a convenience type that is used to represent a signature in application logic. It includes the public key to use for verifying the signature, the actual data of the signature (which includes sign modes and the signatures themselves), and the sequence of the account (only populated in `SIGN_MODE_DIRECT`). 
+
+The `SignatureDataToProto` and `SignatureDataFromProto` functions are used to convert between `SignatureData` and `SignatureDescriptor_Data`. `SignatureDescriptor_Data` is considered an encoding type, whereas `SignatureData` is used for business logic. `SignatureData` is a type that represents the data of a signature, including the sign mode and the signature itself. `SingleSignatureData` is a type that represents a single signature, while `MultiSignatureData` is a type that represents a nested multi-signature. `SignatureDescriptor_Data` is a protobuf message that is used to serialize and deserialize `SignatureData`.
+
+The `UnpackInterfaces` method is implemented for both `SignatureDescriptors` and `SignatureDescriptor`. These methods are used to unpack any interfaces that may be present in the protobuf messages. This is necessary because protobuf messages can contain fields that are of type `google.protobuf.Any`, which can contain any protobuf message. The `UnpackInterfaces` method is used to recursively unpack any interfaces that may be present in these messages.
+
+Overall, the `signing` package provides functionality for signing and verifying transactions in the `cosmos-sdk` project. The `SignatureV2` type is a convenient way to represent a signature in application logic, while the `SignatureDataToProto` and `SignatureDataFromProto` functions are used to convert between `SignatureData` and `SignatureDescriptor_Data`. The `UnpackInterfaces` method is used to unpack any interfaces that may be present in protobuf messages.
+## Questions: 
+ 1. What is the purpose of the `SignatureV2` type and how is it different from previous signature types in the SDK?
+- The `SignatureV2` type is a convenience type that supports sign modes and explicitly nested multi-signatures, and is intended for both building and verifying signatures. It is easier to use in application logic than the protobuf SignerInfo's and raw signature bytes, and goes beyond the first `sdk.Signature` types.
+2. What is the purpose of the `SignatureDataToProto` and `SignatureDataFromProto` functions?
+- The `SignatureDataToProto` function converts a `SignatureData` to `SignatureDescriptor_Data`, which is considered an encoding type, whereas `SignatureData` is used for business logic. The `SignatureDataFromProto` function does the reverse, converting a `SignatureDescriptor_Data` to `SignatureData`.
+3. What is the purpose of the `UnpackInterfaces` method in the `SignatureDescriptors` and `SignatureDescriptor` types?
+- The `UnpackInterfaces` method implements the `UnpackInterfaceMessages.UnpackInterfaces` method and is used to unpack any interfaces in the `SignatureDescriptors` and `SignatureDescriptor` types. This is necessary for encoding and decoding these types in the Cosmos SDK.

@@ -1,0 +1,16 @@
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/x/mint/keeper/keeper.go)
+
+The code defines the `Keeper` struct and associated methods for the `mint` module of the Cosmos SDK. The `Keeper` struct contains fields for the codec, store key, staking keeper, bank keeper, fee collector name, and authority. The `NewKeeper` function initializes a new `Keeper` instance with the given parameters and ensures that the module account has been set.
+
+The `GetAuthority` method returns the authority of the `mint` module. The `Logger` method returns a module-specific logger. The `GetMinter` method retrieves the current `Minter` from the store and unmarshals it using the codec. The `SetMinter` method sets the current `Minter` in the store by marshaling it using the codec. The `SetParams` method sets the module parameters in the store by marshaling them using the codec. The `GetParams` method retrieves the current module parameters from the store and unmarshals them using the codec.
+
+The `StakingTokenSupply` method is an alias for the underlying staking keeper's `StakingTokenSupply` method, which returns the total supply of staking tokens. The `BondedRatio` method is an alias for the underlying staking keeper's `BondedRatio` method, which returns the ratio of bonded to total staking tokens. The `MintCoins` method is an alias for the underlying bank keeper's `MintCoins` method, which mints new coins and adds them to the module account. The `AddCollectedFees` method is an alias for the underlying bank keeper's `SendCoinsFromModuleToModule` method, which sends coins from the module account to the fee collector account.
+
+Overall, the `Keeper` struct and associated methods provide an interface for interacting with the `mint` module's state and performing operations such as minting new coins and updating module parameters. These methods are used by other modules in the Cosmos SDK to interact with the `mint` module and perform operations such as staking and governance. For example, the `staking` module uses the `StakingTokenSupply` and `BondedRatio` methods to calculate rewards for stakers, while the `gov` module uses the `SetParams` method to update the module's governance parameters.
+## Questions: 
+ 1. What is the purpose of the `Keeper` struct and what are its dependencies?
+- The `Keeper` struct is responsible for managing the mint store and has dependencies on a binary codec, a store key, a staking keeper, a bank keeper, a fee collector name, and an authority address capable of executing a `MsgUpdateParams` message.
+2. What is the purpose of the `GetMinter` and `SetMinter` functions?
+- The `GetMinter` function retrieves the current minter from the store, while the `SetMinter` function sets the minter in the store.
+3. What is the purpose of the `StakingTokenSupply`, `BondedRatio`, `MintCoins`, and `AddCollectedFees` functions?
+- These functions are aliases that call underlying functions from the staking keeper and bank keeper to be used in the `BeginBlocker` function. `StakingTokenSupply` returns the total staking token supply, `BondedRatio` returns the ratio of bonded tokens to total supply, `MintCoins` mints new coins and sends them to the module account, and `AddCollectedFees` sends collected fees to the fee collector module account.

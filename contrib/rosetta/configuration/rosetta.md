@@ -1,0 +1,20 @@
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/contrib/rosetta/configuration/rosetta.json)
+
+This code represents a configuration file for the cosmos-sdk project. The configuration file contains various settings that can be used to customize the behavior of the project. 
+
+The "network" section of the configuration file specifies the blockchain and network that the project is running on. The "online_url" setting specifies the URL of the Rosetta API server that the project will use to interact with the blockchain. The "data_directory" setting specifies the directory where the project will store its data. The "http_timeout" setting specifies the maximum amount of time that the project will wait for a response from the Rosetta API server. The "max_retries" setting specifies the maximum number of times that the project will retry a failed request to the Rosetta API server. 
+
+The "construction" section of the configuration file contains settings related to transaction construction. The "offline_url" setting specifies the URL of the Rosetta API server that the project will use to construct transactions when it is not connected to the network. The "stale_depth" setting specifies the number of blocks that the project will consider to be "stale" when constructing transactions. The "broadcast_limit" setting specifies the maximum number of transactions that the project will broadcast at once. The "ignore_broadcast_failures" setting specifies whether the project should ignore failures when broadcasting transactions. The "clear_broadcasts" setting specifies whether the project should clear all pending broadcasts before starting a new construction session. 
+
+The "data" section of the configuration file contains settings related to data reconciliation. The "active_reconciliation_concurrency" setting specifies the maximum number of concurrent active reconciliations that the project will perform. The "inactive_reconciliation_concurrency" setting specifies the maximum number of concurrent inactive reconciliations that the project will perform. The "inactive_reconciliation_frequency" setting specifies the frequency at which the project will perform inactive reconciliations. The "log_blocks", "log_transactions", "log_balance_changes", and "log_reconciliations" settings specify whether the project should log various types of data. The "ignore_reconciliation_error" setting specifies whether the project should ignore errors that occur during reconciliation. The "exempt_accounts" setting specifies a list of accounts that should be exempt from reconciliation. The "bootstrap_balances" setting specifies the path to a JSON file containing bootstrap balances. The "interesting_accounts" setting specifies a list of accounts that the project should pay special attention to. 
+
+Overall, this configuration file provides a way for users to customize the behavior of the cosmos-sdk project to suit their needs. By adjusting the various settings in the configuration file, users can control how the project interacts with the blockchain, how it constructs transactions, and how it reconciles data.
+## Questions: 
+ 1. What is the purpose of this configuration file?
+- This configuration file is used to set various parameters for the cosmos-sdk application, including network settings, data directories, and construction options.
+
+2. What is the significance of the "construction" section?
+- The "construction" section contains options related to transaction construction, including offline URL, broadcast limits, and end conditions for transactions.
+
+3. What is the purpose of the "end_conditions" section?
+- The "end_conditions" section specifies conditions that must be met for certain actions, such as creating an account or transferring funds, to be considered complete. It also includes an option to end reconciliation when the tip of the blockchain is reached.

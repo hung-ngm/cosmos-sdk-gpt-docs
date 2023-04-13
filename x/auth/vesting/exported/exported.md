@@ -1,0 +1,16 @@
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/x/auth/vesting/exported/exported.go)
+
+The code defines an interface called VestingAccount that represents an account type that vests coins via a vesting schedule. This interface extends the sdk.AccountI interface, which means that any implementation of VestingAccount must also implement all the methods of sdk.AccountI.
+
+The VestingAccount interface defines several methods that are used to manage the vesting of coins in an account. The LockedCoins method returns the set of coins that are not spendable, which are the vesting coins that are not delegated. To get the spendable coins of a vesting account, the total balance must be retrieved and the locked tokens can be subtracted from the total balance. The TrackDelegation method performs internal vesting accounting necessary when delegating from a vesting account. It accepts the current block time, the delegation amount, and the balance of all coins whose denomination exists in the account's original vesting balance. The TrackUndelegation method performs internal vesting accounting necessary when a vesting account performs an undelegation. The GetVestedCoins method returns the coins that have already vested at the given block time. The GetVestingCoins method returns the coins that are still vesting at the given block time. The GetStartTime method returns the time at which vesting starts. The GetEndTime method returns the time at which vesting ends. The GetOriginalVesting method returns the original vesting balance of the account. The GetDelegatedFree method returns the amount of delegated coins that are not vesting. The GetDelegatedVesting method returns the amount of delegated coins that are vesting.
+
+This interface is used in the larger cosmos-sdk project to define the behavior of vesting accounts. Any implementation of VestingAccount can be used in place of a regular account in the cosmos-sdk system, and the system will automatically handle the vesting of coins according to the rules defined by the implementation. For example, the cosmos-sdk staking module uses VestingAccount to represent vesting accounts that are used for staking. By defining this interface, the cosmos-sdk project provides a flexible and extensible way to handle vesting of coins in various contexts.
+## Questions: 
+ 1. What is the purpose of the `VestingAccount` interface?
+- The `VestingAccount` interface defines an account type that vests coins via a vesting schedule.
+
+2. How are locked coins calculated for a vesting account?
+- The `LockedCoins` method returns the set of coins that are not spendable (i.e. locked), defined as the vesting coins that are not delegated. To get spendable coins of a vesting account, first the total balance must be retrieved and the locked tokens can be subtracted from the total balance.
+
+3. What methods are available for tracking vesting accounting for a vesting account?
+- The `TrackDelegation`, `TrackUndelegation`, `GetVestedCoins`, `GetVestingCoins`, `GetStartTime`, `GetEndTime`, `GetOriginalVesting`, `GetDelegatedFree`, and `GetDelegatedVesting` methods are available for tracking vesting accounting for a vesting account.

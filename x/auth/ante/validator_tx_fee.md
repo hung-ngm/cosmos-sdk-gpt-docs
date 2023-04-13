@@ -1,0 +1,16 @@
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/x/auth/ante/validator_tx_fee.go)
+
+The `checkTxFeeWithValidatorMinGasPrices` function in the `ante` package of the `cosmos-sdk` project implements the default fee logic for a transaction. The function takes in a context and a transaction as input and returns the fee, priority, and an error. The function first checks if the transaction is a `FeeTx` type and returns an error if it is not. It then extracts the fee and gas from the transaction. If the context is a `CheckTx`, the function ensures that the provided fees meet a minimum threshold for the validator. It does this by checking the minimum gas prices set by the validator and ensuring that the fee provided by the transaction is greater than or equal to the required fee. If the fee is not sufficient, the function returns an error. Finally, the function calculates the priority of the transaction based on the fee and gas provided using the `getTxPriority` function.
+
+The `getTxPriority` function calculates the priority of a transaction based on the smallest denomination of the gas price provided in the transaction. It takes in the fee and gas as input and returns the priority as an integer. The function iterates over each coin in the fee and calculates the gas price by dividing the coin amount by the gas. It then compares the gas price to the current priority and updates the priority if the gas price is smaller. The function returns the final priority.
+
+This code is used in the larger `cosmos-sdk` project to implement the default fee logic for transactions. The `checkTxFeeWithValidatorMinGasPrices` function is called by the `AnteHandler` to check the fee of a transaction before it is processed. The function ensures that the fee provided by the transaction meets the minimum threshold set by the validator and calculates the priority of the transaction. The priority is used to determine the order in which transactions are processed by the network. The `getTxPriority` function is used to calculate the priority of the transaction based on the gas price. Overall, this code is an important part of the `cosmos-sdk` project as it ensures that transactions are processed in a fair and efficient manner.
+## Questions: 
+ 1. What is the purpose of the `checkTxFeeWithValidatorMinGasPrices` function?
+- The function implements the default fee logic for a transaction, where the minimum price per unit of gas is fixed and set by each validator, and the transaction priority is computed from the gas price.
+
+2. What is the purpose of the `getTxPriority` function?
+- The function returns a naive transaction priority based on the amount of the smallest denomination of the gas price provided in a transaction.
+
+3. Why is a cautionary note included in the comment for the `getTxPriority` function?
+- The implementation should be used with great consideration as it opens potential attack vectors where transactions with multiple coins could not be prioritized as expected.

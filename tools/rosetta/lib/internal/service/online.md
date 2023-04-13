@@ -1,0 +1,20 @@
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/tools/rosetta/lib/internal/service/online.go)
+
+The `service` package contains code related to building a single network adapter for the Cosmos SDK project. The `NewOnlineNetwork` function creates a new instance of the `OnlineNetwork` struct, which groups together all the components required for the full Rosetta implementation. The function takes in three parameters: `network`, `client`, and `logger`. `network` is a pointer to a `types.NetworkIdentifier` struct that identifies the network and is static. `client` is a `crgtypes.Client` interface that is used to query the Cosmos app and CometBFT. `logger` is a `log.Logger` interface that is used for logging.
+
+The function first creates a context with a timeout of 15 seconds to fetch the genesis block. It then gets the genesis block height and block using the `BlockByHeight` method of the `client`. If there is an error, it logs the error and returns it. Otherwise, it creates a new instance of the `OnlineNetwork` struct with the `client`, `network`, and `networkOptions` fields set. The `networkOptions` field is set using the `networkOptionsFromClient` function, which takes in the `client` and `genesisBlock` as parameters and returns a pointer to a `types.NetworkOptionsResponse` struct. The `networkOptions` struct contains information about the network options, such as the version, supported operations, errors, and historical balance lookup.
+
+The `OnlineNetwork` struct contains two fields: `client` and `networkOptions`. The `client` field is a `crgtypes.Client` interface that is used to query the Cosmos app and CometBFT. The `networkOptions` field is a pointer to a `types.NetworkOptionsResponse` struct that contains information about the network options.
+
+The `networkOptionsFromClient` function takes in the `client` and `genesisBlock` as parameters and returns a pointer to a `types.NetworkOptionsResponse` struct. It first checks if the `genesisBlock` is not nil and sets the timestamp start index to the genesis block index. It then creates a new `types.NetworkOptionsResponse` struct with the version set to the Cosmos SDK spec version and the node version set to the `client` version. It sets the operation statuses and types to the `client` supported operations and operation statuses, respectively. It sets the errors to the list of errors returned by the `SealAndListErrors` function of the `crgerrs` package. Finally, it sets the historical balance lookup to true and returns the `types.NetworkOptionsResponse` struct.
+
+Overall, this code is used to build a single network adapter for the Cosmos SDK project that implements the Rosetta API. The `NewOnlineNetwork` function creates a new instance of the `OnlineNetwork` struct with the `client`, `network`, and `networkOptions` fields set. The `networkOptions` field contains information about the network options, such as the version, supported operations, errors, and historical balance lookup. The `OnlineNetwork` struct contains two fields: `client` and `networkOptions`. The `client` field is a `crgtypes.Client` interface that is used to query the Cosmos app and CometBFT.
+## Questions: 
+ 1. What is the purpose of the `NewOnlineNetwork` function?
+- The `NewOnlineNetwork` function builds a single network adapter for the full Rosetta implementation and gets the Genesis block on the beginning to avoid calling it every time.
+
+2. What is the `OnlineNetwork` struct used for?
+- The `OnlineNetwork` struct groups together all the components required for the full Rosetta implementation.
+
+3. What is the `networkOptionsFromClient` function used for?
+- The `networkOptionsFromClient` function builds network options given the client and the Genesis block, including the Rosetta and node versions, supported operations, errors, and historical balance lookup.
