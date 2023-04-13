@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/std/doc.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/std/doc.go)
 
 The `std` package in the `cosmos-sdk` project defines common and standard types and definitions that can be used by modules and applications within the project. These types and definitions serve as a starting point and can also be overridden or redefined as needed.
 

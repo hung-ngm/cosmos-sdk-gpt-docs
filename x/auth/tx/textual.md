@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/x/auth/tx/textual.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/x/auth/tx/textual.go)
 
 This code defines a custom `SignModeHandler` for the `SIGN_MODE_TEXTUAL` signing mode in the Cosmos SDK. This signing mode is not yet fully released, but can be manually enabled for testing purposes. 
 

@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/crypto/keys/secp256k1/internal/secp256k1/libsecp256k1/src/ecmult.h)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/crypto/keys/secp256k1/internal/secp256k1/libsecp256k1/src/ecmult.h)
 
 This code defines functions and data structures related to elliptic curve point multiplication on the secp256k1 curve. The secp256k1 curve is used in Bitcoin and other cryptocurrencies for public key cryptography. 
 

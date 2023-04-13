@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/x/group/internal/orm/auto_uint64.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/x/group/internal/orm/auto_uint64.go)
 
 The `AutoUInt64Table` type in the `orm` package is a table type with an auto-incrementing ID. It is used to create, update, delete, and retrieve objects with a unique ID. The table is implemented as a wrapper around a `table` type, which is a generic table type that can be used with any type of ID. 
 

@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/client/docs/swagger-ui/index.html)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/client/docs/swagger-ui/index.html)
 
 This code is an HTML file that serves as the front-end for the Swagger UI documentation tool. Swagger UI is a popular open-source tool for generating interactive API documentation. This HTML file is part of the cosmos-sdk project and is used to display the API documentation for the project's RESTful API.
 

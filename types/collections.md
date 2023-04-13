@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/types/collections.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/types/collections.go)
 
 This file contains various types and codecs used in the cosmos-sdk project. The purpose of this code is to provide a way to encode and decode different types of data, such as addresses and integers, for use in collections and indexes.
 

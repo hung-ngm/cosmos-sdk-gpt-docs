@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/crypto/keys/secp256k1/internal/secp256k1/libsecp256k1/src/ecmult_gen_impl.h)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/crypto/keys/secp256k1/internal/secp256k1/libsecp256k1/src/ecmult_gen_impl.h)
 
 The code is a part of the cosmos-sdk project and implements the elliptic curve multiplication algorithm for the secp256k1 curve. The algorithm is used to generate public keys from private keys and to perform point multiplication on the curve. The code provides functions to initialize, build, clone, and clear the context for the elliptic curve multiplication algorithm. 
 

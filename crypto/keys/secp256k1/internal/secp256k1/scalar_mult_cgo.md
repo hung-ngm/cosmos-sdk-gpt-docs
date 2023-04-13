@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/crypto/keys/secp256k1/internal/secp256k1/scalar_mult_cgo.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/crypto/keys/secp256k1/internal/secp256k1/scalar_mult_cgo.go)
 
 The code is a part of the secp256k1 package in the cosmos-sdk project. It provides a function called ScalarMult that performs scalar multiplication on a point on the elliptic curve. Scalar multiplication is a fundamental operation in elliptic curve cryptography and is used in various cryptographic protocols such as key exchange, digital signatures, and encryption.
 

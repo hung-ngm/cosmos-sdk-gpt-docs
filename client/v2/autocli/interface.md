@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/client/v2/autocli/interface.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/client/v2/autocli/interface.go)
 
 The `autocli` package in the `cosmos-sdk` project provides interfaces for declaring and implementing custom command-line interface (CLI) commands for modules in the project. The package defines three interfaces: `HasAutoCLIConfig`, `HasCustomQueryCommand`, and `HasCustomTxCommand`.
 

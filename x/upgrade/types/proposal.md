@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/x/upgrade/types/proposal.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/x/upgrade/types/proposal.go)
 
 This file contains code related to proposals for software upgrades and cancellation of software upgrades in the cosmos-sdk project. The `gov` package is imported to use its `Content` interface, which is implemented by the `SoftwareUpgradeProposal` and `CancelSoftwareUpgradeProposal` structs. 
 

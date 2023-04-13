@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/x/gov/types/hooks.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/x/gov/types/hooks.go)
 
 The code defines a type called `MultiGovHooks` which is a slice of `GovHooks`. `GovHooks` is an interface that defines methods to be called during various stages of a governance proposal's lifecycle. The purpose of `MultiGovHooks` is to combine multiple instances of `GovHooks` into a single entity, allowing all of their hook functions to be run in sequence.
 

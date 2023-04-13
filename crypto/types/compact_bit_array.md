@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/crypto/types/compact_bit_array.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/crypto/types/compact_bit_array.go)
 
 The `CompactBitArray` type is a space-efficient implementation of a bit array. It is used to ensure that the encoded data takes up a minimal amount of space after amino encoding. This type is not thread-safe and is not intended for concurrent usage.
 

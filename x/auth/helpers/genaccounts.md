@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/x/auth/helpers/genaccounts.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/x/auth/helpers/genaccounts.go)
 
 The `AddGenesisAccount` function is used to add a new account to the genesis state of a Cosmos SDK-based blockchain. The genesis state is the initial state of the blockchain, which is defined in a JSON file called `genesis.json`. This function takes several parameters, including the client codec (`cdc`), the address of the account to be added (`accAddr`), the initial coins to be added to the account (`amountStr`), and whether to update the account if it already exists (`appendAcct`). 
 

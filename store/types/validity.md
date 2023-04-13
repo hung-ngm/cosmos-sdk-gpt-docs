@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/store/types/validity.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/store/types/validity.go)
 
 This code defines two constants, `MaxKeyLength` and `MaxValueLength`, and two functions, `AssertValidKey` and `AssertValidValue`. 
 

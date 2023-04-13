@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/collections/codec/codec.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/collections/codec/codec.go)
 
 The `codec` package provides a set of interfaces and functions for encoding and decoding keys and values used in collections. The package defines two interfaces: `KeyCodec` and `ValueCodec`. 
 

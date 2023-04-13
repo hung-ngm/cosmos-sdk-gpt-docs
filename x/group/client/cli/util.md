@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/x/group/client/cli/util.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/x/group/client/cli/util.go)
 
 This file contains several functions and a struct that are used for parsing and handling group proposals in the cosmos-sdk project. 
 

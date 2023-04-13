@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/store/pruning/types/options.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/store/pruning/types/options.go)
 
 The `types` package in the `cosmos-sdk` project contains the `PruningOptions` type and related constants and functions. `PruningOptions` is a struct that defines the pruning strategy used when committing state. It has three fields: `KeepRecent`, `Interval`, and `Strategy`. `KeepRecent` defines how many recent heights to keep on disk, `Interval` defines when the pruned heights are removed from disk, and `Strategy` defines the kind of pruning strategy. 
 

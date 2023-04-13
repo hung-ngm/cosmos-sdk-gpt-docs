@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/docs/docs/packages/_category_.json)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/docs/docs/packages/_category_.json)
 
 This code appears to be a JSON object that defines a label, position, and link for a set of packages. It is likely used in the larger cosmos-sdk project to organize and manage packages within the codebase. 
 

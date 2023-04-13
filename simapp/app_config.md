@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/simapp/app_config.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/simapp/app_config.go)
 
 This code defines the application configuration for the cosmos-sdk project. It sets up the various modules that the project uses and specifies their configurations. The `AppConfig` variable is used by the dependency injection system to provide the necessary configurations to the modules.
 

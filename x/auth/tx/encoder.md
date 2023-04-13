@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/x/auth/tx/encoder.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/x/auth/tx/encoder.go)
 
 The code above is a part of the `cosmos-sdk` project and provides default implementations for encoding transactions in protobuf and JSON formats. 
 

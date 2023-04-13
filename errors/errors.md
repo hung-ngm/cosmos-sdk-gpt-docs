@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/errors/errors.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/errors/errors.go)
 
 The `errors` package provides a way to define and handle errors in the Cosmos SDK project. It defines a root error type called `Error` that is used to categorize issues. Each instance created during the runtime should wrap one of the declared root errors. This allows error tests and returning all errors to the client in a safe manner. 
 

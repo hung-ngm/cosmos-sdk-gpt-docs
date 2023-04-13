@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/x/evidence/sonar-project.properties)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/x/evidence/sonar-project.properties)
 
 This code is a configuration file for the SonarQube code analysis tool, specifically for the `cosmos-sdk-x-evidence` project within the larger Cosmos SDK project. 
 

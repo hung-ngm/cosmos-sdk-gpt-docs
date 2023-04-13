@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/types/codec.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/types/codec.go)
 
 This code is a part of the `cosmos-sdk` project and is responsible for registering and defining interfaces for message types. The `types` package is imported along with the `codec` and `codec/types` packages.
 

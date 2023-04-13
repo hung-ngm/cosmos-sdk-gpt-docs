@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/x/group/codec.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/x/group/codec.go)
 
 The `group` package in the `cosmos-sdk` project provides functionality for managing groups of accounts on the Cosmos blockchain. This file contains code that registers the necessary concrete types and interfaces for Amino JSON serialization, as well as registering interfaces with the interface registry.
 

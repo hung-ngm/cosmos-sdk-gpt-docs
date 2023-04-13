@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/x/evidence/types/params.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/x/evidence/types/params.go)
 
 This code defines a variable called `DoubleSignJailEndTime` that represents the maximum time supported by Amino, a serialization library used in the cosmos-sdk project. The value of this variable is set to December 31, 9999 at 23:59:59 GMT, which is represented as a Unix timestamp of 253402300799.
 

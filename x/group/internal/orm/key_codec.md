@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/x/group/internal/orm/key_codec.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/x/group/internal/orm/key_codec.go)
 
 The `orm` package provides an object-relational mapping (ORM) layer for the Cosmos SDK. This file contains functions for building and manipulating keys used in the ORM layer.
 

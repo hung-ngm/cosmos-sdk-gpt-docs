@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/client/v2/go.mod)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/client/v2/go.mod)
 
 This file is a `go.mod` file that specifies the dependencies required for the `cosmos-sdk` project. It lists all the required modules and their versions that are needed to build and run the project. The `require` block lists the direct dependencies of the project, while the `indirect` dependencies are listed in the second `require` block.
 

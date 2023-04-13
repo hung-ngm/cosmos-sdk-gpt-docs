@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/crypto/keys/secp256k1/internal/secp256k1/libsecp256k1/src/java/org_bitcoin_Secp256k1Context.h)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/crypto/keys/secp256k1/internal/secp256k1/libsecp256k1/src/java/org_bitcoin_Secp256k1Context.h)
 
 This code is a Java Native Interface (JNI) implementation of the secp256k1 library, which is a C library for elliptic curve cryptography. The purpose of this code is to provide a Java interface for using the secp256k1 library in a larger project, such as a cryptocurrency wallet or blockchain application.
 

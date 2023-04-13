@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/tools/cosmovisor/cmd/cosmovisor/help.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/tools/cosmovisor/cmd/cosmovisor/help.go)
 
 The code above is a part of the `cosmos-sdk` project and it defines a function called `GetHelpText()`. This function returns a multi-line string that provides information about `Cosmovisor`, which is a process manager for Cosmos SDK application binaries. 
 

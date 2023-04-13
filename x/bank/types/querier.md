@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/x/bank/types/querier.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/x/bank/types/querier.go)
 
 This file contains various functions and constants related to querying account balances and supply information in the Cosmos SDK. The `QueryBalance`, `QueryAllBalances`, `QueryTotalSupply`, and `QuerySupplyOf` constants define the different types of queries that can be made related to balances and supply.
 

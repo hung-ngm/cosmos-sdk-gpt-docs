@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/x/gov/keeper/msg_server.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/x/gov/keeper/msg_server.go)
 
 This file contains the implementation of the `MsgServer` interface for the governance module of the Cosmos SDK. The `MsgServer` interface defines the message handlers for governance-related messages. The `msgServer` struct implements this interface and contains a reference to the `Keeper` struct, which provides access to the governance module's state.
 

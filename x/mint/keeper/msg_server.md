@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/x/mint/keeper/msg_server.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/x/mint/keeper/msg_server.go)
 
 The code above is a part of the `cosmos-sdk` project and is located in the `keeper` package. The purpose of this code is to provide an implementation of the `x/mint` MsgServer interface. The `msgServer` struct is a wrapper of the `Keeper` struct, which is responsible for managing the state of the `x/mint` module.
 

@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/x/upgrade/types/codec.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/x/upgrade/types/codec.go)
 
 This file contains functions and variables related to registering concrete types and interfaces with the codec used in the cosmos-sdk project. 
 

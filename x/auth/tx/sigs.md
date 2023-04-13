@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/x/auth/tx/sigs.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/x/auth/tx/sigs.go)
 
 The `tx` package in the `cosmos-sdk` project contains code related to transaction handling. The code in this file provides functions for converting signature data to mode info and raw byte signature, and vice versa. 
 

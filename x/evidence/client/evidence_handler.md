@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/x/evidence/client/evidence_handler.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/x/evidence/client/evidence_handler.go)
 
 The code defines two types, `CLIHandlerFn` and `EvidenceHandler`, which are used to handle evidence submission in the cosmos-sdk project. 
 

@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/types/denom.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/types/denom.go)
 
 The `types` package contains various types and functions used throughout the Cosmos SDK. This specific file contains functions related to denominations and their units. 
 

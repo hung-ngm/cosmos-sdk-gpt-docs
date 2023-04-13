@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/x/auth/types/expected_keepers.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/x/auth/types/expected_keepers.go)
 
 The code above defines an interface called `BankKeeper` that specifies the methods needed for supply-related APIs in the `cosmos-sdk` project. This interface is used to interact with the bank module of the SDK, which is responsible for managing the supply of tokens within the system.
 

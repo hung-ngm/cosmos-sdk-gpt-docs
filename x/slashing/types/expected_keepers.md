@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/x/slashing/types/expected_keepers.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/x/slashing/types/expected_keepers.go)
 
 This file defines several interfaces that are expected to be implemented by other modules in the cosmos-sdk project. These interfaces are used to interact with the account, bank, staking, and parameter subsystems of the SDK.
 

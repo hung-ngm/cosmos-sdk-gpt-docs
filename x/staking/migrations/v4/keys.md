@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/x/staking/migrations/v4/keys.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/x/staking/migrations/v4/keys.go)
 
 This code defines the module name and parameter key for the staking module in the cosmos-sdk project. The staking module is responsible for managing the staking of tokens by validators and delegators in the network. 
 

@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/x/upgrade/types/querier.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/x/upgrade/types/querier.go)
 
 This code defines two constants, `QueryCurrent` and `QueryApplied`, which are used as query endpoints in the upgrade Querier. The upgrade Querier is a module in the larger cosmos-sdk project that handles upgrades to the blockchain software. 
 

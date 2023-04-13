@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/orm/encoding/ormfield/uint32.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/orm/encoding/ormfield/uint32.go)
 
 The `ormfield` package contains two codecs for encoding and decoding uint32 values: `FixedUint32Codec` and `CompactUint32Codec`. These codecs are used to encode and decode data in the Cosmos SDK project. 
 

@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/x/bank/keeper/msg_server.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/x/bank/keeper/msg_server.go)
 
 The code defines a message server for the bank module in the Cosmos SDK. The message server implements the `types.MsgServer` interface and provides methods for sending coins, sending multiple coins, updating parameters, and setting send enabled status for different denominations of coins. 
 

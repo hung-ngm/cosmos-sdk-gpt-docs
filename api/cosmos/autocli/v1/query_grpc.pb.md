@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/api/cosmos/autocli/v1/query_grpc.pb.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/api/cosmos/autocli/v1/query_grpc.pb.go)
 
 This code defines a gRPC service for the QueryClient and QueryServer interfaces in the cosmos-sdk project. Specifically, it defines a Query service that provides a method for retrieving autocli options for all modules in an app. 
 

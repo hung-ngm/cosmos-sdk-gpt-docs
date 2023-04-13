@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/store/types/streaming.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/store/types/streaming.go)
 
 The `types` package in the `cosmos-sdk` project contains code related to the types used in the project. The code in this file defines two interfaces, `ABCIListener` and `StreamingManager`, that are used for streaming ABCI messages in the `BaseApp`.
 

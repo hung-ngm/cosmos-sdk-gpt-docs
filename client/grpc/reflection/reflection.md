@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/client/grpc/reflection/reflection.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/client/grpc/reflection/reflection.go)
 
 The `reflection` package contains code related to reflection in the Cosmos SDK project. Specifically, it defines a `reflectionServiceServer` struct that implements the `ReflectionServiceServer` interface. This interface provides two methods: `ListAllInterfaces` and `ListImplementations`.
 

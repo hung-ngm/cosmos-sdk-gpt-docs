@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/x/consensus/types/query.pb.gw.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/x/consensus/types/query.pb.gw.go)
 
 This file is part of the types package, which is a reverse proxy that translates gRPC into RESTful JSON APIs. The code in this file registers HTTP handlers for the Query service to a runtime.ServeMux, which is a HTTP request multiplexer. The Query service is defined in the query.proto file located in the cosmos/consensus/v1 directory. 
 

@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/x/genutil/collect.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/x/genutil/collect.go)
 
 The `genutil` package contains functions for generating the initial application state from a configuration file. The `GenAppStateFromConfig` function is the main function in this package, and it takes in several parameters, including a JSON codec, a transaction encoding configuration, a configuration file, an initialization configuration, an application genesis, a genesis balance iterator, and a message validator. 
 

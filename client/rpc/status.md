@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/client/rpc/status.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/client/rpc/status.go)
 
 The `rpc` package in the `cosmos-sdk` project contains code related to remote procedure calls (RPC) for interacting with a Cosmos SDK-based blockchain network. This particular file defines a `StatusCommand` function that returns a Cobra command for querying the status of a remote node on the network. 
 

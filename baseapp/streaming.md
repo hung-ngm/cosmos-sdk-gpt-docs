@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/baseapp/streaming.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/baseapp/streaming.go)
 
 The code defines functions for registering and managing streaming services in the BaseApp of the cosmos-sdk project. The `RegisterStreamingServices` function registers streaming services with the BaseApp. It takes in the app options and a map of key-value store keys as parameters. It reads the streaming configuration from the app options and registers the streaming plugin with the BaseApp if the plugin name is provided in the configuration. The function calls the `registerStreamingPlugin` function to register the plugin.
 

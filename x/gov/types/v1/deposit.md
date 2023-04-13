@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/x/gov/types/v1/deposit.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/x/gov/types/v1/deposit.go)
 
 The code above is a part of the cosmos-sdk project and contains functions and types related to deposits. Specifically, it defines a Deposit struct and a Deposits type, which is a slice of Deposit objects. It also provides methods for creating new Deposit instances, comparing Deposits for equality, and generating string representations of Deposits.
 

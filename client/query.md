@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/client/query.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/client/query.go)
 
 This file contains the implementation of the `Context` struct and associated methods for the Cosmos SDK project. The `Context` struct is used to store information about the current state of the blockchain, such as the current height and the client used to interact with the network. The methods defined in this file provide functionality for querying the blockchain and retrieving information from the `Context`.
 

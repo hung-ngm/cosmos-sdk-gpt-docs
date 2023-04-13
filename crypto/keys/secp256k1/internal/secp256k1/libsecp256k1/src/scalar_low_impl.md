@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/crypto/keys/secp256k1/internal/secp256k1/libsecp256k1/src/scalar_low_impl.h)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/crypto/keys/secp256k1/internal/secp256k1/libsecp256k1/src/scalar_low_impl.h)
 
 This code defines a set of functions for working with scalar values in the context of the secp256k1 elliptic curve. These functions are used in the larger cosmos-sdk project for cryptographic operations such as signing and verifying transactions.
 

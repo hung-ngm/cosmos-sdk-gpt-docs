@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/x/authz/migrations/v2/store.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/x/authz/migrations/v2/store.go)
 
 The `MigrateStore` function in this file is responsible for performing in-place store migrations from version 0.45 to version 0.46 of the Cosmos SDK. Specifically, it prunes expired authorizations and creates a secondary index for pruning expired authorizations. 
 

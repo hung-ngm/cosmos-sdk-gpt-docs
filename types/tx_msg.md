@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/types/tx_msg.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/types/tx_msg.go)
 
 This file defines several interfaces and functions that are used in the cosmos-sdk project to handle transactions. 
 

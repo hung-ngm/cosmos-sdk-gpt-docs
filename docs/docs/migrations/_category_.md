@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/docs/docs/migrations/_category_.json)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/docs/docs/migrations/_category_.json)
 
 The code snippet above is a JSON object that represents a label for SDK migrations. This label is used to identify and track the position of migrations within the larger cosmos-sdk project. 
 

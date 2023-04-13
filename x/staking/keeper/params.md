@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/x/staking/keeper/params.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/x/staking/keeper/params.go)
 
 This file contains the implementation of the `Keeper` struct for the staking module of the Cosmos SDK. The `Keeper` struct provides methods to access and manipulate the staking module's state. 
 

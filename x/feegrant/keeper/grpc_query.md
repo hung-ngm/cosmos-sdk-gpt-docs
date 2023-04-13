@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/x/feegrant/keeper/grpc_query.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/x/feegrant/keeper/grpc_query.go)
 
 The code defines a set of functions that allow querying fee allowances granted by one account to another account. This functionality is part of the larger cosmos-sdk project, which is a framework for building blockchain applications. 
 

@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/collections/indexes/helpers.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/collections/indexes/helpers.go)
 
 The `indexes` package contains a set of helper functions for working with indexed maps. The `iterator` interface defines the minimum set of methods required to work with the helpers. The `CollectKeyValues` function collects all the keys and values of an indexed map index iterator. The iterator is fully consumed and closed. The `ScanKeyValues` function calls the `do` function on every record found in the indexed map from the index iterator. Returning true stops the iteration. The iterator is closed when this function exits. The `CollectValues` function collects all the values from an index iterator and the indexed map. The iterator is closed. The `ScanValues` function collects all the values from an index iterator and the indexed map in a lazy way. The iterator is closed when this function exits.
 

@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/x/genutil/client/cli/gentx.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/x/genutil/client/cli/gentx.go)
 
 The `cli` package in the `cosmos-sdk` project contains the command-line interface (CLI) code for the Cosmos SDK. This file contains the `GenTxCmd` function, which builds the `gentx` command for the application. The `gentx` command generates a genesis transaction that creates a validator with a self-delegation, which is signed by the key in the Keyring referenced by a given name. The command takes two arguments: the name of the key and the amount of coins to be self-delegated. 
 

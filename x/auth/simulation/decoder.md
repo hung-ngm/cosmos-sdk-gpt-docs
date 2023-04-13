@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/x/auth/simulation/decoder.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/x/auth/simulation/decoder.go)
 
 The `simulation` package in the `cosmos-sdk` project contains code related to simulating the behavior of the blockchain. This particular file defines an interface `AuthUnmarshaler` and a function `NewDecodeStore` that returns a closure function.
 

@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/x/auth/ante/ante.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/x/auth/ante/ante.go)
 
 The code above is a part of the `cosmos-sdk` project and is located in the `ante` package. The purpose of this code is to provide an AnteHandler that performs various checks and operations before a transaction is executed on the blockchain. 
 

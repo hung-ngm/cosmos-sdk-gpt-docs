@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/x/crisis/keeper/migrator.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/x/crisis/keeper/migrator.go)
 
 The code above defines a struct called `Migrator` that handles in-place state migrations for the `x/crisis` module in the Cosmos SDK. The `Migrator` struct has two fields: `keeper`, which is a pointer to a `Keeper` struct, and `legacySubspace`, which is an exported subspace. 
 

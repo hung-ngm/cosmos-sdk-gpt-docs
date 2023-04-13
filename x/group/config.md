@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/x/group/config.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/x/group/config.go)
 
 The code above defines a configuration struct and a function that returns the default configuration for the group module in the cosmos-sdk project. The purpose of this code is to provide a way to initialize the group module without relying on global variables.
 

@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/x/auth/signing/verify.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/x/auth/signing/verify.go)
 
 The `signing` package in the `cosmos-sdk` project contains functions and types related to transaction signing. The `VerifySignature` function is used to verify a transaction signature contained in `SignatureData` abstracting over different signing modes and single vs multi-signatures. 
 

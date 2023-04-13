@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/store/iavl/tree.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/store/iavl/tree.go)
 
 This code defines an interface called `Tree` that both mutable and immutable IAVL (interleaved AVL) trees must implement. The interface includes methods for querying, setting, and removing key-value pairs, as well as saving and deleting versions of the tree. The `Tree` interface also includes methods for getting the current version of the tree, getting the hash of the tree, and iterating over key-value pairs.
 

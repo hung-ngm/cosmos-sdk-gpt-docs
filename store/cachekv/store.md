@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/store/cachekv/store.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/store/cachekv/store.go)
 
 The `cachekv` package provides an in-memory cache for a key-value store. The `Store` struct wraps an underlying `types.KVStore` and caches its values in memory. The cache is updated on every `Set` operation and read from on every `Get` operation. The cache is flushed to the underlying store on every `Write` operation. The `Store` struct implements the `types.CacheKVStore` interface.
 

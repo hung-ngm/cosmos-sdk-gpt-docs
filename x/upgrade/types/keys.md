@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/x/upgrade/types/keys.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/x/upgrade/types/keys.go)
 
 This file defines constants and functions related to the upgrade module in the cosmos-sdk project. The upgrade module allows for upgrading the software running on a blockchain network. 
 

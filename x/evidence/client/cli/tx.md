@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/x/evidence/client/cli/tx.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/x/evidence/client/cli/tx.go)
 
 The `cli` package in the `cosmos-sdk` project contains code for the command-line interface (CLI) of the project. The `GetTxCmd` function in this file returns a CLI command that has all the native evidence module transaction commands mounted. It also mounts all child commands implemented by outside modules under a sub-command. This allows external modules to implement custom evidence types and handlers while having the ability to create and sign transactions containing them all from a single root command.
 

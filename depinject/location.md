@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/depinject/location.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/depinject/location.go)
 
 This file contains code related to dependency injection in the cosmos-sdk project. The `Location` interface and `location` struct are defined to represent the location of a function in the codebase. The `LocationFromPC` function takes a program counter (PC) value and returns a `Location` object representing the function at that location. The `LocationFromCaller` function is a convenience function that returns the `Location` of the calling function.
 

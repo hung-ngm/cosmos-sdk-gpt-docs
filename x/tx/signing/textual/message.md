@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/x/tx/signing/textual/message.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/x/tx/signing/textual/message.go)
 
 The `textual` package in the `cosmos-sdk` project contains code for rendering and parsing Protobuf messages in a human-readable textual format. The `messageValueRenderer` type is responsible for rendering and parsing Protobuf messages. It implements the `ValueRenderer` interface, which defines methods for rendering and parsing Protobuf values.
 

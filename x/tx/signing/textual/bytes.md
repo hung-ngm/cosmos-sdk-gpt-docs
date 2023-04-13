@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/x/tx/signing/textual/bytes.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/x/tx/signing/textual/bytes.go)
 
 The `textual` package in the `cosmos-sdk` project contains code for rendering and parsing Protobuf values as text. Specifically, this file provides a `ValueRenderer` implementation for Protobuf bytes. 
 

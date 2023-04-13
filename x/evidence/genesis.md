@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/x/evidence/genesis.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/x/evidence/genesis.go)
 
 The code above is part of the `cosmos-sdk` project and specifically the `evidence` module. The `evidence` module is responsible for handling evidence of misbehavior on the blockchain. This code provides two functions: `InitGenesis` and `ExportGenesis`.
 

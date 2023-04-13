@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/store/types/errors.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/store/types/errors.go)
 
 This file defines error constants and a function for generating an ABCI QueryResult from an error. The error constants are used throughout the larger project to provide meaningful error messages to users and developers. The `QueryResult` function takes an error and a boolean flag indicating whether to include debug information in the response. It then uses the `ABCIInfo` function from the `errors` package to extract the ABCI info from the error and return a `ResponseQuery` struct with the appropriate fields set.
 

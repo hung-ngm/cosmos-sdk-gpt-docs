@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/x/auth/types/keys.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/x/auth/types/keys.go)
 
 This file is a part of the cosmos-sdk project and contains code related to the "auth" module. The purpose of this code is to define constants and functions related to account authentication and storage.
 

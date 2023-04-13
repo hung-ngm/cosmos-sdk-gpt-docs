@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/x/upgrade/handler.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/x/upgrade/handler.go)
 
 The code above is a part of the cosmos-sdk project and is located in the upgrade package. The purpose of this code is to create a governance handler that manages new proposal types. Specifically, it enables SoftwareUpgradeProposal to propose an upgrade and CancelSoftwareUpgradeProposal to abort a previously voted upgrade.
 

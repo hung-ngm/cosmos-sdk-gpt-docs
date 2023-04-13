@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/x/gov/keeper/tally.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/x/gov/keeper/tally.go)
 
 The `Tally` function in the `keeper` package of the `cosmos-sdk` project is responsible for tallying the votes for a given proposal and determining whether it passes or fails. The function takes in a context and a proposal and returns a boolean indicating whether the proposal passes or fails, a boolean indicating whether the deposits should be burned, and a `TallyResult` object that contains the results of the tally.
 

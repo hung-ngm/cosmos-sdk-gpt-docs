@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/x/gov/migrations/v4/store.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/x/gov/migrations/v4/store.go)
 
 The `v4` package in the `cosmos-sdk` project contains code for migrating the store from version 3 to version 4. The `MigrateStore` function is the main function in this package and performs in-place store migrations from version 3 (v0.46) to version 4 (v0.47). The migration includes three main steps:
 

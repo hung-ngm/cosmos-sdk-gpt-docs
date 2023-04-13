@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/tools/rosetta/lib/internal/service/offline.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/tools/rosetta/lib/internal/service/offline.go)
 
 The `service` package in the `cosmos-sdk` project contains code related to the Rosetta API implementation. The code in this file defines an offline network that implements a subset of the construction API. 
 

@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/x/nft/simulation/genesis.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/x/nft/simulation/genesis.go)
 
 The `simulation` package in the `cosmos-sdk` project contains code for generating random simulation data for testing purposes. This particular file contains functions for generating random data for the `nft` module.
 

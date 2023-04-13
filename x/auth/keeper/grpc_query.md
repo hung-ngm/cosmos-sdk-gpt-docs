@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/x/auth/keeper/grpc_query.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/x/auth/keeper/grpc_query.go)
 
 The `keeper` package contains the implementation of the account keeper module for the Cosmos SDK. This module is responsible for managing accounts and their associated permissions, as well as providing functionality for querying and modifying account information.
 

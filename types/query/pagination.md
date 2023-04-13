@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/types/query/pagination.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/types/query/pagination.go)
 
 The `query` package provides functionality for pagination and querying of data stored in the `cosmos-sdk`. The `Paginate` function is the main function in this package and is used to paginate all the results in the `PrefixStore` based on the provided `PageRequest`. The `onResult` function is used to do actual unmarshaling of the data. 
 

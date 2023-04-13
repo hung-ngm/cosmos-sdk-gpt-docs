@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/docs/post.sh)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/docs/post.sh)
 
 This code is a bash script that is used to clean up the documentation files for the cosmos-sdk project. The purpose of this script is to remove unnecessary or outdated documentation files that are no longer needed in the project. 
 

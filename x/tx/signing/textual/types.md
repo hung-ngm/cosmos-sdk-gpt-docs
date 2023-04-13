@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/x/tx/signing/textual/types.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/x/tx/signing/textual/types.go)
 
 The `textual` package in the `cosmos-sdk` project provides functionality for rendering and parsing textual representations of protobuf messages. This is useful for displaying and interacting with protobuf messages in a human-readable format.
 

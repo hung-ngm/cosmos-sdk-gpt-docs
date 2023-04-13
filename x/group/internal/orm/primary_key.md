@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/x/group/internal/orm/primary_key.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/x/group/internal/orm/primary_key.go)
 
 The `PrimaryKeyTable` struct provides simpler object-style ORM (Object-Relational Mapping) methods without passing database RowIDs. Entries are persisted and loaded with a reference to their unique primary key. This struct is part of the `cosmos-sdk` project and is located in the `orm` package. 
 

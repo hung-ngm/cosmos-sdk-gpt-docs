@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/x/auth/ante/setup.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/x/auth/ante/setup.go)
 
 The `ante` package contains code that is responsible for handling the AnteHandler chain in the Cosmos SDK. The `SetUpContextDecorator` struct is a decorator that sets the gas meter in the context and wraps the next AnteHandler with a defer clause to recover from any downstream OutOfGas panics in the AnteHandler chain to return an error with information on gas provided and gas used. 
 

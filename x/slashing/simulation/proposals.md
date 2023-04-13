@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/x/slashing/simulation/proposals.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/x/slashing/simulation/proposals.go)
 
 The `simulation` package in the `cosmos-sdk` project contains code for simulating various operations in the blockchain network. This particular file contains code for simulating the update of slashing parameters in the network.
 

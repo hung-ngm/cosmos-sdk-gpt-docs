@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/x/tx/signing/context.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/x/tx/signing/context.go)
 
 The `signing` package in the `cosmos-sdk` project contains code for signing operations. This file contains the `Context` struct, which is used for retrieving the list of signers from a message where signers are specified by the `cosmos.msg.v1.signer` protobuf option. It also contains the `ProtoFileResolver` interface, which is a `protodesc.Resolver` that allows iterating over all file descriptors. 
 

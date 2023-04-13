@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/x/gov/client/proposal_handler.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/x/gov/client/proposal_handler.go)
 
 The code above defines a package called `client` that contains a type called `ProposalHandler`. The purpose of this code is to provide a way to create a command-line interface (CLI) handler for proposals in the larger project. 
 

@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/baseapp/state.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/baseapp/state.go)
 
 The code above defines a struct called `state` that contains two fields: `ms` and `ctx`. `ms` is of type `storetypes.CacheMultiStore` and `ctx` is of type `sdk.Context`. The `state` struct also has two methods: `CacheMultiStore()` and `Context()`.
 

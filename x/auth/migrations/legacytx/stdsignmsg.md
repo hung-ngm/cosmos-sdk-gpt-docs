@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/x/auth/migrations/legacytx/stdsignmsg.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/x/auth/migrations/legacytx/stdsignmsg.go)
 
 The `legacytx` package in the `cosmos-sdk` project contains code related to legacy transaction handling. The file in question defines a convenience structure called `StdSignMsg` that is used for passing along a `Msg` (message) with other requirements for a `StdSignDoc` before it is signed. This structure is primarily used in the CLI (command-line interface) of the `cosmos-sdk` project.
 

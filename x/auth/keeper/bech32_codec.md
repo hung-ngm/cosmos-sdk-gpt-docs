@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/x/auth/keeper/bech32_codec.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/x/auth/keeper/bech32_codec.go)
 
 The code defines a `bech32Codec` struct that implements the `address.Codec` interface. This interface provides methods for encoding and decoding addresses. The `NewBech32Codec` function returns a new instance of `bech32Codec` with a given prefix.
 

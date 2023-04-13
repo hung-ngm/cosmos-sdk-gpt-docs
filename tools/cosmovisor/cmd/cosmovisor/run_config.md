@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/tools/cosmovisor/cmd/cosmovisor/run_config.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/tools/cosmovisor/cmd/cosmovisor/run_config.go)
 
 This code defines a RunConfig struct and a set of functions that allow for customization of the RunConfig. The RunConfig struct defines the configuration for running a command, including the output streams for standard output and standard error. The DefaultRunConfig variable is a pre-defined RunConfig that writes to os.Stdout and os.Stderr by default.
 

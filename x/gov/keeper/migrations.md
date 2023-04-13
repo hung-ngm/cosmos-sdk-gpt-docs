@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/x/gov/keeper/migrations.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/x/gov/keeper/migrations.go)
 
 The `Migrator` struct and associated functions in this file are used for handling in-place store migrations in the `cosmos-sdk` project. Specifically, this file is part of the `gov` module, which is responsible for governance-related functionality in the Cosmos SDK.
 

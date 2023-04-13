@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/scripts/go-lint-all.bash)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/scripts/go-lint-all.bash)
 
 This bash script is used to run a linter called `golangci-lint` on all modules within the `cosmos-sdk` project. The purpose of a linter is to analyze code for potential errors, bugs, or stylistic issues. 
 

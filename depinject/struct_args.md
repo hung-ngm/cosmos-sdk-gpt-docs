@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/depinject/struct_args.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/depinject/struct_args.go)
 
 The `depinject` package provides a dependency injection framework for Go. The `In` and `Out` structs can be embedded in other structs to specify dependencies and outputs, respectively. This allows for a more flexible way of specifying dependencies and outputs than using positional parameters or return values. 
 

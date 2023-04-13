@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/x/genutil/types/genesis.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/x/genutil/types/genesis.go)
 
 The `types` package in the `cosmos-sdk` project contains various types and utilities used throughout the project. This file, `app_genesis.go`, defines the `AppGenesis` type and related methods for handling the app's genesis.
 

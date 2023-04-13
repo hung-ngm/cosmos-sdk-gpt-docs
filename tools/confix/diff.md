@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/tools/confix/diff.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/tools/confix/diff.go)
 
 The `confix` package provides functionality for comparing and printing differences between TOML configuration files. The package defines two main functions, `DiffKeys` and `DiffValues`, which take two TOML documents as input and return a slice of `Diff` structs representing the differences between the two documents. The `Diff` struct contains information about the type of difference (section or mapping), whether the key-value pair was deleted, and the key-value pair itself.
 

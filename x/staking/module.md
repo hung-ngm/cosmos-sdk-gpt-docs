@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/x/staking/module.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/x/staking/module.go)
 
 The `staking` package contains the implementation of the staking module of the Cosmos SDK. This module is responsible for managing the staking of tokens in the network, which is a critical aspect of the proof-of-stake consensus algorithm used by the Cosmos Hub.
 

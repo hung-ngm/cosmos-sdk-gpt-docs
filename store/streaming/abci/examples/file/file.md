@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/store/streaming/abci/examples/file/file.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/store/streaming/abci/examples/file/file.go)
 
 This code is a part of the cosmos-sdk project and is responsible for implementing a plugin that listens to and logs various events that occur during the execution of an ABCI (Application Blockchain Interface) application. The plugin is implemented as a gRPC server that receives data from the ABCI application and logs it to a file. 
 

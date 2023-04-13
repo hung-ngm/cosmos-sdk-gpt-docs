@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/x/slashing/keeper/infractions.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/x/slashing/keeper/infractions.go)
 
 The `HandleValidatorSignature` function is a method of the `Keeper` struct in the `cosmos-sdk` project. This function is responsible for handling a validator signature and must be called once per validator per block. The purpose of this function is to keep track of whether a validator has signed a block or not, and to punish validators who miss too many blocks.
 

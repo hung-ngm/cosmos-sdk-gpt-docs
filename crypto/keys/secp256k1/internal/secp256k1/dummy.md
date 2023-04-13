@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/crypto/keys/secp256k1/internal/secp256k1/dummy.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/crypto/keys/secp256k1/internal/secp256k1/dummy.go)
 
 This file is a workaround for an issue with the `go mod vendor` command, which is used to vendor dependencies for a Go project. The issue is that `go mod vendor` won't vendor C files if there's no Go file in the same directory. This would prevent the `secp256k1.h` file from being vendored, which is a problem for the `cosmos-sdk` project.
 

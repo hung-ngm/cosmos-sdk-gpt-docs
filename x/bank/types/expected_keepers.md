@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/x/bank/types/expected_keepers.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/x/bank/types/expected_keepers.go)
 
 The code defines an interface called `AccountKeeper` which is used in the `x/bank` module of the Cosmos SDK. This interface defines a set of methods that must be implemented by any struct that wants to act as an account keeper. 
 

@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/x/params/client/proposal_handler.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/x/params/client/proposal_handler.go)
 
 The `client` package in the `cosmos-sdk` project contains code related to the client-side functionality of the Cosmos SDK. This particular file defines a variable called `ProposalHandler`, which is used as the param change proposal handler. 
 

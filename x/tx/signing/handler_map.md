@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/x/tx/signing/handler_map.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/x/tx/signing/handler_map.go)
 
 The `signing` package in the `cosmos-sdk` project contains code related to transaction signing. This particular file defines a `HandlerMap` type that aggregates several sign mode handlers together for convenient generation of sign bytes based on sign mode.
 

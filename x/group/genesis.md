@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/x/group/genesis.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/x/group/genesis.go)
 
 The code above is a part of the cosmos-sdk project and it defines the `group` package. The package contains the `GenesisState` struct and its associated methods. The `GenesisState` struct is used to represent the initial state of the blockchain. It contains information about groups, group policies, group members, proposals, and votes.
 

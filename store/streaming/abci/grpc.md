@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/store/streaming/abci/grpc.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/store/streaming/abci/grpc.go)
 
 The code defines the implementation of the ABCIListener interface for the cosmos-sdk project. The ABCIListener interface is used to listen to and respond to various ABCI (Application BlockChain Interface) messages that are sent between the Tendermint consensus engine and the application running on top of it. The GRPCClient struct is an implementation of the ABCIListener interface that communicates over RPC. 
 

@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/crypto/keys/secp256k1/internal/secp256k1/libsecp256k1/src/ecmult_const.h)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/crypto/keys/secp256k1/internal/secp256k1/libsecp256k1/src/ecmult_const.h)
 
 This code defines a function called `secp256k1_ecmult_const` that performs a constant-time scalar multiplication on an elliptic curve point. The elliptic curve used is the secp256k1 curve, which is commonly used in blockchain applications such as Bitcoin. 
 

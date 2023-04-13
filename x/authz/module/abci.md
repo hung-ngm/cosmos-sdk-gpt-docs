@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/x/authz/module/abci.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/x/authz/module/abci.go)
 
 The code above is a function called `BeginBlocker` that is part of the `authz` package in the `cosmos-sdk` project. This function is called at the beginning of every block and its main purpose is to delete all the mature grants. 
 

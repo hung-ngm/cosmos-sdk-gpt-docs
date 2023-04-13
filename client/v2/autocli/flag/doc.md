@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/client/v2/autocli/flag/doc.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/client/v2/autocli/flag/doc.go)
 
 The `flag` package in the `cosmos-sdk` project provides functionality for managing command line flags and positional arguments based on protobuf message fields. This package is designed to simplify the process of defining and parsing command line arguments for applications built using the `cosmos-sdk`.
 

@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/api/cosmos/query/v1/query.pulsar.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/api/cosmos/query/v1/query.pulsar.go)
 
 This code defines an extension field to the `MethodOptions` message in the `google.protobuf` package. The extension field is called `module_query_safe` and is used to indicate whether a query is safe to be called from within the state machine, for example from another module's Keeper, via ADR-033 calls or from CosmWasm contracts. 
 

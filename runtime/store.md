@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/runtime/store.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/runtime/store.go)
 
 The code defines a set of interfaces and functions that provide a key-value store service for the Cosmos SDK project. The `NewKVStoreService` function creates a new instance of the `kvStoreService` struct, which implements the `store.KVStoreService` interface. This interface defines methods for opening different types of key-value stores, such as memory stores and transient stores. 
 

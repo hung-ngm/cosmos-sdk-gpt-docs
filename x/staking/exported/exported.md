@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/x/staking/exported/exported.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/x/staking/exported/exported.go)
 
 This code defines an interface called `Subspace` that is used for migration of managed parameters in the `x/params` module of the Cosmos SDK. The `Subspace` interface has a single method called `GetParamSet` that takes in a `sdk.Context` and a `paramtypes.ParamSet` as parameters. 
 

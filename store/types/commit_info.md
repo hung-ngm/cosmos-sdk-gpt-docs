@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/store/types/commit_info.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/store/types/commit_info.go)
 
 The `types` package in the `cosmos-sdk` project contains various types and functions used throughout the project. This particular file defines methods for the `StoreInfo` and `CommitInfo` types.
 

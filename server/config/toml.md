@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/server/config/toml.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/server/config/toml.go)
 
 The code defines a configuration file for the cosmos-sdk project. The configuration file is written in TOML format and contains various configuration options for the project. The code provides a default configuration template that can be customized by the user. The configuration options are grouped into different sections such as base configuration, telemetry configuration, API configuration, gRPC configuration, state sync configuration, state streaming, and mempool.
 

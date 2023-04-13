@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/contrib/rosetta/configuration/bootstrap.json)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/contrib/rosetta/configuration/bootstrap.json)
 
 The code above is a JSON object that represents an account balance in the Cosmos SDK project. The purpose of this code is to store and retrieve account balances for users of the Cosmos network. 
 

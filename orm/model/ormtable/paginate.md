@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/orm/model/ormtable/paginate.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/orm/model/ormtable/paginate.go)
 
 The `paginate` function in the `ormtable` package is used to paginate through a set of data. It takes an `Iterator` and a set of `Options` as input and returns a new `Iterator` that can be used to iterate over a subset of the original data. The `Options` parameter is an optional set of parameters that can be used to control the pagination, such as the offset and limit of the data to be returned.
 

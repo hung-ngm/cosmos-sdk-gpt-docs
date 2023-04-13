@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/crypto/keys/secp256r1/pubkey.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/crypto/keys/secp256r1/pubkey.go)
 
 This file contains code related to the secp256r1 elliptic curve cryptography algorithm. It provides implementations of various interfaces defined in the cosmos-sdk project related to public key cryptography. 
 

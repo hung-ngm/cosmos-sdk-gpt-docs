@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/api/cosmos/reflection/v1/reflection_grpc.pb.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/api/cosmos/reflection/v1/reflection_grpc.pb.go)
 
 This code defines the ReflectionServiceClient and ReflectionServiceServer interfaces for the cosmos-sdk project. The purpose of these interfaces is to enable easier generation of dynamic clients by querying all the file descriptors in the app. The `FileDescriptors` method is defined in both interfaces and takes a `FileDescriptorsRequest` as input and returns a `FileDescriptorsResponse`. 
 

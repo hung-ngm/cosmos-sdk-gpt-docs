@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/x/bank/keeper/view.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/x/bank/keeper/view.go)
 
 The code defines the BaseViewKeeper struct and the ViewKeeper interface, which are used to facilitate read-only access to account balances in the Cosmos SDK project. The BaseViewKeeper struct implements the ViewKeeper interface and provides methods for retrieving and validating account balances. 
 

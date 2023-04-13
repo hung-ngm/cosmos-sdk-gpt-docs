@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/core/appmodule/option.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/core/appmodule/option.go)
 
 The `appmodule` package contains code that provides functional options for implementing modules in the larger `cosmos-sdk` project. The purpose of this code is to allow developers to register providers and invokers with the dependency injection system that will be run within the module scope. 
 

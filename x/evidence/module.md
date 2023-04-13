@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/x/evidence/module.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/x/evidence/module.go)
 
 The code is a part of the cosmos-sdk project and implements the evidence module. The evidence module is responsible for handling evidence of misbehavior submitted by validators. The module provides a set of functionalities to submit, query, and handle evidence. 
 

@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/x/auth/vesting/client/cli/tx.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/x/auth/vesting/client/cli/tx.go)
 
 The `cli` package in the `cosmos-sdk` project contains command-line interface (CLI) code for interacting with the vesting module. The vesting module is responsible for managing vesting accounts, which are accounts that hold tokens that are gradually released over time. The vesting module provides three types of vesting accounts: delayed vesting accounts, continuous vesting accounts, and permanently locked accounts.
 

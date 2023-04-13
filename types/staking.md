@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/types/staking.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/types/staking.go)
 
 This file contains constants and functions related to the consensus mechanism in the cosmos-sdk project. The consensus mechanism is responsible for ensuring that all nodes in the network agree on the state of the blockchain. 
 

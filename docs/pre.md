@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/docs/pre.sh)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/docs/pre.sh)
 
 This script is responsible for generating and organizing documentation for the cosmos-sdk project. It creates pages for each module in the project by iterating through the directories in the `../x/` directory and copying the `README.md` file from each module to a corresponding directory in `docs/modules/`. It also includes vesting and transaction modules from the `auth` submodule in the `docs/modules/auth/` directory. 
 

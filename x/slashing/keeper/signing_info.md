@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/x/slashing/keeper/signing_info.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/x/slashing/keeper/signing_info.go)
 
 The code provided is a part of the `cosmos-sdk` project and contains the implementation of the `Keeper` struct, which is responsible for managing the state of the `slashing` module. The `slashing` module is responsible for detecting and punishing validators that misbehave in the network. 
 

@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/x/gov/migrations/v3/store.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/x/gov/migrations/v3/store.go)
 
 The code provided is a part of the cosmos-sdk project and is located in the v3 package. The purpose of this code is to perform in-place store migrations from v2 (v0.43) to v3 (v0.46) of the cosmos-sdk. The migration includes two main functions: `migrateProposals` and `migrateVotes`.
 

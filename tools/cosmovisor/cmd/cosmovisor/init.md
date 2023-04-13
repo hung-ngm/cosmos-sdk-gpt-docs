@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/tools/cosmovisor/cmd/cosmovisor/init.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/tools/cosmovisor/cmd/cosmovisor/init.go)
 
 The code is a part of the `cosmos-sdk` project and is located in the main package. The purpose of this code is to initialize a `cosmovisor` daemon home directory. `Cosmovisor` is a tool that allows for the management of multiple versions of a blockchain application. It is used to upgrade the application without any downtime. The `initCmd` is a `cobra` command that takes the path to the executable as an argument and initializes the `cosmovisor` directories, current link, and initial executable. 
 

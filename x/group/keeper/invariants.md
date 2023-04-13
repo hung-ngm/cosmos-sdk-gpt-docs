@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/x/group/keeper/invariants.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/x/group/keeper/invariants.go)
 
 The code is a part of the cosmos-sdk project and is located in the keeper package. The purpose of this code is to register and check invariants for groups. The RegisterInvariants function registers the GroupTotalWeightInvariant function as an invariant with the sdk.InvariantRegistry. The GroupTotalWeightInvariant function checks that the total weight of a group is equal to the sum of its members' weights. 
 

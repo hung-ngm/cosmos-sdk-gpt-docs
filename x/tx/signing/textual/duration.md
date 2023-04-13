@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/x/tx/signing/textual/duration.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/x/tx/signing/textual/duration.go)
 
 The `textual` package contains a `durationValueRenderer` type that implements the `ValueRenderer` interface. This type is used to render protocol buffer Duration messages. The `NewDurationValueRenderer` function returns a new instance of `durationValueRenderer`. 
 

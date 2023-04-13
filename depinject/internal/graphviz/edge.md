@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/depinject/internal/graphviz/edge.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/depinject/internal/graphviz/edge.go)
 
 The `graphviz` package contains code for rendering graphs using the Graphviz library. This specific file defines an `Edge` struct that represents an edge in a graph. 
 

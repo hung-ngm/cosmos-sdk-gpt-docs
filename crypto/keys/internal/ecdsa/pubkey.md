@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/crypto/keys/internal/ecdsa/pubkey.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/crypto/keys/internal/ecdsa/pubkey.go)
 
 The `ecdsa` package in the `cosmos-sdk` project provides functionality for working with ECDSA (Elliptic Curve Digital Signature Algorithm) public and private keys. This package contains a `PubKey` struct that represents an ECDSA public key and provides methods for working with it.
 

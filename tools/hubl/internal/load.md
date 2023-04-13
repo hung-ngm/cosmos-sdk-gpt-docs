@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/tools/hubl/internal/load.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/tools/hubl/internal/load.go)
 
 The `ChainInfo` struct and its associated methods are used to load and cache information about a specific blockchain network. This information includes the protobuf file descriptors and the module options for the network's autocli. 
 

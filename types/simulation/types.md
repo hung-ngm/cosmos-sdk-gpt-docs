@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/types/simulation/types.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/types/simulation/types.go)
 
 The `simulation` package in the `cosmos-sdk` project provides functionality for simulating the behavior of the Cosmos SDK blockchain. This file contains various interfaces and types used in the simulation process.
 

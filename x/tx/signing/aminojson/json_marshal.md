@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/x/tx/signing/aminojson/json_marshal.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/x/tx/signing/aminojson/json_marshal.go)
 
 The `aminojson` package provides an implementation of a JSON encoder that uses the Amino JSON encoding rules for protobuf messages. The `Encoder` type is the main type in this package, and it provides methods for encoding protobuf messages to JSON. 
 

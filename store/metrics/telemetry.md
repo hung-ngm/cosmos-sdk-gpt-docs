@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/store/metrics/telemetry.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/store/metrics/telemetry.go)
 
 The `metrics` package provides a set of metrics for the `store` package in the `cosmos-sdk` project. The `StoreMetrics` interface defines a single method `MeasureSince` that is used to measure the time elapsed since a given point in time. The `Metrics` struct implements the `StoreMetrics` interface and provides a wrapper functionality for emitting a time measure metric with global labels (if any). The `Labels` field in the `Metrics` struct is an array of `metrics.Label` that contains the labels set by the node operator. The `NewMetrics` function returns a new instance of the `Metrics` struct with the labels set by the node operator. If there are no global labels, an empty `Metrics` struct is returned.
 

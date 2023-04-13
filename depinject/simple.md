@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/depinject/simple.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/depinject/simple.go)
 
 The `depinject` package provides a dependency injection framework for the `cosmos-sdk` project. This file defines two structs, `simpleProvider` and `simpleResolver`, which are used to provide and resolve dependencies, respectively.
 

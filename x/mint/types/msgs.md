@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/x/mint/types/msgs.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/x/mint/types/msgs.go)
 
 This file is a part of the cosmos-sdk project and contains code related to message types for updating parameters. The purpose of this code is to define the message types and provide functions for signing and verifying these messages.
 

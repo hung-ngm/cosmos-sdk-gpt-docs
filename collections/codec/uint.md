@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/collections/codec/uint.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/collections/codec/uint.go)
 
 This code defines three key codecs for encoding and decoding unsigned integer keys of different sizes: uint64Key, uint32Key, and uint16Key. These codecs implement the KeyCodec interface, which requires methods for encoding, decoding, and sizing keys, as well as methods for encoding and decoding keys in JSON format. 
 

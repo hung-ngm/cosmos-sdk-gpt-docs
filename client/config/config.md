@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/client/config/config.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/client/config/config.go)
 
 The `config` package in the `cosmos-sdk` project provides functionality for reading and updating client configuration settings. The `ClientConfig` struct defines the configuration settings, including `ChainID`, `KeyringBackend`, `Output`, `Node`, and `BroadcastMode`. The `DefaultConfig` function returns a new `ClientConfig` instance with default values for each field.
 

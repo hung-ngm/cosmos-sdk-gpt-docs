@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/x/crisis/keeper/keeper.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/x/crisis/keeper/keeper.go)
 
 The code defines the `Keeper` struct and associated methods for the `x/crisis` module in the Cosmos SDK. The `Keeper` struct contains information about the module's invariants, the store key, the binary codec, the authority, the supply keeper, and the fee collector name. 
 

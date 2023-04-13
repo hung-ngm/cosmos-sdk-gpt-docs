@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/api/cosmos/mint/v1beta1/tx_grpc.pb.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/api/cosmos/mint/v1beta1/tx_grpc.pb.go)
 
 This code defines a gRPC service for the `cosmos-sdk` project's `mint` module. Specifically, it defines a `Msg` service with a single method called `UpdateParams`. This method is used to update the parameters of the `x/mint` module, which is responsible for minting new tokens in the Cosmos network. 
 

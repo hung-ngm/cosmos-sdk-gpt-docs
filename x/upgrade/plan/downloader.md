@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/x/upgrade/plan/downloader.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/x/upgrade/plan/downloader.go)
 
 The `plan` package in the `cosmos-sdk` project contains functions that download and validate upgrades for a daemon. The `DownloadUpgrade` function downloads the upgrade from the provided URL and saves it to the specified directory. The URL must contain a checksum parameter that matches the downloaded file. If the URL is not an archive, the file is downloaded and saved to `{dstRoot}/bin/{daemonName}`. If the URL is an archive, it is downloaded and unpacked to `{dstRoot}`. If the archive does not contain a `/bin/{daemonName}` file, the function attempts to move `/{daemonName}` to `/bin/{daemonName}`. If the archive does not contain either `/bin/{daemonName}` or `/{daemonName}`, an error is returned. If the download is successful, the function ensures that `{dstRoot}/bin/{daemonName}` is a regular executable file.
 

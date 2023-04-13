@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/x/nft/simulation/operations.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/x/nft/simulation/operations.go)
 
 The `simulation` package in the `cosmos-sdk` project contains code for simulating transactions and other operations in the blockchain network. This particular file defines a set of weighted operations for the `nft` module, which is responsible for managing non-fungible tokens. 
 

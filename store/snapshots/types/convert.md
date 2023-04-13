@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/store/snapshots/types/convert.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/store/snapshots/types/convert.go)
 
 The code above is a part of the `cosmos-sdk` project and is located in the `types` package. This code provides two functions that convert an ABCI snapshot to a snapshot and vice versa. The main purpose of these functions is to encode and decode the SDK metadata.
 

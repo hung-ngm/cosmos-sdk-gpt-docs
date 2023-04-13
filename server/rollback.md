@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/server/rollback.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/server/rollback.go)
 
 The `NewRollbackCmd` function creates a command to rollback the state of the CometBFT and multistore by one height. This function takes two arguments: `appCreator` and `defaultNodeHome`. The `appCreator` argument is a function that creates an instance of the application, while `defaultNodeHome` is the default home directory for the application.
 

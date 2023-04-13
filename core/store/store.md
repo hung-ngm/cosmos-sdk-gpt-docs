@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/core/store/store.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/core/store/store.go)
 
 The code defines an interface called KVStore, which describes the basic methods for interacting with key-value stores. The methods include Get, Has, Set, Delete, Iterator, and ReverseIterator. 
 

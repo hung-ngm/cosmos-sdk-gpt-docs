@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/baseapp/options.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/baseapp/options.go)
 
 This file contains optional functions for the BaseApp package in the cosmos-sdk project. The functions are used to set various options and parameters for the BaseApp. 
 

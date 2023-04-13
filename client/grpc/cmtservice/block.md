@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/client/grpc/cmtservice/block.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/client/grpc/cmtservice/block.go)
 
 The `cmtservice` package contains functions related to the CometBFT consensus algorithm. The `getBlock` function retrieves a block at a given height from the node specified in the `clientCtx` context. It returns a `ResultBlock` struct, which contains information about the block, such as its header, transactions, and evidence.
 

@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/store/internal/proofs/convert.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/store/internal/proofs/convert.go)
 
 The `proofs` package in the `cosmos-sdk` project contains functions for converting cryptographic proofs between different formats. This file contains two functions, `ConvertExistenceProof` and `convertInnerOps`, which are used to convert a proof from the `cmtprotocrypto` format to the `ics23` format.
 

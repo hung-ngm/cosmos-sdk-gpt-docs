@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/x/feegrant/simulation/decoder.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/x/feegrant/simulation/decoder.go)
 
 The `simulation` package in the `cosmos-sdk` project contains code related to simulating blockchain behavior. The `NewDecodeStore` function in this file is a closure that returns a decoder function used to unmarshal key-value pairs in the simulation. 
 

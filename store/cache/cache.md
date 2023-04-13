@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/store/cache/cache.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/store/cache/cache.go)
 
 The `cache` package in the `cosmos-sdk` project provides an implementation of an inter-block (persistent) cache that wraps a `CommitKVStore`. The `CommitKVStoreCache` type implements this cache and provides a read-through and write-through cache for the underlying `CommitKVStore`. The cache is implemented using an Adaptive Replacement Cache (ARC) provided by the `github.com/hashicorp/golang-lru` package. 
 

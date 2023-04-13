@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/x/auth/types/credentials.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/x/auth/types/credentials.go)
 
 The `types` package in the `cosmos-sdk` project contains various data types and functions that are used throughout the project. The code in this file defines two types of accounts: `BaseAccount` and `ModuleCredential`.
 

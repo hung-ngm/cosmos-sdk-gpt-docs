@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/api/cosmos/consensus/v1/query_grpc.pb.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/api/cosmos/consensus/v1/query_grpc.pb.go)
 
 This code defines a gRPC service for querying the parameters of the x/consensus_param module in the Cosmos SDK. The service is defined in the `Query` interface, which has a single method `Params` that takes a `QueryParamsRequest` message and returns a `QueryParamsResponse` message. The `QueryParamsRequest` message is empty, indicating that no parameters are required to query the consensus parameters. The `QueryParamsResponse` message contains the consensus parameters as a serialized byte array.
 

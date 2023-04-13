@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/api/cosmos/authz/v1beta1/query_grpc.pb.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/api/cosmos/authz/v1beta1/query_grpc.pb.go)
 
 This code defines a gRPC service for querying authorization grants in the cosmos-sdk project. The service provides three methods: Grants, GranterGrants, and GranteeGrants. 
 

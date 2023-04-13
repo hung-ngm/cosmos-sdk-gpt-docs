@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/store/snapshots/chunk.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/store/snapshots/chunk.go)
 
 The `snapshots` package contains code for reading and writing snapshot data. Snapshots are a way to store a copy of the state of a blockchain at a particular point in time, which can be used to speed up syncing new nodes to the network. 
 

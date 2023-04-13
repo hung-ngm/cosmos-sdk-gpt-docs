@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/tools/confix/cmd/confix/main.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/tools/confix/cmd/confix/main.go)
 
 This code is a simple command-line interface (CLI) tool that allows users to configure and manage various settings within the cosmos-sdk project. The `main` function imports the `confixcmd` package, which contains the necessary functions and methods to execute the configuration commands. 
 

@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/crypto/keys/secp256k1/internal/secp256k1/libsecp256k1/src/eckey.h)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/crypto/keys/secp256k1/internal/secp256k1/libsecp256k1/src/eckey.h)
 
 The code above is a header file for the `secp256k1_eckey` module in the `cosmos-sdk` project. This module provides functions for parsing and serializing public keys, as well as for tweaking private and public keys.
 

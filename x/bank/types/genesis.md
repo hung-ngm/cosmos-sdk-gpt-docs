@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/x/bank/types/genesis.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/x/bank/types/genesis.go)
 
 The code above is part of the Cosmos SDK project and is located in the types package. This file contains the definition of the GenesisState struct and several functions that operate on it. The GenesisState struct represents the initial state of the blockchain, and it contains information about the initial distribution of tokens, the parameters of the blockchain, and other metadata.
 

@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/client/v2/autocli/flag/message_json.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/client/v2/autocli/flag/message_json.go)
 
 The code defines a custom flag type for parsing JSON-encoded protocol buffer messages. It is part of the cosmos-sdk project and is located in the `flag` package. 
 

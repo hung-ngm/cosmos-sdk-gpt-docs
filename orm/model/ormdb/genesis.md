@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/orm/model/ormdb/genesis.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/orm/model/ormdb/genesis.go)
 
 The `ormdb` package contains code related to object-relational mapping (ORM) for the Cosmos SDK project. The `appModuleGenesisWrapper` struct is a wrapper around a `moduleDB` struct that provides methods for initializing, exporting, validating, and retrieving data from the database. 
 

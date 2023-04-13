@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/x/group/errors/orm.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/x/group/errors/orm.go)
 
 This code defines a set of error messages related to the Object-Relational Mapping (ORM) package in the cosmos-sdk project. The purpose of this code is to provide clear and consistent error messages for common errors that may occur when using the ORM package. 
 

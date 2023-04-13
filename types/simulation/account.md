@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/types/simulation/account.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/types/simulation/account.go)
 
 The `simulation` package in the `cosmos-sdk` project contains code that is used for simulating various aspects of the Cosmos blockchain. The `Account` struct in this file contains a private key, public key, address, and consensus key. The `Equals` method checks if two accounts are equal by comparing their addresses. The `RandomAcc` function picks a random account from an array of accounts and returns it along with its index. The `RandomAccounts` function generates a slice of `n` random accounts, each with a randomly generated private key, public key, and address. The `FindAccount` function iterates over an array of accounts to find the one that matches the given address. The `RandomFees` function returns a random fee by selecting a random coin denomination and amount from the account's available balance. If the user doesn't have enough funds for paying fees, it returns empty coins.
 

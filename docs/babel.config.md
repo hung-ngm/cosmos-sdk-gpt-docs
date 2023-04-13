@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/docs/babel.config.js)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/docs/babel.config.js)
 
 This code exports a JavaScript object that contains a single property called `presets`. The value of this property is an array that contains a single element, which is the result of calling the `require.resolve()` function with an argument of `@docusaurus/core/lib/babel/preset`.
 

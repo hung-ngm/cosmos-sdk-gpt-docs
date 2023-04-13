@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/server/api/server.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/server/api/server.go)
 
 The `api` package in the `cosmos-sdk` project contains the implementation of the server's API interface. The `Server` struct defines the API server and its properties. The `Start` method starts the API server and delegates the configuration options to the CometBFT JSON RPC server. The `Close` method closes the API server. The `SetTelemetry` method sets the telemetry metrics for the server.
 

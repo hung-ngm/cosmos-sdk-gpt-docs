@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/x/auth/signing/handler_map.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/x/auth/signing/handler_map.go)
 
 The `SignModeHandlerMap` type is a struct that implements the `SignModeHandler` interface. It is used to aggregate multiple `SignModeHandler`s into a single handler. The purpose of this code is to provide a way to handle different signing modes for transactions in the Cosmos SDK.
 

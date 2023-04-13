@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/depinject/internal/codegen/ident.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/depinject/internal/codegen/ident.go)
 
 The `codegen` package contains code generation utilities for the `cosmos-sdk` project. The `CreateIdent` function generates a new identifier that is unique across the entire file. This is useful for generating code that does not conflict with reserved symbols, top-level declarations, and other defined identifiers.
 

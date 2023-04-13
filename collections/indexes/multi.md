@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/collections/indexes/multi.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/collections/indexes/multi.go)
 
 The `indexes` package in the `cosmos-sdk` project contains code for creating and managing indexes. The `Multi` type in this package is a common index that can be used to create a reference between a field of value and its primary key. Multiple primary keys can be mapped to the same reference key as the index does not enforce uniqueness constraints. 
 

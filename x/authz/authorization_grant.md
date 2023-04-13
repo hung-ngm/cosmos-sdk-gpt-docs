@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/x/authz/authorization_grant.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/x/authz/authorization_grant.go)
 
 The `authz` package contains code related to authorization and permissions in the Cosmos SDK. The file contains three functions and a struct.
 

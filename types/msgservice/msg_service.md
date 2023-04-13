@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/types/msgservice/msg_service.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/types/msgservice/msg_service.go)
 
 The `msgservice` package provides functionality for registering message services in the cosmos-sdk project. The `RegisterMsgServiceDesc` function is used to register all `type_urls` from message services described in `sd` into the registry. 
 

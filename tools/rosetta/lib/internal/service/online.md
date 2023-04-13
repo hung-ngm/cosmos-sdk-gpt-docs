@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/tools/rosetta/lib/internal/service/online.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/tools/rosetta/lib/internal/service/online.go)
 
 The `service` package contains code related to building a single network adapter for the Cosmos SDK project. The `NewOnlineNetwork` function creates a new instance of the `OnlineNetwork` struct, which groups together all the components required for the full Rosetta implementation. The function takes in three parameters: `network`, `client`, and `logger`. `network` is a pointer to a `types.NetworkIdentifier` struct that identifies the network and is static. `client` is a `crgtypes.Client` interface that is used to query the Cosmos app and CometBFT. `logger` is a `log.Logger` interface that is used for logging.
 

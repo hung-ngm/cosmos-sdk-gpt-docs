@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/x/bank/types/keys.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/x/bank/types/keys.go)
 
 This file is part of the `cosmos-sdk` project and defines various constants, KVStore keys, and a codec for encoding balances in a backwards compatible way. 
 

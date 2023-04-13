@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/x/bank/exported/exported.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/x/bank/exported/exported.go)
 
 The code defines two interfaces, `GenesisBalance` and `Subspace`, which are used in the larger cosmos-sdk project. 
 

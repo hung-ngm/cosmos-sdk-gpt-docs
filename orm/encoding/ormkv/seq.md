@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/orm/encoding/ormkv/seq.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/orm/encoding/ormkv/seq.go)
 
 The `SeqCodec` struct is a codec used for auto-incrementing uint64 primary key sequences in the cosmos-sdk project. This codec is used to encode and decode entries in the key-value store. 
 

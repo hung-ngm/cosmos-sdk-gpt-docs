@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/api/cosmos/upgrade/v1beta1/tx_grpc.pb.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/api/cosmos/upgrade/v1beta1/tx_grpc.pb.go)
 
 This code defines a gRPC service for the cosmos-sdk project that handles software upgrades. The `MsgClient` interface defines two methods: `SoftwareUpgrade` and `CancelUpgrade`. These methods are used to initiate and cancel software upgrades, respectively. The `MsgServer` interface defines the server-side implementation of these methods. 
 

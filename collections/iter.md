@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/collections/iter.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/collections/iter.go)
 
 The `collections` package provides a set of generic interfaces and implementations for key-value stores. The purpose of this code is to define a set of interfaces and functions that can be used to iterate over a range of keys in a key-value store. 
 

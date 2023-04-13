@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/tools/confix/log.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/tools/confix/log.go)
 
 The `confix` package contains a function called `WithLogWriter` that is used to attach a logger to a context and send output to a specified writer. This function is a convenience wrapper for the `transform.WithLogWriter` function from the `tomledit` package. 
 

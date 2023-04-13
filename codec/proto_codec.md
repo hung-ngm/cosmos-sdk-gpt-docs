@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/codec/proto_codec.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/codec/proto_codec.go)
 
 The `codec` package in the `cosmos-sdk` project provides an implementation of a codec that utilizes Protobuf for both binary and JSON encoding. This package contains the `ProtoCodec` type, which implements the `Codec` interface and the `ProtoCodecMarshaler` interface. The `ProtoCodec` type is responsible for encoding and decoding Protobuf messages to and from binary and JSON formats.
 

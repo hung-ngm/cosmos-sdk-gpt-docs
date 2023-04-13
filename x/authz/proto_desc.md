@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/x/authz/proto_desc.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/x/authz/proto_desc.go)
 
 The code above is a part of the `authz` package in the `cosmos-sdk` project. It provides a function called `MsgServiceDesc()` that returns a `ServiceDesc` object for the `Msg` server. 
 

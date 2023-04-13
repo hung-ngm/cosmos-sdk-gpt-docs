@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/orm/encoding/ormfield/codec.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/orm/encoding/ormfield/codec.go)
 
 This code defines an interface called `Codec` that is used for decoding and encoding values in ORM index keys. The `Codec` interface has several methods that are used for decoding and encoding values, comparing two values of the same type, and estimating the buffer size needed to encode a field. 
 

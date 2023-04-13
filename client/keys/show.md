@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/client/keys/show.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/client/keys/show.go)
 
 The `keys` package provides functionality for managing cryptographic keys used in the Cosmos SDK. The `ShowKeysCmd` function is a command-line interface (CLI) command that retrieves key information by name or address. The command takes in a list of key names or addresses and displays the details of each key. If multiple names or addresses are provided, an ephemeral multisig key will be created under the name "multi" consisting of all the keys provided by name and multisig threshold.
 

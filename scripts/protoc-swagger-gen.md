@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/scripts/protoc-swagger-gen.sh)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/scripts/protoc-swagger-gen.sh)
 
 This script is used to generate and combine Swagger files for the cosmos-sdk project. Swagger is a tool used for documenting RESTful APIs. 
 

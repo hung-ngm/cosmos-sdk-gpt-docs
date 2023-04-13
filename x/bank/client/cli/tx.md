@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/x/bank/client/cli/tx.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/x/bank/client/cli/tx.go)
 
 The `cli` package in the `cosmos-sdk` project contains code for the command-line interface (CLI) of the `x/bank` module. This module provides functionality for sending and receiving tokens in the Cosmos network. The code in this file defines CLI commands for sending tokens from one account to another and for sending tokens from one account to multiple accounts.
 

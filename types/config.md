@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/types/config.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/types/config.go)
 
 The `types` package in the `cosmos-sdk` project contains the `Config` struct and related methods that hold the SDK configuration parameters. The `Config` struct is used to initialize certain configuration parameters for the SDK. The `NewConfig()` function returns a new `Config` instance with default values. The `GetConfig()` function returns the `Config` instance for the SDK. The `GetSealedConfig()` function returns the `Config` instance for the SDK if/once it is sealed. The `Seal()` method seals the `Config` such that the `Config` state could not be modified further. 
 

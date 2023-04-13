@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/crypto/keys/secp256k1/internal/secp256k1/libsecp256k1/src/java/org/bitcoin/Secp256k1Context.java)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/crypto/keys/secp256k1/internal/secp256k1/libsecp256k1/src/java/org/bitcoin/Secp256k1Context.java)
 
 The `Secp256k1Context` class in the `cosmos-sdk` project is responsible for holding a reference to the context used in native methods for handling ECDSA (Elliptic Curve Digital Signature Algorithm) operations. The purpose of this class is to provide a way to interact with the native library `secp256k1` which is used for cryptographic operations related to the Bitcoin protocol.
 

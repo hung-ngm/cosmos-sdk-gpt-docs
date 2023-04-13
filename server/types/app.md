@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/server/types/app.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/server/types/app.go)
 
 The `types` package in the `cosmos-sdk` project defines various types and interfaces used throughout the project. This file in particular defines several interfaces and types related to the creation and initialization of a Cosmos SDK application.
 

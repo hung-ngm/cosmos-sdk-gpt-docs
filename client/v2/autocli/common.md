@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/client/v2/autocli/common.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/client/v2/autocli/common.go)
 
 The `autocli` package provides functionality for automatically generating CLI commands for gRPC services. This code defines several methods that are used to build and enhance CLI commands for gRPC methods.
 

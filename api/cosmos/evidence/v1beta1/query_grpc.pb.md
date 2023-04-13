@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/api/cosmos/evidence/v1beta1/query_grpc.pb.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/api/cosmos/evidence/v1beta1/query_grpc.pb.go)
 
 This code defines the client and server interfaces for the Query service in the cosmos-sdk project's evidencev1beta1 package. The Query service provides methods for querying evidence related to the Cosmos blockchain. 
 

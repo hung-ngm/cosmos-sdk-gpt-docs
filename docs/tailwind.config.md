@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/docs/tailwind.config.js)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/docs/tailwind.config.js)
 
 This code exports a configuration object for the Tailwind CSS framework. Tailwind CSS is a utility-first CSS framework that provides pre-defined classes for common styles such as spacing, typography, and colors. The configuration object defines the values for various properties such as borderRadius, fontFamily, fontSize, spacing, and colors. These values can be customized to suit the needs of the project.
 

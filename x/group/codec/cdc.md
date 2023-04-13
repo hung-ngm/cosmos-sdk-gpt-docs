@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/x/group/codec/cdc.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/x/group/codec/cdc.go)
 
 The code above is a package called `codec` that is part of the larger `cosmos-sdk` project. The purpose of this package is to provide functionality for encoding and decoding data structures used in the project. 
 

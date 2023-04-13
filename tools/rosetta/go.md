@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/tools/rosetta/go.mod)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/tools/rosetta/go.mod)
 
 This file is a `go.mod` file that specifies the dependencies required for the `cosmos-sdk` project. The `go.mod` file is used by the Go toolchain to manage dependencies and ensure that the correct versions of each dependency are used.
 

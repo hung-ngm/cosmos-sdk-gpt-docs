@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/crypto/keys/secp256k1/internal/secp256k1/libsecp256k1/contrib/lax_der_privatekey_parsing.h)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/crypto/keys/secp256k1/internal/secp256k1/libsecp256k1/contrib/lax_der_privatekey_parsing.h)
 
 This file contains code snippets that parse DER private keys with various errors and violations. It also contains code to serialize private keys in a compatible manner. These functions are meant for compatibility with applications that require BER encoded keys. When working with secp256k1-specific code, the simple 32-byte private keys normally used by the library are sufficient.
 

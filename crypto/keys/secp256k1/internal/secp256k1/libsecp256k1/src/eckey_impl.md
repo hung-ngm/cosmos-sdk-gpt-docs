@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/crypto/keys/secp256k1/internal/secp256k1/libsecp256k1/src/eckey_impl.h)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/crypto/keys/secp256k1/internal/secp256k1/libsecp256k1/src/eckey_impl.h)
 
 This file contains the implementation of various functions related to elliptic curve cryptography (ECC) using the secp256k1 curve. The secp256k1 curve is used in many blockchain projects, including Bitcoin and Ethereum. 
 

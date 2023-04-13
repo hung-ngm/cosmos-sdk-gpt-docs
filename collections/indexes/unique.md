@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/collections/indexes/unique.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/collections/indexes/unique.go)
 
 The `indexes` package contains an implementation of a unique index that imposes uniqueness constraints on the reference key. The `Unique` type creates relationships between reference and primary keys of the value. This index is used to ensure that a certain field in a data structure is unique across all instances of that data structure. 
 

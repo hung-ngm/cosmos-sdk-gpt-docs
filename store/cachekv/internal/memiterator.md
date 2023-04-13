@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/store/cachekv/internal/memiterator.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/store/cachekv/internal/memiterator.go)
 
 This file contains the implementation of a memory iterator used to iterate over items in a BTree. The purpose of this code is to provide an efficient way to iterate over a range of keys in a BTree stored in memory. The memory iterator is used in the larger project to provide an interface for iterating over key-value pairs stored in a cache.
 

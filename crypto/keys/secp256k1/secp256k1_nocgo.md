@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/crypto/keys/secp256k1/secp256k1_nocgo.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/crypto/keys/secp256k1/secp256k1_nocgo.go)
 
 The code in this file provides functionality for creating and verifying ECDSA signatures on curve Secp256k1, using SHA256 on the message. This is a cryptographic algorithm used for digital signatures and is commonly used in blockchain applications. 
 

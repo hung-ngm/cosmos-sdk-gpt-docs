@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/client/v2/autocli/flag/timestamp.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/client/v2/autocli/flag/timestamp.go)
 
 The code above is a part of the `flag` package in the `cosmos-sdk` project. This package provides a way to define and parse command-line flags in Go. The code defines a custom flag type for timestamps that can be used in command-line interfaces.
 

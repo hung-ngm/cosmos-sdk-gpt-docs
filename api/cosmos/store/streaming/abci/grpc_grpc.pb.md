@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/api/cosmos/store/streaming/abci/grpc_grpc.pb.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/api/cosmos/store/streaming/abci/grpc_grpc.pb.go)
 
 This code defines the client and server APIs for the ABCIListenerService service, which is used for streaming data from the Application Blockchain Interface (ABCI) in the Cosmos SDK. The service provides four endpoints: ListenBeginBlock, ListenEndBlock, ListenDeliverTx, and ListenCommit. 
 

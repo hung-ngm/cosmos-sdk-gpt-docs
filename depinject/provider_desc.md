@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/depinject/provider_desc.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/depinject/provider_desc.go)
 
 The `depinject` package provides functionality for dependency injection in Go. The `providerDescriptor` type is a struct that defines a provider function. It contains information about the input and output parameters of the function, the function itself, and the location of the function in the source code. The `providerInput` and `providerOutput` types define the types of the input and output parameters, respectively. 
 

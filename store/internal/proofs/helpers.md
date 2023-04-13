@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/store/internal/proofs/helpers.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/store/internal/proofs/helpers.go)
 
 The `proofs` package contains functions for generating range proofs for a random element in a Merkle tree. The `SimpleResult` struct contains the key, value, Merkle proof, and root hash needed to build a `confio/proof`. 
 

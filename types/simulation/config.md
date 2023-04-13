@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/types/simulation/config.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/types/simulation/config.go)
 
 The `Config` struct in the `simulation` package of the `cosmos-sdk` project contains various configuration flags that are necessary for running simulations of the blockchain network. 
 

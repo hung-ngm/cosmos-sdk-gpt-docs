@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/depinject/module_key.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/depinject/module_key.go)
 
 The `depinject` package contains types and functions for dependency injection in Go. The `ModuleKey` type is a special type used to scope a provider to a "module". Providers are functions that return a value of a certain type, and can be used to provide dependencies to other functions or modules. 
 

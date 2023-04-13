@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/api/cosmos/feegrant/v1beta1/query_grpc.pb.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/api/cosmos/feegrant/v1beta1/query_grpc.pb.go)
 
 This file defines the QueryClient and QueryServer interfaces for the feegrantv1beta1 package in the cosmos-sdk project. These interfaces provide methods for querying fee grants. 
 

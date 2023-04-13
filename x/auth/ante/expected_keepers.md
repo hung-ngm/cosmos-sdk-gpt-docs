@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/x/auth/ante/expected_keepers.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/x/auth/ante/expected_keepers.go)
 
 This file defines two interfaces, `AccountKeeper` and `FeegrantKeeper`, that are used in the larger cosmos-sdk project. 
 

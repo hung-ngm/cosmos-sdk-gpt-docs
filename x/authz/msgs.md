@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/x/authz/msgs.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/x/authz/msgs.go)
 
 This code defines three message types (`MsgGrant`, `MsgRevoke`, and `MsgExec`) that are used in the Cosmos SDK project for authorization purposes. 
 

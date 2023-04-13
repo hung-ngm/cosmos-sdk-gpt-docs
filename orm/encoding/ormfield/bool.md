@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/orm/encoding/ormfield/bool.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/orm/encoding/ormfield/bool.go)
 
 The `ormfield` package contains code for encoding and decoding data types used in object-relational mapping (ORM) for the Cosmos SDK project. Specifically, this file defines a `BoolCodec` type that encodes and decodes boolean values as a single byte 0 or 1. 
 

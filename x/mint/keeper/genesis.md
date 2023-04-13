@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/x/mint/keeper/genesis.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/x/mint/keeper/genesis.go)
 
 The code above is a part of the `cosmos-sdk` project and is located in the `keeper` package. The purpose of this code is to handle the initialization and exporting of the `mint` module's genesis state. 
 

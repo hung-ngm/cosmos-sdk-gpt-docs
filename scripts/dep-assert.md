@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/scripts/dep-assert.sh)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/scripts/dep-assert.sh)
 
 This bash script is used to check for a specific dependency in the cosmos-sdk project. The purpose of this script is to ensure that no module within the project has a direct dependency on the simapp module, which is a specific implementation of the SDK for simulation purposes. 
 

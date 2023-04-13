@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/x/gov/types/v1/params.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/x/gov/types/v1/params.go)
 
 The code defines governance parameters for the Cosmos SDK blockchain framework. These parameters include deposit requirements, voting periods, quorum thresholds, and veto thresholds. The purpose of these parameters is to ensure that proposals for changes to the blockchain are properly vetted and approved by the community before being implemented.
 

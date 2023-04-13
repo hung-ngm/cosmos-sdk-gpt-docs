@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/store/transient/store.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/store/transient/store.go)
 
 The `transient` package in the `cosmos-sdk` project contains a `Store` struct that is a wrapper for a `MemDB` with a `Committer` implementation. The purpose of this code is to provide a temporary, in-memory key-value store that can be used for transient data storage during the execution of a transaction. 
 

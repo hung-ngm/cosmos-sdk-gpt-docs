@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/x/tx/signing/signer_data.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/x/tx/signing/signer_data.go)
 
 The `SignerData` struct in the `signing` package of the `cosmos-sdk` project contains information required to sign a transaction that is not included in the transaction body itself. This struct contains the following fields:
 

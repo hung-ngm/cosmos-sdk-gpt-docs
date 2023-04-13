@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/x/staking/migrations/v2/keys.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/x/staking/migrations/v2/keys.go)
 
 This code defines a module called "staking" within the cosmos-sdk project. The purpose of this module is to handle the staking of tokens within the network. 
 

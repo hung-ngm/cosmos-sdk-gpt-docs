@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/simapp/params/doc.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/simapp/params/doc.go)
 
 The `params` package in the `cosmos-sdk` project defines the simulation parameters for the `simapp`. This package contains default weights for each transaction used in the module's simulation. These weights determine the probability of a transaction being simulated during any given operation. 
 

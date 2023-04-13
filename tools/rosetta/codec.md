@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/tools/rosetta/codec.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/tools/rosetta/codec.go)
 
 The code above is a function called `MakeCodec` that generates a codec and an interface registry required to interact with the cosmos APIs used by the rosetta gateway. The function imports several packages from the cosmos-sdk project, including `codec`, `crypto/codec`, `x/auth/types`, and `x/bank/types`.
 

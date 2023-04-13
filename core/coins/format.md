@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/core/coins/format.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/core/coins/format.go)
 
 The `coins` package in the `cosmos-sdk` project provides functionality for working with cryptocurrency coins. This specific file contains functions for formatting and parsing coin values and metadata.
 

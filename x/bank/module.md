@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/x/bank/module.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/x/bank/module.go)
 
 The code defines the bank module for the cosmos-sdk project. The bank module is responsible for handling token transfers between accounts. The module provides functionalities such as sending tokens, querying account balances, and handling token minting and burning. 
 

@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/client/v2/autocli/flag/simple.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/client/v2/autocli/flag/simple.go)
 
 The code above is a Go package that provides a function and a type for binding command-line flags to protocol buffer messages. The package is a part of the larger cosmos-sdk project, which is a blockchain application development framework.
 

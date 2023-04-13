@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/x/auth/vesting/exported/exported.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/x/auth/vesting/exported/exported.go)
 
 The code defines an interface called VestingAccount that represents an account type that vests coins via a vesting schedule. This interface extends the sdk.AccountI interface, which means that any implementation of VestingAccount must also implement all the methods of sdk.AccountI.
 

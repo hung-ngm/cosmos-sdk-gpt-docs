@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/x/gov/types/v1/querier.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/x/gov/types/v1/querier.go)
 
 This file contains various query parameters and their corresponding structs for the governance module in the Cosmos SDK. The governance module allows token holders to submit proposals and vote on them. The purpose of this file is to define the query parameters that can be used to retrieve information about proposals, votes, and deposits.
 

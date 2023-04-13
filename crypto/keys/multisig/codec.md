@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/crypto/keys/multisig/codec.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/crypto/keys/multisig/codec.go)
 
 This code is a part of the `cosmos-sdk` project and is located in the `multisig` package. The purpose of this code is to register various concrete types of public keys with the Amino codec. The Amino codec is a serialization library used by the Cosmos SDK to encode and decode data structures. 
 

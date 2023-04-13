@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/docs/rfc/_category_.json)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/docs/rfc/_category_.json)
 
 This code is a JSON object that represents a label for Request for Comments (RFCs) in the cosmos-sdk project. The label has three properties: "label", "position", and "link". 
 

@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/api/cosmos/gov/v1beta1/tx_grpc.pb.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/api/cosmos/gov/v1beta1/tx_grpc.pb.go)
 
 This code defines the client and server API for the `Msg` service in the `cosmos.gov.v1beta1` package. The `Msg` service provides methods for submitting proposals, voting on proposals, adding weighted votes on proposals, and adding deposits on proposals. 
 

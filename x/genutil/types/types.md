@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/x/genutil/types/types.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/x/genutil/types/types.go)
 
 This file defines several types and functions related to the initialization and migration of a Cosmos SDK application. 
 

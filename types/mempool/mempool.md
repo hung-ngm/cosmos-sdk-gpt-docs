@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/types/mempool/mempool.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/types/mempool/mempool.go)
 
 This code defines an interface for a mempool, which is a data structure used to store unconfirmed transactions in a blockchain network. The interface defines four methods: Insert, Select, CountTx, and Remove. 
 

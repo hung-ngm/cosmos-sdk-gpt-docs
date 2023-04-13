@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/x/staking/types/genesis.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/x/staking/types/genesis.go)
 
 The code above is a part of the `cosmos-sdk` project and is located in the `types` package. This file contains functions and methods related to the `GenesisState` struct, which is used to represent the initial state of the blockchain. 
 

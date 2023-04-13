@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/x/auth/tx/decoder.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/x/auth/tx/decoder.go)
 
 The code provided is a part of the cosmos-sdk project and contains functions that are used to decode transactions. The `DefaultTxDecoder` function returns a default protobuf TxDecoder that takes in a byte array of a transaction and returns a decoded transaction. The function first checks if the transaction follows ADR-027, which is a standard for encoding transactions. If the transaction does not follow this standard, an error is returned. The function then proceeds to decode the transaction by unmarshalling the byte array into a `TxRaw` struct, which contains the raw transaction data. The function then unmarshals the `BodyBytes` and `AuthInfoBytes` fields of the `TxRaw` struct into `TxBody` and `AuthInfo` structs, respectively. Finally, the function creates a `Tx` struct using the decoded `TxBody`, `AuthInfo`, and `Signatures` fields of the `TxRaw` struct.
 

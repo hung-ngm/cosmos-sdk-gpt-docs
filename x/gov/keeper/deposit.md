@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/x/gov/keeper/deposit.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/x/gov/keeper/deposit.go)
 
 The code provided is a part of the Cosmos SDK project and contains functions related to managing deposits for governance proposals. The `keeper` package contains the implementation of the `Keeper` struct, which is responsible for managing the state of the governance module. The `GetDeposit`, `SetDeposit`, `GetAllDeposits`, `GetDeposits`, `DeleteAndBurnDeposits`, `IterateAllDeposits`, `IterateDeposits`, `AddDeposit`, `ChargeDeposit`, `RefundAndDeleteDeposits`, and `validateInitialDeposit` functions are defined in this file.
 

@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/x/params/simulation/operations.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/x/params/simulation/operations.go)
 
 The `simulation` package in the `cosmos-sdk` project provides tools for simulating various aspects of the Cosmos blockchain. This particular file contains a function called `SimulateParamChangeProposalContent` that generates random content for a parameter change proposal. 
 

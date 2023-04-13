@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/tools/hubl/cmd/hubl/main.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/tools/hubl/cmd/hubl/main.go)
 
 This code is the entry point for the hubl tool, which is a sub-tool of the larger cosmos-sdk project. The purpose of this code is to initialize the hubl tool by calling the `RootCommand()` function from the `internal` package and executing the resulting command.
 

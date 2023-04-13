@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/x/auth/tx/config/textual.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/x/auth/tx/config/textual.go)
 
 The code above is part of the cosmos-sdk project and is located in the `tx` package. This file provides two functions that create a new `textual.SignModeHandler` instance. The `textual` package is used to handle the signing of transactions in the Cosmos SDK. 
 

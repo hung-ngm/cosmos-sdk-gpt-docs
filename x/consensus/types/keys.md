@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/x/consensus/types/keys.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/x/consensus/types/keys.go)
 
 This code defines constants for the consensus module in the cosmos-sdk project. The `ModuleName` constant defines the name of the module as "consensus", while the `StoreKey` constant defines the module's store key as the same name. 
 

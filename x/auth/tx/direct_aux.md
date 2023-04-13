@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/x/auth/tx/direct_aux.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/x/auth/tx/direct_aux.go)
 
 The `tx` package in the `cosmos-sdk` project contains code related to transaction handling. This specific file defines a `signModeDirectAuxHandler` struct that implements the `signing.SignModeHandler` interface. This interface is used to define how a transaction should be signed based on the signing mode. The `signModeDirectAuxHandler` struct defines the `SIGN_MODE_DIRECT_AUX` signing mode.
 

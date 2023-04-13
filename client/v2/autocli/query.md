@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/client/v2/autocli/query.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/client/v2/autocli/query.go)
 
 The `autocli` package provides a set of functions for building command-line interfaces (CLIs) for Cosmos SDK applications. This package contains functions for building query commands for all the provided modules, adding sub-commands to the provided command for each method in the specified service, and creating a gRPC query command for the given service method.
 

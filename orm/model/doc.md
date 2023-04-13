@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/orm/model/doc.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/orm/model/doc.go)
 
 The `model` package in the `cosmos-sdk` project contains ORM (Object-Relational Mapping) data "model" types, which define tables, indexes, and schemas. ORM is a technique that allows developers to interact with a database using an object-oriented programming language, rather than writing SQL queries directly. 
 

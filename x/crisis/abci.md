@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/x/crisis/abci.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/x/crisis/abci.go)
 
 The code above is a part of the `cosmos-sdk` project and is located in the `crisis` package. The purpose of this code is to check all registered invariants at the end of each block. 
 

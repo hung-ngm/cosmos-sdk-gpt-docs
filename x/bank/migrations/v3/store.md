@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/x/bank/migrations/v3/store.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/x/bank/migrations/v3/store.go)
 
 The `MigrateStore` function in the `v3` package of the `cosmos-sdk` project performs in-place store migrations from version `v0.43` to `v0.45`. The migration includes three main steps:
 

@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/crypto/keys/multisig/multisig.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/crypto/keys/multisig/multisig.go)
 
 The `multisig` package in the `cosmos-sdk` project provides functionality for creating and verifying multisignature accounts. This file defines a `LegacyAminoPubKey` struct that implements the `multisigtypes.PubKey` interface. 
 

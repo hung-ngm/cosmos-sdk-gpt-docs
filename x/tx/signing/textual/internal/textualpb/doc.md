@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/x/tx/signing/textual/internal/textualpb/doc.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/x/tx/signing/textual/internal/textualpb/doc.go)
 
 The `textualpb` package in the `cosmos-sdk` project contains all the protobuf definitions and generated codes that are used internally by Textual. The purpose of this package is to provide a standardized way of encoding and decoding data structures in a language-agnostic way. 
 

@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/codec/amino.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/codec/amino.go)
 
 The `LegacyAmino` struct is a wrapper for an Amino codec that properly handles protobuf types with Any's. It provides methods for marshaling and unmarshaling data, as well as registering CometBFT evidence types with the provided Amino codec. 
 

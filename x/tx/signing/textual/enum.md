@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/x/tx/signing/textual/enum.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/x/tx/signing/textual/enum.go)
 
 The `textual` package contains code for rendering and parsing protocol buffer messages as text. This specific file defines a `enumValueRenderer` struct and its associated methods, which implement the `ValueRenderer` interface. The `ValueRenderer` interface is used to render and parse protocol buffer values as text.
 

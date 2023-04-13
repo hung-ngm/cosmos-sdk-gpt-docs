@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/x/auth/types/params_legacy.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/x/auth/types/params_legacy.go)
 
 This file contains code related to managing parameters for the cosmos-sdk project. Specifically, it defines a set of parameter keys and a Params struct that implements the ParamSet interface. The ParamSetPairs method of the Params struct returns all the key/value pairs of the auth module's parameters.
 

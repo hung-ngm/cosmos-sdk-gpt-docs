@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/client/debug/main.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/client/debug/main.go)
 
 The `debug` package in the `cosmos-sdk` project provides a set of tools for debugging applications built on the Cosmos SDK. This particular file contains code for a CLI command that can be used to decode and manipulate public keys, addresses, and raw bytes.
 

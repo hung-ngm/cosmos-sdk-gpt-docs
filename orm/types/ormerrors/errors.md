@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/orm/types/ormerrors/errors.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/orm/types/ormerrors/errors.go)
 
 The `ormerrors` package contains error definitions and a function to check if a given error indicates that a record was not found. The purpose of this package is to provide a standardized set of error messages that can be used throughout the larger project to communicate specific issues related to object-relational mapping (ORM).
 

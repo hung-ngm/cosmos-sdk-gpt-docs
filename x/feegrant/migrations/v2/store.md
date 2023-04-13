@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/x/feegrant/migrations/v2/store.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/x/feegrant/migrations/v2/store.go)
 
 The `v2` package in the `cosmos-sdk` project contains a function called `MigrateStore` that is responsible for migrating data from an old version of the store to a new version. The function takes three arguments: a context object, a key-value store service, and a binary codec. The context object is used to manage the lifecycle of the function, the key-value store service is used to access the data store, and the binary codec is used to encode and decode binary data.
 

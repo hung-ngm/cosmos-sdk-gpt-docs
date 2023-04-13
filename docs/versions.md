@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/docs/versions.json)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/docs/versions.json)
 
 This code is a version number declaration for the cosmos-sdk project. The purpose of this code is to indicate the current version of the project, which is v0.47. This version number is used to track changes and updates to the project, and to ensure that different components of the project are compatible with each other.
 

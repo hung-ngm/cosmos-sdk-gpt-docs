@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/x/upgrade/client/cli/query.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/x/upgrade/client/cli/query.go)
 
 The code is a part of the cosmos-sdk project and is located in the `cli` package. The purpose of this code is to provide a command-line interface (CLI) for the upgrade module of the cosmos-sdk. The upgrade module is responsible for managing the upgrade process of the blockchain. The CLI provides a way for users to interact with the upgrade module and query information about the upgrade process.
 

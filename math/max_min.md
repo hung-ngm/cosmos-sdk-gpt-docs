@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/math/max_min.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/math/max_min.go)
 
 The code above defines two functions, `Max` and `Min`, which are used to find the maximum and minimum values of a set of ordered elements respectively. The functions are generic, meaning they can be used with any type that satisfies the `constraints.Ordered` interface. 
 

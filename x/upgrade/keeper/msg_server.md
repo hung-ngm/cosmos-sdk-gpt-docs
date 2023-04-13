@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/x/upgrade/keeper/msg_server.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/x/upgrade/keeper/msg_server.go)
 
 This code is a part of the cosmos-sdk project and it defines a message server for the upgrade module. The upgrade module is responsible for managing software upgrades in the Cosmos network. The message server is implemented as a struct called `msgServer` which has a reference to a `Keeper` struct. The `Keeper` struct is responsible for managing the state of the upgrade module.
 

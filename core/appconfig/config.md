@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/core/appconfig/config.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/core/appconfig/config.go)
 
 The `appconfig` package provides functionality for loading and composing application configurations for the Cosmos SDK project. The package contains functions for loading app configurations in JSON and YAML formats, as well as a function for composing a v1alpha1 app config into a container option by resolving the required modules and composing their options.
 

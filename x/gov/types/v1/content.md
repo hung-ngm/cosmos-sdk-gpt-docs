@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/x/gov/types/v1/content.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/x/gov/types/v1/content.go)
 
 The code in this file provides functions for creating and extracting legacy content from messages in the cosmos-sdk project. Specifically, it defines two functions: `NewLegacyContent` and `LegacyContentFromMessage`.
 

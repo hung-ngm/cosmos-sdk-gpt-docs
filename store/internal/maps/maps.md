@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/store/internal/maps/maps.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/store/internal/maps/maps.go)
 
 The `maps` package in the `cosmos-sdk` project contains two types of maps: `merkleMap` and `simpleMap`. Both maps are used to create a Merkle tree from a map, where the leaves are `hash(key) | hash(value)`. The leaves are sorted before Merkle hashing. 
 

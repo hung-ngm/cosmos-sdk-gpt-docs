@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/baseapp/params.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/baseapp/params.go)
 
 The code defines an interface called `ParamStore` which specifies the methods that a parameter store used by the `BaseApp` must implement. The `BaseApp` is a core component of the `cosmos-sdk` project, which is a framework for building blockchain applications. 
 

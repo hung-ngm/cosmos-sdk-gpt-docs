@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/client/pruning/main.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/client/pruning/main.go)
 
 The `pruning` package in the `cosmos-sdk` project contains code that is responsible for pruning the history of the application state. The `Cmd` function in this package is a Cobra command that can be executed from the command line to prune the application state history. 
 

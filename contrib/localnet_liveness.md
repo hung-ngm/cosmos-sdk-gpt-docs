@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/contrib/localnet_liveness.sh)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/contrib/localnet_liveness.sh)
 
 This script is a bash script that is used to test the stability of a blockchain network. It takes in four arguments: the number of iterations to run, the number of seconds to sleep between iterations, the block height to declare completion, and the node address to poll. 
 

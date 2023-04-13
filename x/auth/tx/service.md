@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/x/auth/tx/service.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/x/auth/tx/service.go)
 
 The `tx` package in the `cosmos-sdk` project contains the implementation of the protobuf Tx service. This service provides functionality for encoding, decoding, simulating, and broadcasting transactions, as well as querying transactions by hash or event. 
 

@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/x/auth/keeper/migrations.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/x/auth/keeper/migrations.go)
 
 The `Migrator` struct and associated functions in this file are used for handling in-place store migrations in the `x/auth` module of the Cosmos SDK. The `Migrator` struct contains an `AccountKeeper` instance, a gRPC query server, and a legacy subspace. 
 

@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/x/nft/keeper/keeper.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/x/nft/keeper/keeper.go)
 
 The code above defines the `Keeper` struct and its associated methods. The `Keeper` struct is responsible for managing the state of the nft (non-fungible token) store. It contains a binary codec, a key-value store service, a bank keeper, and an address codec. 
 

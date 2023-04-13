@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/x/gov/types/v1beta1/querier.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/x/gov/types/v1beta1/querier.go)
 
 This file contains constants, structs, and functions related to querying the governance module in the Cosmos SDK. The governance module allows token holders to submit proposals and vote on them, with the outcome determined by a tally of votes. 
 

@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/store/mock/cosmos_cosmos_db_DB.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/store/mock/cosmos_cosmos_db_DB.go)
 
 This file contains generated code for a mock implementation of the `DB` interface from the `github.com/cosmos/cosmos-db` package. The `DB` interface defines methods for interacting with a database, such as getting and setting key-value pairs, iterating over keys, and deleting keys. 
 

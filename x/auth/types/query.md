@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/x/auth/types/query.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/x/auth/types/query.go)
 
 The code above is a part of the `cosmos-sdk` project and is located in the `types` package. This code defines a method called `UnpackInterfaces` for the `QueryAccountResponse` struct. 
 

@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/client/keys/types.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/client/keys/types.go)
 
 This file contains several request structures and their constructors that are used for key management in the cosmos-sdk project. 
 

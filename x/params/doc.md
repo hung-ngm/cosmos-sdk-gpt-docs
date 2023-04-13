@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/x/params/doc.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/x/params/doc.go)
 
 The `params` package provides a namespaced module parameter store for the Cosmos SDK. The package consists of two core components: `Keeper` and `Subspace`. `Subspace` is an isolated namespace for a parameter store, where keys are prefixed by pre-configured subspace names which modules provide. The `Keeper` has permission to access all existing subspaces.
 

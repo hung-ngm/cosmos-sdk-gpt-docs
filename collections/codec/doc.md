@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/collections/codec/doc.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/collections/codec/doc.go)
 
 The `codec` package in the `cosmos-sdk` project defines how collections transform keys and values into and from bytes. This is a crucial aspect of the project as it allows for efficient storage and retrieval of data. 
 

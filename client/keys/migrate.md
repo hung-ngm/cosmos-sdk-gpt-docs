@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/client/keys/migrate.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/client/keys/migrate.go)
 
 The `keys` package in the `cosmos-sdk` project provides functionality for managing cryptographic keys used in the Cosmos network. This particular file defines a command-line interface (CLI) command called `migrate` that migrates key information from a legacy keybase to an OS secret store. 
 

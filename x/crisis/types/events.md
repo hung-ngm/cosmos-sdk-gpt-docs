@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/x/crisis/types/events.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/x/crisis/types/events.go)
 
 This file defines two constants that are used in the crisis module of the larger cosmos-sdk project. The first constant, `EventTypeInvariant`, is a string that represents the type of event that is emitted when an invariant is broken. Invariants are a type of constraint that must always hold true in the system, and if they are ever violated, it indicates a critical error that needs to be addressed immediately. The `EventTypeInvariant` constant is used to identify these events so that they can be handled appropriately.
 

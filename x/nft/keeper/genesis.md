@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/x/nft/keeper/genesis.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/x/nft/keeper/genesis.go)
 
 The code provided is a part of the `cosmos-sdk` project and is located in the `keeper` package. The purpose of this code is to initialize and export the genesis state of the `nft` module. The `nft` module is responsible for managing non-fungible tokens (NFTs) on the Cosmos network. 
 

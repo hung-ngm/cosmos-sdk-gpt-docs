@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/x/upgrade/keeper/migrations.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/x/upgrade/keeper/migrations.go)
 
 The code defines a struct called Migrator that is responsible for handling in-place store migrations in the cosmos-sdk project. The Migrator struct has a single field, which is a pointer to a Keeper struct. The Keeper struct is not defined in this file, but it is likely defined elsewhere in the project.
 

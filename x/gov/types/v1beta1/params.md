@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/x/gov/types/v1beta1/params.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/x/gov/types/v1beta1/params.go)
 
 The code defines the default governance parameters for the Cosmos SDK blockchain. It includes the default period for deposits and voting, as well as the minimum deposit tokens required for a proposal to be considered. The code also defines the quorum, threshold, and veto threshold for tallying votes.
 

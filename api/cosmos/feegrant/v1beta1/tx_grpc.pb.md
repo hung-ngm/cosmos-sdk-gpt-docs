@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/api/cosmos/feegrant/v1beta1/tx_grpc.pb.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/api/cosmos/feegrant/v1beta1/tx_grpc.pb.go)
 
 This file defines the Msg service for the feegrantv1beta1 package in the cosmos-sdk project. The Msg service provides two methods: GrantAllowance and RevokeAllowance. These methods allow for the granting and revoking of fee allowances on a granter's account for a specific grantee. 
 

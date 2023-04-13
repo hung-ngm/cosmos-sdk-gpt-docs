@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/x/slashing/keeper/params.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/x/slashing/keeper/params.go)
 
 This file contains the implementation of the `Keeper` struct for the `x/slashing` module in the Cosmos SDK. The `Keeper` struct is responsible for managing the state of the module and providing access to its functionality.
 

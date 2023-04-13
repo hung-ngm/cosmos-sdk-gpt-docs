@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/api/go.mod)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/api/go.mod)
 
 This code is not a part of the cosmos-sdk project, but rather a module within it called `cosmossdk.io/api`. The code is written in Go and contains a list of dependencies required for the module to function properly. 
 

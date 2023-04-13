@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/crypto/keys/secp256k1/internal/secp256k1/libsecp256k1/contrib/lax_der_parsing.c)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/crypto/keys/secp256k1/internal/secp256k1/libsecp256k1/contrib/lax_der_parsing.c)
 
 The code provided is a C function that parses an ECDSA signature in DER format. The function takes a pointer to a secp256k1_context object, a pointer to a secp256k1_ecdsa_signature object, a pointer to an unsigned char array containing the DER-encoded signature, and the length of the input array. The function returns an integer value indicating whether the parsing was successful (1) or not (0).
 

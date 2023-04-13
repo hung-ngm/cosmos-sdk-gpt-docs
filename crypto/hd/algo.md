@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/crypto/hd/algo.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/crypto/hd/algo.go)
 
 The `hd` package in the `cosmos-sdk` project provides functionality for hierarchical deterministic (HD) wallets. This package contains an interface `WalletGenerator` and a struct `secp256k1Algo` that implements this interface. The `WalletGenerator` interface defines two methods: `Derive` and `Generate`. The `Derive` method takes a mnemonic, a bip39 passphrase, and an HD path as input and returns a byte slice and an error. The `Generate` method takes a byte slice as input and returns a `types.PrivKey`. 
 

@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/x/gov/types/v1beta1/msgs.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/x/gov/types/v1beta1/msgs.go)
 
 This file contains message types and routes related to governance in the cosmos-sdk project. It defines four message types: `MsgSubmitProposal`, `MsgDeposit`, `MsgVote`, and `MsgVoteWeighted`. 
 

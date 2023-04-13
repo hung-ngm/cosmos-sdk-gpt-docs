@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/x/auth/ante/ext.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/x/auth/ante/ext.go)
 
 The code defines an AnteDecorator called `RejectExtensionOptionsDecorator` that rejects all extension options included in protobuf transactions. Extension options are optional fields that can be included in transactions to provide additional functionality. The decorator is used to ensure that only known and accepted extension options are included in transactions. 
 

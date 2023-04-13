@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/x/authz/simulation/genesis.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/x/authz/simulation/genesis.go)
 
 The `simulation` package in the `cosmos-sdk` project contains code for generating random simulation data for various modules. This specific file contains functions for generating random authorization grants for the `authz` module.
 

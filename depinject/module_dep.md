@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/depinject/module_dep.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/depinject/module_dep.go)
 
 The `depinject` package provides dependency injection functionality for the `cosmos-sdk` project. This particular file defines two structs: `moduleDepProvider` and `moduleDepResolver`. 
 

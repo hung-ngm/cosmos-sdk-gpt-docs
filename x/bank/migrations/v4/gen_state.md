@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/x/bank/migrations/v4/gen_state.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/x/bank/migrations/v4/gen_state.go)
 
 The `MigrateGenState` function in the `v4` package of the `cosmos-sdk` project is responsible for migrating the exported genesis state of the `x/bank` module from version `v0.43` to `v0.47`. The migration process involves moving the `SendEnabled` entries from the `Params` field to the new `GenesisState.SendEnabled` field.
 

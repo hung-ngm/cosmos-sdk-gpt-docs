@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/x/tx/signing/aminojson/any.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/x/tx/signing/aminojson/any.go)
 
 The `aminojson` package contains code for encoding and decoding data in Amino format, which is used in the Cosmos SDK for serializing and deserializing data in the blockchain. This particular code defines a method called `marshalAny` that is used to encode a `protoreflect.Message` into an `io.Writer` using Amino encoding.
 

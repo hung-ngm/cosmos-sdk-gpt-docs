@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/tools/rosetta/lib/server/server.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/tools/rosetta/lib/server/server.go)
 
 The code defines a Rosetta server that can be used to expose a blockchain's functionality through a standardized API. The server is built using the `github.com/cosmos/rosetta-sdk-go/server` package and is designed to work with the `github.com/coinbase/rosetta-sdk-go/types` package. 
 

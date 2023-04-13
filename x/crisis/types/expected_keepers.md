@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/x/crisis/types/expected_keepers.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/x/crisis/types/expected_keepers.go)
 
 The code above defines an interface called `SupplyKeeper` that is expected to be implemented by a module in the Cosmos SDK project. This interface has one method called `SendCoinsFromAccountToModule` that takes in four parameters: a `sdk.Context` object, a `sdk.AccAddress` object representing the sender's address, a string representing the recipient module, and a `sdk.Coins` object representing the amount of coins to be sent. 
 

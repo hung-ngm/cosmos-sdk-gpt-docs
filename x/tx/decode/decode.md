@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/x/tx/decode/decode.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/x/tx/decode/decode.go)
 
 The `decode` package in the `cosmos-sdk` project contains code for decoding transactions in the Cosmos network. The `Decoder` struct contains the dependencies required for decoding transactions, and the `Options` struct is used to create a new `Decoder`. The `Decode` method of the `Decoder` struct decodes raw protobuf encoded transaction bytes into a `DecodedTx` struct. 
 

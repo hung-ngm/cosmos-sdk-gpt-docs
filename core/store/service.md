@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/core/store/service.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/core/store/service.go)
 
 This code defines three interfaces: `KVStoreService`, `MemoryStoreService`, and `TransientStoreService`. These interfaces represent handles to different types of key-value stores that can be used by a runtime module in the larger cosmos-sdk project.
 

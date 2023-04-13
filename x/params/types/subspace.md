@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/x/params/types/subspace.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/x/params/types/subspace.go)
 
 The code defines a Subspace struct that represents a parameter store for each keeper in the cosmos-sdk project. The Subspace struct contains a key-value store for storing parameters and a transient store for recording whether a parameter has been changed or not. The Subspace struct also has methods for getting, setting, and updating parameter values, as well as validating parameter values and iterating over parameter keys.
 

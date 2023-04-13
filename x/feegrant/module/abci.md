@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/x/feegrant/module/abci.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/x/feegrant/module/abci.go)
 
 The code above is a function called `EndBlocker` that is part of the `module` package in the `cosmos-sdk` project. The purpose of this function is to remove expired fee allowances at the end of a block. 
 

@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/crypto/types/types.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/crypto/types/types.go)
 
 This file defines several interfaces and types related to public and private keys used in the cosmos-sdk project. 
 

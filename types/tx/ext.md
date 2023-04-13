@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/types/tx/ext.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/types/tx/ext.go)
 
 This code defines an interface and a function for unpacking transaction extension options in the cosmos-sdk project. 
 

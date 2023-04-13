@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/client/v2/autocli/flag/register.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/client/v2/autocli/flag/register.go)
 
 The code is a part of the cosmos-sdk project and is located in the flag package. The purpose of this code is to add flags for each field in a message to the flag set. The `AddMessageFlags` function takes in a context, a flag set, a message type, and command options, and returns a message binder and an error. The `addMessageFlags` function is called by the `AddMessageFlags` function and takes in the same parameters as well as naming options and returns a message binder and an error.
 

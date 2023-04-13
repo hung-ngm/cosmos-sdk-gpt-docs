@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/x/crisis/module.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/x/crisis/module.go)
 
 The code defines the crisis module for the cosmos-sdk project. The module is responsible for handling crisis situations in the network, such as detecting and handling invalid transactions, and ensuring the network remains secure and stable. 
 

@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/x/tx/signing/textual/handler.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/x/tx/signing/textual/handler.go)
 
 The `textual` package in the `cosmos-sdk` project provides functionality for generating transaction sign bytes in the `SIGN_MODE_TEXTUAL` mode. This mode is used to generate human-readable transaction representations that can be used for offline signing and verification. The `SignModeHandler` struct holds the configuration for dispatching to specific value renderers for `SIGN_MODE_TEXTUAL`. 
 

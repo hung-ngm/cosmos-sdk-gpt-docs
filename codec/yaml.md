@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/codec/yaml.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/codec/yaml.go)
 
 The `codec` package in the `cosmos-sdk` project provides functionality for encoding and decoding data in various formats. This particular file contains a function called `MarshalYAML` that marshals a given `proto.Message` using a `JSONCodec` to leverage specialized `MarshalJSON` methods. The resulting output is then converted to YAML format using the `JSONToYAML` function from the `sigs.k8s.io/yaml` package.
 

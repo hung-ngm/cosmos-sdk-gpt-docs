@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/depinject/check_type.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/depinject/check_type.go)
 
 The `depinject` package contains a single function called `isExportedType`. This function takes a `reflect.Type` as input and returns an error if the type is not exported or if it comes from an internal package. The purpose of this function is to ensure that only exported types from non-internal packages are used in dependency injection.
 

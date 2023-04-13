@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/x/auth/vesting/types/period.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/x/auth/vesting/types/period.go)
 
 The code defines a custom data type called `Periods` which is a slice of `Period` structs. These structs represent vesting periods for a `PeriodicVestingAccount`. 
 

@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/server/config/config.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/server/config/config.go)
 
 The `config` package in the `cosmos-sdk` project defines the server's configuration. It contains three main structs: `BaseConfig`, `APIConfig`, and `GRPCConfig`. 
 

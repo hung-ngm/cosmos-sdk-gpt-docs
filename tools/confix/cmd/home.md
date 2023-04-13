@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/tools/confix/cmd/home.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/tools/confix/cmd/home.go)
 
 The code above defines a command-line interface (CLI) command called `HomeCommand()` that is part of the larger `cosmos-sdk` project. This command is used to output the string being used as the home path. If no home directory is set when using the tool standalone, the command will print a message indicating that no home directory is set. Otherwise, it will print the path to the home directory.
 

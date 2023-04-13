@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/crypto/keys/internal/benchmarking/bench.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/crypto/keys/internal/benchmarking/bench.go)
 
 This file contains benchmarking functions for key generation, signing, and verification algorithms used in the cosmos-sdk project. The functions are designed to be used with the testing package in Go and take a testing.B object as a parameter. 
 

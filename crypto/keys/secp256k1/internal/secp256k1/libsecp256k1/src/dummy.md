@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/crypto/keys/secp256k1/internal/secp256k1/libsecp256k1/src/dummy.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/crypto/keys/secp256k1/internal/secp256k1/libsecp256k1/src/dummy.go)
 
 This code is a workaround for the `go mod vendor` command in the `cosmos-sdk` project. The `go:build dummy` directive indicates that this code should only be built when the `dummy` build tag is specified. 
 

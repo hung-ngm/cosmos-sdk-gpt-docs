@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/x/tx/signing/aminojson/aminojson.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/x/tx/signing/aminojson/aminojson.go)
 
 The `aminojson` package in the `cosmos-sdk` project contains code related to encoding and decoding data in the Amino JSON format, which is a binary encoding format used in the Cosmos SDK. This specific file contains an implementation of the `SignModeHandler` interface for the `SIGN_MODE_LEGACY_AMINO_JSON` signing mode. 
 

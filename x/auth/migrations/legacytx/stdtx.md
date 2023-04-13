@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/x/auth/migrations/legacytx/stdtx.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/x/auth/migrations/legacytx/stdtx.go)
 
 The `legacytx` package contains the legacy transaction format for wrapping a message with fee and signatures. It is used to create and sign transactions in the Cosmos SDK. The package contains two main types: `StdFee` and `StdTx`.
 

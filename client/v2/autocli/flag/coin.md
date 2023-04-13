@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/client/v2/autocli/flag/coin.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/client/v2/autocli/flag/coin.go)
 
 The code above defines a custom flag type for the cosmos-sdk project. Specifically, it defines a flag type for a single coin value. 
 

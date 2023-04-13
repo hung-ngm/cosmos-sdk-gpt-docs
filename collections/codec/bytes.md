@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/collections/codec/bytes.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/collections/codec/bytes.go)
 
 This code defines a KeyCodec interface for encoding and decoding keys used in the cosmos-sdk project. Specifically, it defines a BytesKey implementation of the KeyCodec interface for encoding and decoding byte slice keys. 
 

@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/codec/types/doc.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/codec/types/doc.go)
 
 The `types` package in the `cosmos-sdk` project defines a custom wrapper for `google.protobuf.Any` that supports cached values and an `InterfaceRegistry` that keeps track of types that can be used with `Any` for both security and introspection purposes. 
 

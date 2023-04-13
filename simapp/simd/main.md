@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/simapp/simd/main.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/simapp/simd/main.go)
 
 This code is the main entry point for running the Cosmos SDK simulation application. The purpose of this code is to initialize the necessary components for running the simulation app and execute it. 
 

@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/x/auth/migrations/v4/migrate.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/x/auth/migrations/v4/migrate.go)
 
 The `v4` package in the `cosmos-sdk` project contains code related to the x/auth module. Specifically, the code in this file is responsible for migrating the x/auth module state from consensus version 3 to version 4. 
 

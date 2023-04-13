@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/x/bank/simulation/proposals.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/x/bank/simulation/proposals.go)
 
 The `simulation` package in the `cosmos-sdk` project contains code related to simulating the behavior of the blockchain network. This specific file contains functions and constants related to simulating the behavior of the `bank` module.
 

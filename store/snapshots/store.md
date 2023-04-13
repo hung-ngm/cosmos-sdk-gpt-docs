@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/store/snapshots/store.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/store/snapshots/store.go)
 
 The `snapshots` package in the `cosmos-sdk` project contains code for managing snapshot data. Snapshots are a way to store a point-in-time copy of the state of a blockchain, which can be used to speed up syncing and recovery. The `Store` struct is the main type in this package, representing a snapshot store that contains both metadata and binary chunks.
 

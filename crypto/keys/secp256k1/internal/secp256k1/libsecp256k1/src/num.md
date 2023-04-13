@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/crypto/keys/secp256k1/internal/secp256k1/libsecp256k1/src/num.h)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/crypto/keys/secp256k1/internal/secp256k1/libsecp256k1/src/num.h)
 
 The code defines a set of functions for performing arithmetic operations on large numbers used in elliptic curve cryptography. The functions are defined in a header file named `_SECP256K1_NUM_` and are used in the larger `cosmos-sdk` project for implementing the blockchain protocol.
 

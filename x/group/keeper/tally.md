@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/x/group/keeper/tally.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/x/group/keeper/tally.go)
 
 The `Tally` function in this code is responsible for tallying the votes on a proposal and returning the result without modifying the proposal or any state. This function takes in a context, a proposal, and a group ID as arguments. 
 

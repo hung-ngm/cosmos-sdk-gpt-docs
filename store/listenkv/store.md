@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/store/listenkv/store.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/store/listenkv/store.go)
 
 The `listenkv` package provides an implementation of the `KVStore` interface with listening enabled. This means that operations performed on the store are traced and written to any underlying listeners with the proper key and operation permissions. 
 

@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/x/tx/signing/textual/int.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/x/tx/signing/textual/int.go)
 
 The `textual` package contains code for rendering and parsing scalar values in a textual format. The `NewIntValueRenderer` function returns a `ValueRenderer` for scalar values of type `uint32`, `uint64`, `int32`, `int64`, and `sdk.Int`. The `ValueRenderer` interface is used to format and parse scalar values in a way that is human-readable and can be displayed on a screen.
 

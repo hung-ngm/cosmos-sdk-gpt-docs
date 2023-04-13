@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/x/group/errors/errors.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/x/group/errors/errors.go)
 
 This code defines a set of error messages that can be used throughout the cosmos-sdk project. The errors are defined using the `Register` function from the `cosmossdk.io/errors` package, which takes three arguments: a codespace, a code, and a message. 
 

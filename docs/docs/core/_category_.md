@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/docs/docs/core/_category_.json)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/docs/docs/core/_category_.json)
 
 The code snippet above represents a JSON object that defines a core concept within the cosmos-sdk project. The `label` field provides a human-readable name for the concept, while the `position` field specifies its order within a list of other concepts. The `link` field is currently set to null, but it could be used to provide a hyperlink to additional documentation or resources related to the concept.
 

@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/x/slashing/types/msg.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/x/slashing/types/msg.go)
 
 This file contains code for two message types, `MsgUnjail` and `MsgUpdateParams`, which are used in the cosmos-sdk project. 
 

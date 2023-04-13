@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/orm/model/ormtable/doc.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/orm/model/ormtable/doc.go)
 
 The `ormtable` package in the `cosmos-sdk` project defines interfaces and implementations for tables and indexes. Tables are used to store data in a structured format, while indexes are used to efficiently retrieve data from tables based on specific criteria.
 

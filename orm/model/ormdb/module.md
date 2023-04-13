@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/orm/model/ormdb/module.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/orm/model/ormdb/module.go)
 
 The `ormdb` package provides an object-relational mapping (ORM) database type to be used by modules in the Cosmos SDK project. The `ModuleDB` interface defines the methods that a module database should implement, including the `GenesisHandler()` method that returns an implementation of `appmodule.HasGenesis` to be embedded in or called from app module implementations. The `NewModuleDB()` function constructs a `ModuleDB` instance from the provided schema and options. 
 

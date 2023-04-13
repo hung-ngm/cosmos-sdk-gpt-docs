@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/x/auth/module.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/x/auth/module.go)
 
 The `auth` package in the `cosmos-sdk` project provides authentication and authorization functionality for the Cosmos SDK blockchain. This package contains an implementation of the `AppModule` interface, which is used to define an application module for the auth module. 
 

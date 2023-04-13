@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/x/slashing/migrations/v1/types.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/x/slashing/migrations/v1/types.go)
 
 This code is a copy-paste of a file called `keys.go` from the `cosmos-sdk` project, specifically version `v0.41.0`. It has been placed in a package called `legacy`. The purpose of this code is to define various constants, keys, and functions related to the `slashing` module of the `cosmos-sdk`. 
 

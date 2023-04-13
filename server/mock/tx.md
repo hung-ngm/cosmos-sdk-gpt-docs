@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/server/mock/tx.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/server/mock/tx.go)
 
 The `mock` package contains a mock implementation of a key-value store transaction (`KVStoreTx`) and a dummy implementation of a public key (`testPubKey`) used for testing purposes. The `KVStoreTx` struct is an implementation of the `sdk.Tx` and `sdk.Msg` interfaces, and it is also a `signing.SigVerifiableTx` and `cryptotypes.PubKey`. 
 

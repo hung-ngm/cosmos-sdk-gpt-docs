@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/docs/sidebars.js)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/docs/sidebars.js)
 
 This code defines a configuration object for generating sidebars in the documentation of the cosmos-sdk project. Sidebars are a common feature in documentation websites that allow users to navigate between different sections of the documentation. 
 

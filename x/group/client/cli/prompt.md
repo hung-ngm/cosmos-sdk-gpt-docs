@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/x/group/client/cli/prompt.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/x/group/client/cli/prompt.go)
 
 The `cli` package contains command-line interface (CLI) functionality for the Cosmos SDK. The `NewCmdDraftProposal` function generates a draft proposal JSON file that can be used to create a new proposal on the blockchain. The generated proposal JSON file contains only one message (skeleton). 
 

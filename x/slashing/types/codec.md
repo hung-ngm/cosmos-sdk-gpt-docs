@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/x/slashing/types/codec.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/x/slashing/types/codec.go)
 
 This code is part of the cosmos-sdk project and is responsible for registering concrete types on the LegacyAmino codec, registering interface types with the Interface Registry, and initializing the Amino codec. 
 

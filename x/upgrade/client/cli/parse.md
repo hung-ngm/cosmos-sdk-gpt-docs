@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/x/upgrade/client/cli/parse.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/x/upgrade/client/cli/parse.go)
 
 The code above is a function called `parsePlan` that is part of the `cli` package in the `cosmos-sdk` project. The purpose of this function is to parse a set of command-line flags and return a `types.Plan` struct that contains information about a planned upgrade to the Cosmos blockchain.
 

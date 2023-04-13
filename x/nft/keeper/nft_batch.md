@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/x/nft/keeper/nft_batch.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/x/nft/keeper/nft_batch.go)
 
 The code defines four methods for batch operations on non-fungible tokens (NFTs) in the cosmos-sdk project. The `Keeper` struct is used to define these methods, which are used to mint, burn, update, and transfer NFTs in batches. 
 

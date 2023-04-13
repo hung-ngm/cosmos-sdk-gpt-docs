@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/crypto/keys/internal/ecdsa/privkey.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/crypto/keys/internal/ecdsa/privkey.go)
 
 The `ecdsa` package provides functionality for generating and working with secp256r1 elliptic curve keys. The package includes functions for generating private keys, signing messages using ECDSA, and serializing keys.
 

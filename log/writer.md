@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/log/writer.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/log/writer.go)
 
 The code above is a part of the `cosmos-sdk` project and it defines a package called `log`. The purpose of this package is to provide logging functionality to the project. The code defines a function called `NewFilterWriter` that returns a writer that filters out all key/value pairs that do not match the filter. The function takes two arguments, `parent` and `filter`. The `parent` argument is the writer that the filtered output will be written to, and the `filter` argument is a function that will be called with the module and level of the event.
 

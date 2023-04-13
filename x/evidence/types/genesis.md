@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/x/evidence/types/genesis.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/x/evidence/types/genesis.go)
 
 The code above is a part of the `cosmos-sdk` project and is located in the `types` package. The purpose of this code is to define the `GenesisState` struct and provide functions to create, validate, and unpack it. The `GenesisState` struct is used to represent the initial state of the evidence module.
 

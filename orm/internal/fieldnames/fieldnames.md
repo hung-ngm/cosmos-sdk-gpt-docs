@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/orm/internal/fieldnames/fieldnames.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/orm/internal/fieldnames/fieldnames.go)
 
 The `fieldnames` package in the `cosmos-sdk` project provides functionality for working with a list of fields that can be used as a map key. The `FieldNames` struct represents a list of fields with a comparable type, which is used primarily to lookup indexes. 
 

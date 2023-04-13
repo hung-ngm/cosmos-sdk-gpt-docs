@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/tools/cosmovisor/cmd/cosmovisor/config.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/tools/cosmovisor/cmd/cosmovisor/config.go)
 
 This code defines a command-line interface (CLI) command called `config` for the `cosmos-sdk` project. The purpose of this command is to display the configuration settings used by `cosmovisor`, a tool for managing the lifecycle of a Cosmos SDK-based blockchain application. 
 

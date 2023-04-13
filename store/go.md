@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/store/go.mod)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/store/go.mod)
 
 The code provided is not a valid Go code file, but rather a `go.mod` file that specifies the dependencies required by the `cosmos-sdk` project. The `go.mod` file is used by Go's package manager, `go`, to download and manage the dependencies required by the project.
 

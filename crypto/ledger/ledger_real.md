@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/crypto/ledger/ledger_real.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/crypto/ledger/ledger_real.go)
 
 This code is a part of the cosmos-sdk project and is located in the ledger package. It is responsible for initializing the Ledger device and setting the discoverLedger function. 
 

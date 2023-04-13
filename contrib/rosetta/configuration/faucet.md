@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/contrib/rosetta/configuration/faucet.py)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/contrib/rosetta/configuration/faucet.py)
 
 This code defines a simple HTTP server that listens for POST requests and sends funds to the address specified in the request body. The server is intended to act as a faucet, allowing users to request funds for testing purposes.
 

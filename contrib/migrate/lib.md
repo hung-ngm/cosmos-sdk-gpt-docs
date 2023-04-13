@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/contrib/migrate/lib.py)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/contrib/migrate/lib.py)
 
 This Python code defines two functions that are used to parse command line arguments and process a JSON file containing a blockchain's genesis data. The `init_default_argument_parser` function takes in a program description, default chain ID, and default start time as arguments and returns an `argparse.ArgumentParser` object. This object is used to parse command line arguments when the program is run. The function adds two arguments to the parser: `exported_genesis`, which is a required argument that specifies the path to the exported genesis.json file, and `--chain-id` and `--start-time`, which are optional arguments that specify the chain ID and start time of the blockchain, respectively.
 

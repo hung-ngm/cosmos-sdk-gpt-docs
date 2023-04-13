@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/tools/hubl/go.mod)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/tools/hubl/go.mod)
 
 The code provided is not a functional code file, but rather a dependency file that lists the required packages and their versions for the cosmos-sdk project. The file is written in Go and uses the `require` keyword to specify the required packages and their versions. 
 

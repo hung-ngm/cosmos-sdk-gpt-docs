@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/client/v2/autocli/util.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/client/v2/autocli/util.go)
 
 The `autocli` package provides functionality for automatically generating command-line interfaces (CLIs) for protobuf messages in the `cosmos-sdk` project. This file contains three functions: `findSubCommand`, `topLevelCmd`, and `protoNameToCliName`.
 

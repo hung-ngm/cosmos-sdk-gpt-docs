@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/types/events.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/types/events.go)
 
 The `types` package in the `cosmos-sdk` project contains the `EventManager` interface and its implementation. The `EventManager` interface defines a set of methods that allow for the management of events. Events are used to notify other parts of the system about changes or actions that have occurred. The `EventManager` interface provides methods to store and retrieve events, as well as methods to emit events in different formats.
 

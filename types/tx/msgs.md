@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/types/tx/msgs.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/types/tx/msgs.go)
 
 The `tx` package in the `cosmos-sdk` project contains code related to transactions. This particular file defines an interface called `MsgResponse` and provides functions to convert between `sdk.Msg` and `types.Any` types.
 

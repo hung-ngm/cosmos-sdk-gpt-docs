@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/x/feegrant/genesis.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/x/feegrant/genesis.go)
 
 The code above is a part of the feegrant module in the cosmos-sdk project. The purpose of this module is to allow users to grant other accounts the ability to pay transaction fees on their behalf. This code specifically deals with the creation and validation of the genesis state for the feegrant module.
 

@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/telemetry/wrapper.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/telemetry/wrapper.go)
 
 The `telemetry` package provides functionality for emitting metrics related to the Cosmos SDK. The package contains several functions that wrap around the `go-metrics` library to provide a shorthand for emitting metrics with global labels.
 

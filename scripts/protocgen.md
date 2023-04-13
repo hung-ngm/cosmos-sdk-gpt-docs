@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/scripts/protocgen.sh)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/scripts/protocgen.sh)
 
 The code is a bash script that generates gogo proto code for the cosmos-sdk project. Proto files are used to define the structure of messages that are sent between different parts of the system. The script first navigates to the `proto` directory and finds all the directories that contain proto files. It then iterates through each directory and generates gogo proto code for each proto file that does not have its `go_package` option set to `cosmossdk.io/api/...`. This is done to ensure that gogo proto files are only generated for proto files that are not natively built for `google.golang.org/protobuf`. The `buf generate` command is used to generate the gogo proto code based on the `buf.gen.gogo.yaml` template.
 

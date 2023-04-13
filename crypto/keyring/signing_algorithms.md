@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/crypto/keyring/signing_algorithms.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/crypto/keyring/signing_algorithms.go)
 
 The `keyring` package in the `cosmos-sdk` project provides functionality for managing and interacting with cryptographic keys. This specific file defines an interface `SignatureAlgo` for a keyring supported algorithm, which includes methods for getting the name of the algorithm, deriving a key from a seed, and generating a new key. 
 

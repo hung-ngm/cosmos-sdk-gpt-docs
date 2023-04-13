@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/crypto/keys/secp256k1/internal/secp256k1/libsecp256k1/src/basic-config.h)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/crypto/keys/secp256k1/internal/secp256k1/libsecp256k1/src/basic-config.h)
 
 This code defines a basic configuration for the secp256k1 library, which is used for elliptic curve cryptography. The purpose of this code is to allow for the library to be compiled with a minimal set of features, which can be useful for certain applications where memory or processing power is limited.
 

@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/x/staking/simulation/proposals.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/x/staking/simulation/proposals.go)
 
 The `simulation` package in the `cosmos-sdk` project contains code related to simulating the behavior of the blockchain network. This specific file, `proposal.go`, defines the simulation operation weights and proposal messages for the staking module.
 

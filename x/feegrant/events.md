@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/x/feegrant/events.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/x/feegrant/events.go)
 
 This code defines a set of constants that represent the different types of events that can occur within the `feegrant` module of the larger `cosmos-sdk` project. 
 

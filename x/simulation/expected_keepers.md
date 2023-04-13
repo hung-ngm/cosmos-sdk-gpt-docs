@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/x/simulation/expected_keepers.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/x/simulation/expected_keepers.go)
 
 The code above defines two interfaces, `AccountKeeper` and `BankKeeper`, which are used for simulations in the larger `cosmos-sdk` project. 
 

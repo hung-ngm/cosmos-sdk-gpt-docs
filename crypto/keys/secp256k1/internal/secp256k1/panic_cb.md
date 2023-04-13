@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/crypto/keys/secp256k1/internal/secp256k1/panic_cb.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/crypto/keys/secp256k1/internal/secp256k1/panic_cb.go)
 
 This file is a part of the cosmos-sdk project and contains code related to the secp256k1 cryptographic library. The secp256k1 library is used for generating and verifying digital signatures in the cosmos-sdk project.
 

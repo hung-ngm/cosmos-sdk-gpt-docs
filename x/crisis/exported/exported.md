@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/x/crisis/exported/exported.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/x/crisis/exported/exported.go)
 
 This code defines two types and an interface that are used for managing parameters in the cosmos-sdk project. The `ParamSet` type is an alias for the `ParamSet` type defined in the `github.com/cosmos/cosmos-sdk/x/params/types` package. This type is used to define a set of parameters that can be managed by the `Subspace` interface.
 

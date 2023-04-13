@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/x/auth/vesting/types/constants.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/x/auth/vesting/types/constants.go)
 
 This code defines two constants for the vesting module in the cosmos-sdk project. The first constant, `ModuleName`, simply sets the name of the module to "vesting". The second constant, `RouterKey`, sets the message routing key for the module to the same value as the module name. 
 

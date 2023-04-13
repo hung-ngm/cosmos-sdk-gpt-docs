@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/x/staking/types/params_legacy.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/x/staking/types/params_legacy.go)
 
 The code above is a part of the `cosmos-sdk` project and is located in the `types` package. This file contains a set of parameters that are used in the staking module of the `cosmos-sdk`. The staking module is responsible for managing the staking of tokens in the network. 
 

@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/types/module/core_module.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/types/module/core_module.go)
 
 The code is a part of the cosmos-sdk project and is located in the module package. The purpose of this code is to provide an adaptor for the core API module as an AppModule that this version of the SDK can use. It includes various methods that implement the AppModuleBasic and HasGenesis interfaces. 
 

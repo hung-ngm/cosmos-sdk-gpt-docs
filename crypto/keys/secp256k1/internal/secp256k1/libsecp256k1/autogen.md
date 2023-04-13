@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/crypto/keys/secp256k1/internal/secp256k1/libsecp256k1/autogen.sh)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/crypto/keys/secp256k1/internal/secp256k1/libsecp256k1/autogen.sh)
 
 This code is a shell script that is used to run the `autoreconf` command with certain flags and options. The purpose of this script is to generate the necessary files for building the project. 
 

@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/orm/types/kv/store.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/orm/types/kv/store.go)
 
 The code defines an interface for interacting with a key-value (KV) store backend. The KV store is used by ORM tables and indexes to read and write data. The interface defines two types of stores: ReadonlyStore and Store. ReadonlyStore provides read-only access to the KV store, while Store provides read-write access.
 

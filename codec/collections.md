@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/codec/collections.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/codec/collections.go)
 
 The code above is a part of the cosmos-sdk project and is located in the codec package. The purpose of this code is to provide value codecs for encoding and decoding Go types to and from bytes. The code defines two value codecs: BoolValue and CollValue.
 

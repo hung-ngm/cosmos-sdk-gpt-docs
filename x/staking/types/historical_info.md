@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/x/staking/types/historical_info.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/x/staking/types/historical_info.go)
 
 This file contains code related to historical information in the cosmos-sdk project. The `NewHistoricalInfo` function creates a new historical information struct from a header and a validator set. It first sorts the validator set before including it in the historical info. The `MustUnmarshalHistoricalInfo` function unmarshals historical info and panics if there is an error. The `UnmarshalHistoricalInfo` function unmarshals historical info and returns any error. The `ValidateBasic` function ensures that the historical info is not nil and sorted. The `Equal` function checks if the receiver is equal to the parameter. The `UnpackInterfaces` function implements the `UnpackInterfacesMessage.UnpackInterfaces` method.
 

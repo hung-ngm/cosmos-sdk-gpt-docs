@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/std/codec.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/std/codec.go)
 
 This file contains two functions that are used to register various types and interfaces with the Amino codec and the interface registry. The Amino codec is a serialization library used in the Cosmos SDK to encode and decode data structures. The interface registry is used to register interfaces that can be used to serialize and deserialize data.
 

@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/x/group/internal/orm/table.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/x/group/internal/orm/table.go)
 
 The `orm` package provides an object-relational mapping (ORM) layer for the Cosmos SDK. The `table` struct is the high-level object that provides storage mapper functionality. It stores persistent entities by a unique identifier called `RowID`. The `table` struct does not enforce uniqueness of the `RowID`, prefix uniqueness of keys, or optimize gas usage conditions. The caller must ensure that these things are handled. The `table` struct is private, so that only custom tables built on top of `table` can satisfy these requirements.
 

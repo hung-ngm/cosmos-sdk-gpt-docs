@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/x/group/errors/math.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/x/group/errors/math.go)
 
 This code is a part of the `errors` package in the `cosmos-sdk` project. The purpose of this code is to define an error message for an invalid decimal string in the math package. 
 

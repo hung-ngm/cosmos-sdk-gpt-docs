@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/x/authz/migrations/v2/keys.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/x/authz/migrations/v2/keys.go)
 
 The `v2` package in the `cosmos-sdk` project contains code related to authorization and permissions. This specific file defines functions and keys for storing and retrieving authorization grants.
 

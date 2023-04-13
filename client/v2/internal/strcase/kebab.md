@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/client/v2/internal/strcase/kebab.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/client/v2/internal/strcase/kebab.go)
 
 This file contains a set of functions for converting strings to various case formats. These functions are useful for formatting strings in a consistent way, which can be important for readability and interoperability between different systems.
 

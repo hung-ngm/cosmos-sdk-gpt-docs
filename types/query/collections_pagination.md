@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/types/query/collections_pagination.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/types/query/collections_pagination.go)
 
 The `query` package in the `cosmos-sdk` project provides functionality for paginating through collections of key-value pairs. This is useful for retrieving large amounts of data from a database or other storage system in a controlled and efficient manner. 
 

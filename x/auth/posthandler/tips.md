@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/x/auth/posthandler/tips.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/x/auth/posthandler/tips.go)
 
 The `posthandler` package contains a decorator for handling transactions with tips. The purpose of this decorator is to transfer the tip from the tipper to the fee payer. 
 

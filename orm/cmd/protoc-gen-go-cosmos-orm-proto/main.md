@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/orm/cmd/protoc-gen-go-cosmos-orm-proto/main.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/orm/cmd/protoc-gen-go-cosmos-orm-proto/main.go)
 
 The code above is a Go program that generates code for querying a database using the Cosmos SDK Object Relational Mapping (ORM) library. The program uses the `protogen` package from the Google Protocol Buffers library to generate code based on a `.proto` file. The generated code will be used to query a database and retrieve data in a structured format.
 

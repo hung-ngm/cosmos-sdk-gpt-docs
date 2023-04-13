@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/store/cachemulti/store.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/store/cachemulti/store.go)
 
 The `cachemulti` package provides an implementation of a multi-store that holds many branched stores. The `Store` struct is the main component of this package and implements the `types.CacheMultiStore` interface. It holds a database object of type `types.CacheKVStore`, which is a cache-wrapped key-value store. The `stores` field is a map of `types.StoreKey` to `types.CacheWrap`, where each `types.CacheWrap` is a cache-wrapped branched store. The `keys` field is a map of string to `types.StoreKey`, which is used to identify the store by name. The `traceWriter` field is an `io.Writer` object that is used to write trace logs, and the `traceContext` field is a `types.TraceContext` object that holds metadata for tracing.
 

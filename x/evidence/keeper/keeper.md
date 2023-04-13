@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/x/evidence/keeper/keeper.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/x/evidence/keeper/keeper.go)
 
 The code defines the Keeper for the evidence module in the cosmos-sdk project. The Keeper is responsible for managing persistence, state transitions, and query handling for the evidence module. The Keeper is created with a codec, store key, staking keeper, slashing keeper, and address codec. 
 

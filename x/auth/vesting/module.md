@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/x/auth/vesting/module.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/x/auth/vesting/module.go)
 
 This code defines the vesting module for the cosmos-sdk project. The module is responsible for handling vesting accounts, which are accounts that release funds over time according to a predefined schedule. The module is implemented as an app module, which means it can be plugged into the larger cosmos-sdk framework.
 

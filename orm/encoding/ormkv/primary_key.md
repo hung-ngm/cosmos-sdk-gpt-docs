@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/orm/encoding/ormkv/primary_key.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/orm/encoding/ormkv/primary_key.go)
 
 The `PrimaryKeyCodec` is a codec for primary keys in the cosmos-sdk project. It is used to encode and decode primary keys for use in the orm (object-relational mapping) package. The `PrimaryKeyCodec` is a struct that contains a `KeyCodec` and a `proto.UnmarshalOptions`. The `KeyCodec` is used to encode and decode keys, while the `proto.UnmarshalOptions` is used to unmarshal protobuf messages.
 

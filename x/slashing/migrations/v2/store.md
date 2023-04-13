@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/x/slashing/migrations/v2/store.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/x/slashing/migrations/v2/store.go)
 
 The `MigrateStore` function in the `v2` package of the `cosmos-sdk` project is responsible for performing in-place store migrations from version `v0.40` to `v0.43`. The purpose of this function is to update the store to be compatible with the latest version of the `cosmos-sdk`.
 

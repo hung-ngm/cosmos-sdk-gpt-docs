@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/collections/genesis.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/collections/genesis.go)
 
 The `collections` package contains a set of data structures that are used throughout the Cosmos SDK. This file defines an interface `genesisHandler` and a struct `jsonMapEntry`. The `genesisHandler` interface defines four methods: `validateGenesis`, `importGenesis`, `exportGenesis`, and `defaultGenesis`. These methods are used to validate, import, export, and generate default values for a map of key-value pairs. The `jsonMapEntry` struct is used to represent a key-value pair in JSON format.
 

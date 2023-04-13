@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/docs/docs/modules/_category_.json)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/docs/docs/modules/_category_.json)
 
 The code snippet above is a JSON object that represents a module within the cosmos-sdk project. The "label" field indicates the name of the module, which in this case is "SDK Modules". The "position" field specifies the order in which the module should appear in the project, and the "link" field is currently null, indicating that there is no hyperlink associated with this module.
 

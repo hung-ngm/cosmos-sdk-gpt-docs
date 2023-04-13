@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/x/mint/types/params_legacy.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/x/mint/types/params_legacy.go)
 
 This code is part of the `cosmos-sdk` project and is related to the minting module. It defines a set of parameters that can be used to configure the behavior of the module. The parameters are stored in a key-value store, where each parameter is associated with a unique key. The keys are defined as byte arrays at the beginning of the file.
 

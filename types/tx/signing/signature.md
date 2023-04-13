@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/types/tx/signing/signature.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/types/tx/signing/signature.go)
 
 The `signing` package in the `cosmos-sdk` project contains code related to signing and verifying transactions. The `SignatureV2` type is a convenience type that is used to represent a signature in application logic. It includes the public key to use for verifying the signature, the actual data of the signature (which includes sign modes and the signatures themselves), and the sequence of the account (only populated in `SIGN_MODE_DIRECT`). 
 

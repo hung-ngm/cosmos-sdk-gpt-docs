@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/x/mint/types/events.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/x/mint/types/events.go)
 
 This code defines event types for the Minting module in the cosmos-sdk project. The Minting module is responsible for creating new tokens and distributing them to validators and delegators. 
 

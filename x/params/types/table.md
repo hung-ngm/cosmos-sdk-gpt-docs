@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/x/params/types/table.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/x/params/types/table.go)
 
 The `KeyTable` type and associated functions in the `types` package of the `cosmos-sdk` project provide a way to define and manage a set of key-value pairs that can be used to configure various modules within the larger project. 
 

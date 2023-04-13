@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/x/upgrade/types/plan.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/x/upgrade/types/plan.go)
 
 The code above is a part of the cosmos-sdk project and contains functions related to upgrade plans. The purpose of this code is to provide basic validation of a Plan, check if a Plan is ready to execute given the current context, and return a string representation of when a Plan is due to be executed.
 

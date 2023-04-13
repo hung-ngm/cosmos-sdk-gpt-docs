@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/core/internal/registry.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/core/internal/registry.go)
 
 The code defines a module registry for the cosmos-sdk project. The registry is a map that stores module initializers indexed by their golang type. The purpose of the registry is to provide a way to initialize modules in a consistent and reliable way, avoiding any issues with protobuf descriptor initialization.
 

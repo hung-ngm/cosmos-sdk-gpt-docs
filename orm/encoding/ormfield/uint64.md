@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/orm/encoding/ormfield/uint64.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/orm/encoding/ormfield/uint64.go)
 
 The `ormfield` package contains two codecs for encoding and decoding uint64 values. The `FixedUint64Codec` encodes uint64 values as 8-byte big-endian integers, while the `CompactUint64Codec` encodes uint64 values using `EncodeCompactUint64`. The `FixedUint64Codec` is suitable for encoding uint64 values that are always 8 bytes long, while the `CompactUint64Codec` is suitable for encoding uint64 values in 2, 4, 6, or 9 bytes. 
 

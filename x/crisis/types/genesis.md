@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/x/crisis/types/genesis.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/x/crisis/types/genesis.go)
 
 The code above is a part of the `cosmos-sdk` project and is located in the `types` package. It contains functions for creating and validating a `GenesisState` object, which is used to define the initial state of the blockchain.
 

@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/client/grpc/cmtservice/status.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/client/grpc/cmtservice/status.go)
 
 The `getNodeStatus` function in the `cmtservice` package is responsible for retrieving the status of a node in the Cosmos SDK project. It takes in a context and a client context as parameters. The context is used to manage the lifecycle of the request, while the client context provides access to the node.
 

@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/x/authz/simulation/decoder.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/x/authz/simulation/decoder.go)
 
 The `simulation` package in the `cosmos-sdk` project contains code related to simulating the behavior of the blockchain. This particular file contains a function called `NewDecodeStore` that returns a closure that can be used to decode key-value pairs stored in the blockchain. 
 

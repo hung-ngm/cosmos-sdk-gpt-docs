@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/crypto/keys/secp256k1/internal/secp256k1/libsecp256k1/src/bench.h)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/crypto/keys/secp256k1/internal/secp256k1/libsecp256k1/src/bench.h)
 
 This code defines a set of functions for benchmarking the performance of cryptographic operations on the secp256k1 elliptic curve. The code is part of the larger cosmos-sdk project, which is a blockchain development framework that includes support for the secp256k1 curve.
 

@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/x/staking/migrations/v2/store.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/x/staking/migrations/v2/store.go)
 
 The `v2` package contains code for performing in-place store migrations from version 0.40 to version 0.43 of the Cosmos SDK. The `MigrateStore` function is the main function in this package and is responsible for performing the migrations. 
 

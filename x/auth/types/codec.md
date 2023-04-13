@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/x/auth/types/codec.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/x/auth/types/codec.go)
 
 The code above is responsible for registering various concrete types and interfaces used in the cosmos-sdk project for Amino JSON serialization. 
 

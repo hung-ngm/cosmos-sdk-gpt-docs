@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/x/authz/codec.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/x/authz/codec.go)
 
 The code above is part of the `cosmos-sdk` project and is located in the `authz` package. The purpose of this code is to register the necessary interfaces and concrete types for Amino JSON serialization. 
 

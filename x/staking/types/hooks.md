@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/x/staking/types/hooks.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/x/staking/types/hooks.go)
 
 This code defines a struct called `MultiStakingHooks` that implements the `StakingHooks` interface. The purpose of this struct is to combine multiple staking hooks into a single hook. The `StakingHooks` interface defines a set of functions that are called at various points during the staking process in the Cosmos SDK. By combining multiple hooks into a single hook, developers can simplify their code and reduce the number of hooks they need to manage.
 

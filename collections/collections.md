@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/collections/collections.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/collections/collections.go)
 
 The `collections` package provides a set of interfaces and implementations for collections of key-value pairs that can be stored in a persistent storage provider. The package includes a set of predefined key and value codecs for common types such as integers, strings, and bytes. 
 

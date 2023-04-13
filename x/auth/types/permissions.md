@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/x/auth/types/permissions.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/x/auth/types/permissions.go)
 
 This code defines a set of permissions that can be granted to an address in the Cosmos SDK project. The permissions are defined as constants at the top of the file, and include "Minter", "Burner", and "Staking". 
 

@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/x/authz/codec/doc.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/x/authz/codec/doc.go)
 
 The `codec` package in the `cosmos-sdk` project provides a singleton instance of the Amino codec that is used to register any concrete type that can later be referenced inside a `MsgGrant` or `MsgExec` instance so that they can be (de)serialized properly. 
 

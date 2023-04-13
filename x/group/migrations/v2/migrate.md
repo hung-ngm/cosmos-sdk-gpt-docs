@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/x/group/migrations/v2/migrate.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/x/group/migrations/v2/migrate.go)
 
 The `Migrate` function in this file is responsible for migrating the state of the `x/group` module from consensus version 1 to version 2. Specifically, it changes the group policy account from a module account to a base account. 
 

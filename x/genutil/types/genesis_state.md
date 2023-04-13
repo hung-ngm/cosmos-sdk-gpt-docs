@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/x/genutil/types/genesis_state.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/x/genutil/types/genesis_state.go)
 
 This file contains functions and types related to the GenesisState of the Cosmos SDK. The GenesisState is the initial state of the blockchain, which is created during the initialization of the network. The GenesisState contains the initial set of validators, the initial distribution of tokens, and other parameters that define the initial state of the network.
 

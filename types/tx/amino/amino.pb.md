@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/types/tx/amino/amino.pb.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/types/tx/amino/amino.pb.go)
 
 This file contains generated code for the `cosmos-sdk` project's `amino` package. The purpose of this code is to define and register several protocol buffer extensions that are used to annotate protocol buffer messages and fields with additional metadata. 
 

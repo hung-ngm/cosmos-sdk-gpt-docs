@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/tools/cosmovisor/upgrade.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/tools/cosmovisor/upgrade.go)
 
 The `UpgradeBinary` function is a part of the `cosmovisor` package in the `cosmos-sdk` project. This function is responsible for upgrading the binary of the current process. It takes a logger, a configuration object, and an upgrade plan as input parameters. The upgrade plan specifies the details of the upgrade, such as the name of the upgrade and the binaries to be downloaded.
 

@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/tools/rosetta/types.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/tools/rosetta/types.go)
 
 This file contains various constants and structs used in the Rosetta implementation of the Cosmos SDK. The Rosetta API is a standard interface for blockchain applications, and the Cosmos SDK is a framework for building blockchain applications. The purpose of this file is to define the metadata options and transaction types used in the Rosetta implementation of the Cosmos SDK.
 

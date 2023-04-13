@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/crypto/xsalsa20symmetric/symmetric.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/crypto/xsalsa20symmetric/symmetric.go)
 
 The `xsalsa20symmetric` package provides functions for symmetric encryption and decryption using the NaCl secretbox algorithm. The package exports two functions, `EncryptSymmetric` and `DecryptSymmetric`, which can be used to encrypt and decrypt data using a shared secret key. 
 

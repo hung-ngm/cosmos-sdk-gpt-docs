@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/crypto/keys/secp256k1/internal/secp256k1/libsecp256k1/src/scalar_8x32.h)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/crypto/keys/secp256k1/internal/secp256k1/libsecp256k1/src/scalar_8x32.h)
 
 This code defines a scalar representation for the secp256k1 curve, which is a widely used elliptic curve in blockchain technology. The scalar is a value that is used in cryptographic operations, such as generating public and private keys, signing transactions, and verifying signatures. 
 

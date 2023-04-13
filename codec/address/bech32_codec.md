@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/codec/address/bech32_codec.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/codec/address/bech32_codec.go)
 
 The code above defines a Bech32Codec struct that implements the address.Codec interface. This interface is used to encode and decode addresses in the Cosmos SDK. The Bech32Codec struct has two methods: StringToBytes and BytesToString. 
 

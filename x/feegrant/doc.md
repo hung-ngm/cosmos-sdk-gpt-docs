@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/x/feegrant/doc.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/x/feegrant/doc.go)
 
 The `feegrant` package provides functionality for authorizing the payment of transaction fees from one account to another account. This allows for a user to pay fees using the balance of an account different from their own. This can be useful in scenarios where a user wants to pay for fees using a master wallet or a third-party service wants to allow users to pay for transactions without holding their own coins.
 

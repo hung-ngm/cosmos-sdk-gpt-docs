@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/orm/encoding/docs.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/orm/encoding/docs.go)
 
 The `encoding` package in the `cosmos-sdk` project defines the fundamental types and algorithms for encoding and decoding protobuf objects and values to and from ORM key-value pairs. This package is essential for the proper functioning of the `cosmos-sdk` project, as it enables the serialization and deserialization of data structures used throughout the project.
 

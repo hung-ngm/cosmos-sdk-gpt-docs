@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/x/upgrade/types/msgs.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/x/upgrade/types/msgs.go)
 
 This file contains code related to software upgrades in the cosmos-sdk project. Specifically, it defines two message types: `MsgSoftwareUpgrade` and `MsgCancelUpgrade`. These messages are used to initiate and cancel software upgrades, respectively.
 

@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/x/mint/exported/exported.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/x/mint/exported/exported.go)
 
 The code above defines a type alias `ParamSet` for the `ParamSet` type from the `github.com/cosmos/cosmos-sdk/x/params/types` package. It also defines an interface called `Subspace` that is used for migration of `x/params` managed parameters.
 

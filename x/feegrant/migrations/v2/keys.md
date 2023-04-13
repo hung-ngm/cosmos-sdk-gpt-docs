@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/x/feegrant/migrations/v2/keys.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/x/feegrant/migrations/v2/keys.go)
 
 The code above is a part of the `cosmos-sdk` project and is located in the `v2` package. The purpose of this code is to provide a fee-granting mechanism for the Cosmos SDK. This mechanism allows one account (granter) to grant another account (grantee) the ability to pay transaction fees on their behalf. 
 

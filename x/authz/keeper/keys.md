@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/x/authz/keeper/keys.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/x/authz/keeper/keys.go)
 
 This file contains the implementation of the `keeper` package for the `cosmos-sdk` project. The package provides functionality for managing authorization grants. The package defines two store prefixes, `GrantKey` and `GrantQueuePrefix`, which are used to store authorization grants and grant queue items, respectively. 
 

@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/client/v2/autocli/flag/address.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/client/v2/autocli/flag/address.go)
 
 The code above is a part of the `cosmos-sdk` project and is located in the `flag` package. The purpose of this code is to define a custom flag type for bech32 account addresses. 
 

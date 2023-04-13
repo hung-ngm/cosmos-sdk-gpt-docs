@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/x/staking/keeper/migrations.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/x/staking/keeper/migrations.go)
 
 The code above is a part of the `cosmos-sdk` project and is located in the `keeper` package. The purpose of this code is to handle in-place store migrations for the `x/staking` module. The `Migrator` struct is defined to handle these migrations, and it contains a reference to the `Keeper` struct and a `legacySubspace` of type `exported.Subspace`. 
 

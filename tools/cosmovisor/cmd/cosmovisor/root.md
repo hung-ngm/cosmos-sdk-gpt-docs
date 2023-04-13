@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/tools/cosmovisor/cmd/cosmovisor/root.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/tools/cosmovisor/cmd/cosmovisor/root.go)
 
 The `NewRootCmd()` function is a part of the `cosmovisor` package in the `cosmos-sdk` project. It returns a new instance of the `cobra.Command` struct, which is a command-line interface (CLI) library for Go. The `rootCmd` instance is the main command for the `cosmovisor` CLI.
 

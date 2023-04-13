@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/orm/encoding/ormkv/key_codec.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/orm/encoding/ormkv/key_codec.go)
 
 The `KeyCodec` type in the `ormkv` package is responsible for encoding and decoding keys used in the Cosmos SDK. It provides methods for encoding and decoding keys, extracting values from a message, comparing keys, and checking if a range of keys is valid for iteration. 
 

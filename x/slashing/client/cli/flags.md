@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/x/slashing/client/cli/flags.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/x/slashing/client/cli/flags.go)
 
 This code defines a constant variable called `FlagAddressValidator` with a value of `"validator"`. This constant is used in the `cli` package of the `cosmos-sdk` project. 
 

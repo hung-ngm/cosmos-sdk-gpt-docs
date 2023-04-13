@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/x/feegrant/periodic_fee.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/x/feegrant/periodic_fee.go)
 
 The `feegrant` package contains the implementation of the `FeeAllowanceI` interface, which is used to define the rules for granting fee allowances to accounts. The `PeriodicAllowance` struct is a concrete implementation of the `FeeAllowanceI` interface, which allows an account to spend a certain amount of coins over a given period of time. 
 

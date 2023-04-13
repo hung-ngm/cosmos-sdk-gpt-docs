@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/simapp/sonar-project.properties)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/simapp/sonar-project.properties)
 
 This code is a configuration file for SonarQube, a code quality management tool. It sets various properties for the analysis of the Cosmos SDK SimApp project, which is a simulation application for the Cosmos SDK blockchain framework. 
 

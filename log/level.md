@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/log/level.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/log/level.go)
 
 The `log` package provides functionality for logging messages at different levels of severity. This file contains a function called `ParseLogLevel` that parses a complex log level string and returns a `FilterFunc` that can be used to filter log entries based on their severity level and the module they belong to.
 

@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/x/params/module.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/x/params/module.go)
 
 This code defines the `params` module for the Cosmos SDK blockchain framework. The module is responsible for managing the key-value pairs that configure the behavior of the blockchain. The module provides a way for users to propose changes to these parameters, which can be voted on by validators and ultimately implemented if approved.
 

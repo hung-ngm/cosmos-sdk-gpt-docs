@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/client/v2/autocli/flag/binary.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/client/v2/autocli/flag/binary.go)
 
 The `flag` package provides a way to define and parse command-line arguments in Go. This specific file defines a `binaryType` struct that implements the `Value` interface. It also defines a `fileBinaryValue` struct that holds a binary file and implements the `Value` interface.
 

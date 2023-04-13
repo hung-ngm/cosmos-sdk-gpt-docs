@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/x/group/internal/orm/types.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/x/group/internal/orm/types.go)
 
 The `orm` package provides a convenient object to data store mapper for the Cosmos SDK project. It defines several interfaces and types that are used to interact with the data store. 
 

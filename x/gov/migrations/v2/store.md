@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/x/gov/migrations/v2/store.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/x/gov/migrations/v2/store.go)
 
 The `MigrateStore` function in the `v2` package of the `cosmos-sdk` project is responsible for performing in-place store migrations from version 1 (v0.40) to version 2 (v0.43). The migration includes two main tasks: changing addresses to be length-prefixed and changing all legacy votes to ADR-037 weighted votes.
 

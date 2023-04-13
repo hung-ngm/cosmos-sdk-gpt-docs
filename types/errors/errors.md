@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/types/errors/errors.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/types/errors/errors.go)
 
 This code defines a set of error codes and messages that can be used throughout the cosmos-sdk project. The purpose of this code is to provide a standardized way of handling and reporting errors that may occur in various parts of the project. 
 

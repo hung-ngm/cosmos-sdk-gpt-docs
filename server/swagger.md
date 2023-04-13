@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/server/swagger.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/server/swagger.go)
 
 The `RegisterSwaggerAPI` function in the `server` package of the `cosmos-sdk` project provides a common way to register a Swagger route with the API server. Swagger is a tool for documenting and testing APIs, and the Swagger UI is a web-based interface for exploring and interacting with an API.
 

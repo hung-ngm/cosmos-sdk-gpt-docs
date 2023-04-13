@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/x/evidence/types/msgs.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/x/evidence/types/msgs.go)
 
 The `types` package in the `cosmos-sdk` project contains various types and interfaces used throughout the project. This specific file defines a message type called `MsgSubmitEvidence` that is used to submit evidence of misbehavior on the blockchain. 
 

@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/x/group/keeper/genesis.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/x/group/keeper/genesis.go)
 
 The code above is part of the `cosmos-sdk` project and specifically the `keeper` package. The purpose of this code is to initialize and export the genesis state of the group module. The group module is responsible for managing groups, group members, group policies, proposals, and votes. 
 

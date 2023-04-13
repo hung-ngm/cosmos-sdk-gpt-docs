@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/x/consensus/keeper/keeper.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/x/consensus/keeper/keeper.go)
 
 The `keeper` package in the `cosmos-sdk` project contains the implementation of the consensus module. The `Keeper` struct is defined with fields for storeService, event, authority, and ParamsStore. The `NewKeeper` function initializes a new `Keeper` instance with the provided `storeService`, `authority`, and `event`. It also creates a new `ParamsStore` instance using the provided `storeService` and `codec`. 
 

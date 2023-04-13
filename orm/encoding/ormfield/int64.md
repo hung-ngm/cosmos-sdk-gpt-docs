@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/orm/encoding/ormfield/int64.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/orm/encoding/ormfield/int64.go)
 
 The `Int64Codec` struct is a codec used for encoding and decoding 64-bit integers as big-endian unsigned 64-bit integers. The purpose of this codec is to allow these values to be used for ordered iteration. The maximum value of int32 (9223372036854775807) + 1 is added before encoding to ensure that the values can be ordered correctly. 
 

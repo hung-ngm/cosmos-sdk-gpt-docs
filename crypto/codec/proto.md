@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/crypto/codec/proto.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/crypto/codec/proto.go)
 
 The `codec` package in the `cosmos-sdk` project provides functionality for encoding and decoding data structures used in the Cosmos blockchain. This specific file, `interface.go`, defines a function called `RegisterInterfaces` that registers interfaces and their implementations with the `InterfaceRegistry` provided as an argument.
 

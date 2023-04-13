@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/store/internal/kv/kv.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/store/internal/kv/kv.go)
 
 This code defines methods for sorting a slice of key-value pairs. The `Pairs` type is a slice of `Pair` structs, where each `Pair` has a `Key` and a `Value` field. The `Len`, `Less`, and `Swap` methods are defined for the `Pairs` type to implement the `sort.Interface` interface, which is required for sorting using the `sort` package in Go.
 

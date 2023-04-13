@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/codec/types/interface_registry.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/codec/types/interface_registry.go)
 
 The code defines an interface called `AnyUnpacker` that allows for safely unpacking types packed in `Any` messages against a whitelist of registered types. It also defines an interface called `InterfaceRegistry` that provides a mechanism for registering interfaces and implementations that can be safely unpacked from `Any` messages. 
 

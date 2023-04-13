@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/x/nft/internal/conv/doc.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/x/nft/internal/conv/doc.go)
 
 The `conv` package in the `cosmos-sdk` project provides internal functions for conversions and data manipulation. This package is used to convert data between different formats and manipulate data in various ways. 
 

@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/x/gov/types/keys.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/x/gov/types/keys.go)
 
 The code defines constants, keys, and functions related to the governance module of the Cosmos SDK. The governance module allows token holders to propose and vote on changes to the network parameters, such as inflation rate or block size. 
 

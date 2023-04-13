@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/x/authz/keeper/migrations.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/x/authz/keeper/migrations.go)
 
 The code above is a part of the cosmos-sdk project and is located in the `keeper` package. The purpose of this code is to handle in-place store migrations from version 1 to version 2. 
 

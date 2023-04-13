@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/x/gov/types/v1beta1/codec.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/x/gov/types/v1beta1/codec.go)
 
 This file is part of the cosmos-sdk project and contains functions to register various types and interfaces for the governance module. The governance module is responsible for managing the on-chain governance of the Cosmos network. 
 

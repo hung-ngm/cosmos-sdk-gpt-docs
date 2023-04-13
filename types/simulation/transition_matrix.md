@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/types/simulation/transition_matrix.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/types/simulation/transition_matrix.go)
 
 The `simulation` package in the `cosmos-sdk` project contains code related to simulating the behavior of the blockchain network. This particular file defines an interface called `TransitionMatrix` which is used to represent a transition matrix for a Markov chain. 
 

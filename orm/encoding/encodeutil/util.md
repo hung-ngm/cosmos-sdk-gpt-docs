@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/orm/encoding/encodeutil/util.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/orm/encoding/encodeutil/util.go)
 
 The `encodeutil` package provides utility functions for encoding and decoding data in the cosmos-sdk project. This file contains three functions: `SkipPrefix`, `AppendVarUInt32`, and `ValuesOf`.
 

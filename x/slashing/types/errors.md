@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/x/slashing/types/errors.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/x/slashing/types/errors.go)
 
 This code defines a set of error variables for the `x/slashing` module in the `cosmos-sdk` project. These errors are used to handle various error scenarios that may occur during the execution of the module. 
 

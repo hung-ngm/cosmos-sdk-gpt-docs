@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/x/staking/types/querier.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/x/staking/types/querier.go)
 
 This file contains various types and functions related to querying staking information in the Cosmos SDK. It defines constants for the different query endpoints supported by the staking Querier, such as validators, delegations, and historical information. 
 

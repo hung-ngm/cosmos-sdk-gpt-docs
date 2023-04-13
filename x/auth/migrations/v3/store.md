@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/x/auth/migrations/v3/store.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/x/auth/migrations/v3/store.go)
 
 The code provided is a part of the cosmos-sdk project and is located in the v3 package. The purpose of this code is to perform an in-place store migration from version 0.45 to version 0.46. The migration includes adding an account number as an index to get the account address.
 

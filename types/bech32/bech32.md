@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/types/bech32/bech32.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/types/bech32/bech32.go)
 
 The `bech32` package provides functions for converting between base64 and base32 encoded byte strings and bech32 encoded strings. Bech32 is a format for encoding arbitrary data in a way that is easy to read and transcribe by humans, while still being efficient for machines to process. This package is used in the larger `cosmos-sdk` project for encoding and decoding addresses and other data structures.
 

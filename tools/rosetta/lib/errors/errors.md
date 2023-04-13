@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/tools/rosetta/lib/errors/errors.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/tools/rosetta/lib/errors/errors.go)
 
 The `errors.go` file in the `cosmos-sdk` project contains all the errors returned by the adapter implementation and some extra utilities to parse those errors. The purpose of this file is to define and manage errors that can be converted to a Rosetta API error. 
 

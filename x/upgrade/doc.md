@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/x/upgrade/doc.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/x/upgrade/doc.go)
 
 The `upgrade` package provides a module for upgrading a live Cosmos chain to a new software version in a safe and coordinated manner. The module achieves this by providing a `BeginBlocker` hook that prevents the blockchain state machine from proceeding once a pre-defined upgrade block height has been reached. The module does not prescribe how governance decides to do an upgrade, but rather provides a mechanism for coordinating the upgrade safely.
 

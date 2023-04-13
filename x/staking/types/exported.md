@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/x/staking/types/exported.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/x/staking/types/exported.go)
 
 This file defines two interfaces, `DelegationI` and `ValidatorI`, which are used in the larger cosmos-sdk project to represent delegation bonds and validators in a delegated proof of stake system.
 

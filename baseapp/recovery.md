@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/baseapp/recovery.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/baseapp/recovery.go)
 
 This file contains code related to error handling and recovery for the Cosmos SDK. It defines several types and functions that are used to create middleware chains for handling errors that occur during the execution of transactions.
 

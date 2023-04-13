@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/api/cosmos/app/v1alpha1/query_grpc.pb.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/api/cosmos/app/v1alpha1/query_grpc.pb.go)
 
 This code defines the client and server APIs for the Query service in the cosmos-sdk project. Specifically, it defines the Config method for the Query service, which returns the current app config. 
 

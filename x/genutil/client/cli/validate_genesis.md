@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/x/genutil/client/cli/validate_genesis.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/x/genutil/client/cli/validate_genesis.go)
 
 The `ValidateGenesisCmd` function is used to validate a genesis file for a Cosmos SDK-based blockchain application. The function takes a `module.BasicManager` as input and returns a `cobra.Command` that can be used to validate the genesis file. 
 

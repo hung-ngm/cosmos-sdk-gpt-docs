@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/x/upgrade/types/handler.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/x/upgrade/types/handler.go)
 
 The `types` package in the `cosmos-sdk` project contains a definition for the `UpgradeHandler` type. This type is used to specify the function that should be called when an upgrade is applied to the system. 
 

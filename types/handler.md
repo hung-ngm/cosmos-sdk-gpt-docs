@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/types/handler.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/types/handler.go)
 
 This file defines several types and functions related to the state transition function and transaction processing in the cosmos-sdk project. 
 

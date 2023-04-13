@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/types/bech32/legacybech32/pk.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/types/bech32/legacybech32/pk.go)
 
 The `legacybech32` package provides legacy bech32 functions that will be removed in a future release of the Cosmos SDK. The purpose of this package is to provide functions for encoding and decoding public keys in bech32 format. 
 

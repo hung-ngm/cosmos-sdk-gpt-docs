@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/x/authz/keeper/genesis.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/x/authz/keeper/genesis.go)
 
 The code above is part of the `keeper` package in the `cosmos-sdk` project. It defines two functions that are used to initialize and export the `authz` module's genesis state.
 

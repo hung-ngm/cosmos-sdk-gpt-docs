@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/core/event/service.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/core/event/service.go)
 
 The `event` package provides a basic API for app modules to emit events. The package contains two main interfaces: `Service` and `Manager`. The `Service` interface represents an event service that can retrieve and set an event manager in a context. The `Manager` interface represents an event manager that can emit events.
 

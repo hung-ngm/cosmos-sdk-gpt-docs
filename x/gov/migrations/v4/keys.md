@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/x/gov/migrations/v4/keys.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/x/gov/migrations/v4/keys.go)
 
 This code is a part of the `gov` module in the `cosmos-sdk` project. The `gov` module is responsible for governance-related functionalities such as proposing and voting on changes to the network. 
 

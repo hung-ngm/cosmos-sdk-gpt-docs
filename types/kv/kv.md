@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/types/kv/kv.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/types/kv/kv.go)
 
 This code defines two structs, `Pair` and `Pairs`, which are used to represent key-value pairs. The `Pair` struct has two fields, `Key` and `Value`, both of which are byte arrays. The `Pairs` struct has a single field, `Pairs`, which is a slice of `Pair` structs.
 

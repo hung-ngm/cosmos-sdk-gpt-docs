@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/buf.work.yaml)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/buf.work.yaml)
 
 This code is a workspace file for the cosmos-sdk project. It specifies the version of the workspace and the directories that contain the protobuf files and internal ORM files. 
 

@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/crypto/keyring/errors.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/crypto/keyring/errors.go)
 
 The code above defines a set of error variables that are used throughout the cosmos-sdk project. These errors are raised when certain conditions are met, such as when the caller tries to use a different signing scheme than secp256k1, or when the keyring backend is unknown. 
 

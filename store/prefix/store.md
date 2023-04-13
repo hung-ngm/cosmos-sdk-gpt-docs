@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/store/prefix/store.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/store/prefix/store.go)
 
 The `prefix` package provides a `Store` type that is similar to `cometbft/cometbft/libs/db/prefix_db`. The `Store` type gives access only to a limited subset of the store for convenience or safety. The `Store` type is defined with a `parent` field of type `types.KVStore` and a `prefix` field of type `[]byte`. The `NewStore` function creates a new `Store` instance with the given `parent` and `prefix`. 
 

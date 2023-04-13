@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/x/auth/types/params.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/x/auth/types/params.go)
 
 This file defines the default parameter values and validation functions for the Cosmos SDK. The `Params` struct contains five fields: `MaxMemoCharacters`, `TxSigLimit`, `TxSizeCostPerByte`, `SigVerifyCostED25519`, and `SigVerifyCostSecp256k1`. The `NewParams` function creates a new `Params` object with the given values for each field. The `DefaultParams` function returns a `Params` object with the default values for each field.
 

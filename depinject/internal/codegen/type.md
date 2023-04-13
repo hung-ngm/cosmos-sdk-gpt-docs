@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/depinject/internal/codegen/type.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/depinject/internal/codegen/type.go)
 
 The `TypeExpr` function in the `codegen` package generates an abstract syntax tree (AST) expression for a given `reflect.Type`. This AST expression can be used in the context of a Go file and includes any necessary imports. 
 

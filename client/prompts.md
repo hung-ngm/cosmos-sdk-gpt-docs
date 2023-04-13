@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/client/prompts.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/client/prompts.go)
 
 This file contains a set of functions that are used for input validation and string manipulation in the cosmos-sdk project. 
 

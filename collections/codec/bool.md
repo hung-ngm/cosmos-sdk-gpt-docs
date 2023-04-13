@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/collections/codec/bool.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/collections/codec/bool.go)
 
 This code defines a key codec for boolean values in the cosmos-sdk project. A key codec is a set of functions that encode and decode a key value into a byte slice. This particular key codec is used to encode and decode boolean values into a byte slice.
 

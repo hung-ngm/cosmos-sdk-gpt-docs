@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/store/cachekv/internal/btree.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/store/cachekv/internal/btree.go)
 
 The `internal` package contains an implementation of a B-tree data structure used as a sorted cache for the `cachekv` store in the `cosmos-sdk` project. The B-tree is implemented using the `tidwall/btree` package instead of the `google/btree` package because it provides an API to implement a step iterator directly. The B-tree is used extensively in the SDK core path, and it needs to be as fast as possible. The `MemDB` is mainly used as a mocking database in unit tests.
 

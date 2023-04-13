@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/x/gov/simulation/genesis.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/x/gov/simulation/genesis.go)
 
 The `simulation` package in the `cosmos-sdk` project contains code that is used to simulate various aspects of the Cosmos blockchain. This particular file contains functions that generate randomized values for the governance module's parameters. The governance module is responsible for managing proposals and voting on them. 
 

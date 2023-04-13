@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/tools/confix/doc.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/tools/confix/doc.go)
 
 The `confix` package is responsible for updating TOML configuration files in the Cosmos SDK project. Specifically, it applies changes to configurations created with an older version of the SDK to make them compatible with newer versions. 
 

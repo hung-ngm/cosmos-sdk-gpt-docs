@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/x/params/simulation/proposals.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/x/params/simulation/proposals.go)
 
 The code above is a part of the `cosmos-sdk` project and is located in the `simulation` package. The purpose of this code is to define the module weighted proposals' contents for the simulation of parameter change proposals. 
 

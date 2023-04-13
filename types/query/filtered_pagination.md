@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/types/query/filtered_pagination.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/types/query/filtered_pagination.go)
 
 The `query` package in the `cosmos-sdk` project provides functionality for querying data from the key-value store. The `FilteredPaginate` function in this package is used for pagination of all the results in the `PrefixStore` based on the provided `PageRequest`. It takes a `KVStore`, a `PageRequest`, and a function `onResult` as input. The `onResult` function is used to do actual unmarshaling and filter the results. If a key is provided, the pagination uses optimized querying. If an offset is used, the pagination uses lazy filtering, i.e., searches through all the records. The `accumulate` parameter represents if the response is valid based on the offset given. It will be false for the results (filtered) < offset and true for `offset > accumulate <= end`. When accumulate is set to true, the current result should be appended to the result set returned to the client.
 

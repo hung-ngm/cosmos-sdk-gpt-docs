@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/x/authz/authorizations.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/x/authz/authorizations.go)
 
 The `authz` package in the `cosmos-sdk` project contains an interface called `Authorization` and a struct called `AcceptResponse`. The `Authorization` interface defines the methods that various authorization types implemented by other modules must implement. The `Accept` method determines whether a grant permits a provided `sdk.Msg` to be performed and provides an upgraded authorization instance if it does. The `ValidateBasic` method does a simple validation check that doesn't require access to any other information. The `MsgTypeURL` method returns the fully-qualified Msg service method URL, which will process and accept or reject a request.
 

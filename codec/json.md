@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/codec/json.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/codec/json.go)
 
 The `codec` package in the `cosmos-sdk` project provides functionality for encoding and decoding data structures used in the project. This particular file contains a function called `ProtoMarshalJSON` that provides an auxiliary function to return Proto3 JSON encoded bytes of a message.
 

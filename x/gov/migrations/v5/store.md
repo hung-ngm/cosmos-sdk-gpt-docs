@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/x/gov/migrations/v5/store.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/x/gov/migrations/v5/store.go)
 
 The `MigrateStore` function in the `v5` package of the `cosmos-sdk` project is responsible for performing in-place store migrations from version 4 (v0.47) to version 5 (v0.48). Specifically, this function adds new proposal expedited parameters that are set to 0 by default. 
 

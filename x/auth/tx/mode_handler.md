@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/x/auth/tx/mode_handler.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/x/auth/tx/mode_handler.go)
 
 The code defines the default sign modes for protobuf transactions and provides a function to create a sign mode handler for these modes. The sign modes are defined as constants from the `signingtypes` package, which is imported from the `github.com/cosmos/cosmos-sdk/types/tx/signing` module. The default sign modes include `SIGN_MODE_DIRECT`, `SIGN_MODE_DIRECT_AUX`, and `SIGN_MODE_LEGACY_AMINO_JSON`. 
 

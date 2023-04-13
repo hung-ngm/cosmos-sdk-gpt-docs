@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/x/slashing/keeper/unjail.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/x/slashing/keeper/unjail.go)
 
 The `Unjail` function in the `keeper` package of the `cosmos-sdk` project is responsible for unjailing a validator if the jailed period has concluded. Validators can be jailed for various reasons, such as double signing or not meeting the minimum self-delegation requirement. When a validator is jailed, they are unable to participate in the consensus process and their delegators do not receive any rewards. Therefore, it is important to unjail validators as soon as possible to ensure the smooth operation of the network.
 

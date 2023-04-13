@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/crypto/keys/secp256k1/internal/secp256k1/libsecp256k1/src/field_5x52.h)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/crypto/keys/secp256k1/internal/secp256k1/libsecp256k1/src/field_5x52.h)
 
 This code defines two structs, `secp256k1_fe` and `secp256k1_fe_storage`, which are used to represent field elements in the secp256k1 elliptic curve cryptography (ECC) algorithm. 
 

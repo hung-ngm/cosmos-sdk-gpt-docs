@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/x/genutil/client/cli/collect.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/x/genutil/client/cli/collect.go)
 
 The `cli` package contains the command-line interface (CLI) functionality for the Cosmos SDK. This particular file defines a command to collect genesis transactions and output a genesis.json file. 
 

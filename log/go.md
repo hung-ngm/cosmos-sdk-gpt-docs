@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/log/go.sum)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/log/go.sum)
 
 This code is not actually a code file, but rather a list of dependencies for the cosmos-sdk project. The cosmos-sdk project is a blockchain development framework that allows developers to build custom blockchain applications. The listed dependencies are third-party packages that the cosmos-sdk project relies on to function properly. 
 

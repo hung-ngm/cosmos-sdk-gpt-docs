@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/x/staking/keeper/invariants.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/x/staking/keeper/invariants.go)
 
 The code provided is a part of the `cosmos-sdk` project and contains functions that register and run invariants for the staking module. The staking module is responsible for managing the validators and delegators in the Cosmos network. Validators are responsible for validating transactions and adding them to the blockchain, while delegators can delegate their tokens to validators to earn rewards.
 

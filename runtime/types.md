@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/runtime/types.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/runtime/types.go)
 
 This file defines an interface called `AppI` which specifies the common methods that a Cosmos SDK-based application should implement. The purpose of this interface is to provide a standard set of methods that can be used by different modules within the larger Cosmos SDK project. 
 

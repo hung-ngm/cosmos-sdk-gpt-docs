@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/x/mint/module.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/x/mint/module.go)
 
 The `mint` package in the `cosmos-sdk` project provides functionality for minting new tokens in a Cosmos SDK-based blockchain. This package contains code for the `AppModuleBasic` and `AppModule` types, which are used to define the basic application module and the application module for the mint module, respectively.
 

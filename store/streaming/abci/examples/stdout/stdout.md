@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/store/streaming/abci/examples/stdout/stdout.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/store/streaming/abci/examples/stdout/stdout.go)
 
 The code is a Go implementation of an ABCI (Application Blockchain Interface) listener for the cosmos-sdk project. The ABCI is a protocol that defines the interface between the Tendermint consensus engine and the application that runs on top of it. The listener is responsible for processing data sent over gRPC (remote procedure call) and forwarding it to external systems.
 

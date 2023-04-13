@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/x/group/proposal.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/x/group/proposal.go)
 
 The code above is a part of the `cosmos-sdk` project and is located in the `group` package. It contains three methods that are used to pack and unpack messages in a proposal.
 

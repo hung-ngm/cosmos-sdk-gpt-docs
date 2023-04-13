@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/depinject/one_per_module.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/depinject/one_per_module.go)
 
 The `depinject` package provides dependency injection functionality for the Cosmos SDK project. This specific file, `one_per_module.go`, contains code related to types that can have up to one value per module. These types are marked with the `OnePerModuleType` interface, which includes a single method `IsOnePerModuleType()` that serves as a marker function.
 

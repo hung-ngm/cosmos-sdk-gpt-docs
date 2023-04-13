@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/x/gov/codec/cdc.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/x/gov/codec/cdc.go)
 
 The code above is responsible for initializing and registering various codecs used in the cosmos-sdk project. 
 

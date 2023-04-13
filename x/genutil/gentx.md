@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/x/genutil/gentx.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/x/genutil/gentx.go)
 
 The `genutil` package provides utility functions for the Cosmos SDK's genesis process. This file contains several functions that are used to set up the initial state of the blockchain.
 

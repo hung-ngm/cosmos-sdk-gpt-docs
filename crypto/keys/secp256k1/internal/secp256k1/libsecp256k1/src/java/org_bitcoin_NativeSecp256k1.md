@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/crypto/keys/secp256k1/internal/secp256k1/libsecp256k1/src/java/org_bitcoin_NativeSecp256k1.h)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/crypto/keys/secp256k1/internal/secp256k1/libsecp256k1/src/java/org_bitcoin_NativeSecp256k1.h)
 
 This file contains a set of C functions that are used to interface with the secp256k1 library, which is a popular library for working with elliptic curve cryptography. The functions in this file are used to perform various operations related to public and private keys, including key generation, signing, and verification.
 

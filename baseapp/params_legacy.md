@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/baseapp/params_legacy.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/baseapp/params_legacy.go)
 
 This file contains legacy types and functions that aid in the migration of CometBFT consensus parameters from the now deprecated x/params modules to a new dedicated x/consensus module. The purpose of this file is to provide a way for developers to migrate their applications to the new module by implementing their upgrade handler correctly. 
 

@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/x/nft/module/module.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/x/nft/module/module.go)
 
 This code defines the `nft` module for the `cosmos-sdk` project. The `nft` module is responsible for managing non-fungible tokens (NFTs) on the Cosmos network. 
 

@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/x/auth/client/cli/broadcast.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/x/auth/client/cli/broadcast.go)
 
 The `cli` package contains command-line interface (CLI) functionality for the Cosmos SDK. This particular file contains a function called `GetBroadcastCommand()` that returns a Cobra command for broadcasting transactions generated offline. 
 

@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/orm/model/ormdb/file.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/orm/model/ormdb/file.go)
 
 The `fileDescriptorDB` type and its associated methods provide a way to interact with a key-value store that stores data in tables defined by protocol buffer messages. The `fileDescriptorDB` type is initialized with a protocol buffer file descriptor and options that define how the tables should be constructed. The `newFileDescriptorDB` function constructs the tables by iterating over the messages in the file descriptor and building a table for each message. The `TypeResolver` option is used to resolve the message types, and the `BackendResolver` option is used to resolve the backend storage implementation for each table. The `JSONValidator` option is an optional function that can be used to validate JSON representations of the messages.
 

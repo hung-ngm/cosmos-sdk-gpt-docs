@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/orm/model/ormtable/hooks.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/orm/model/ormtable/hooks.go)
 
 The `ormtable` package provides two interfaces for table hooks that can be used in the larger `cosmos-sdk` project. These interfaces are `ValidateHooks` and `WriteHooks`.
 

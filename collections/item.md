@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/collections/item.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/collections/item.go)
 
 The `collections` package contains a type declaration called `Item` and a set of methods that operate on it. The `Item` type is a wrapper around a `Map` type, with a non-existent key. The `Map` type is a key-value store that is used to store data in the Cosmos SDK. The `Item` type is used to store a single value in the `Map` store.
 

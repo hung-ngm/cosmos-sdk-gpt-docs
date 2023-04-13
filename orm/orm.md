@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/orm/orm.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/orm/orm.go)
 
 The `orm` package in the `cosmos-sdk` project provides an Object-Relational Mapping (ORM) layer for the Cosmos SDK. This layer is used to map objects in the application to tables in a database. The `module` package within the `orm` package provides a way to create a module-specific ORM layer. 
 

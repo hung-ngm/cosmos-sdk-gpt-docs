@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/types/tx/types.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/types/tx/types.go)
 
 This file contains the implementation of the `Tx` struct and its associated methods. The `Tx` struct represents a transaction in the Cosmos SDK. The purpose of this file is to provide methods for validating and processing transactions.
 

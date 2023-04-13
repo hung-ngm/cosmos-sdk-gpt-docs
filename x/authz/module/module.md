@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/x/authz/module/module.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/x/authz/module/module.go)
 
 The `authz` package in the `cosmos-sdk` project provides authorization functionality for Cosmos SDK applications. This package contains the implementation of the `AppModuleBasic` and `AppModule` structs, which are used to define the basic application module and the main application module, respectively.
 

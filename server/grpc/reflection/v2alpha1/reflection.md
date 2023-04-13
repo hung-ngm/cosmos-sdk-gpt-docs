@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/server/grpc/reflection/v2alpha1/reflection.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/server/grpc/reflection/v2alpha1/reflection.go)
 
 The `v2alpha1` package contains code for the Cosmos SDK reflection service. The `Register` function in this package registers the reflection service to a provided `grpc.Server` given a `Config`. The `Config` struct contains the signing modes, chain ID, SDK configuration, and interface registry. 
 

@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/crypto/keys/secp256k1/internal/secp256k1/libsecp256k1/src/modules/recovery/main_impl.h)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/crypto/keys/secp256k1/internal/secp256k1/libsecp256k1/src/modules/recovery/main_impl.h)
 
 The code provided is a C implementation of the ECDSA (Elliptic Curve Digital Signature Algorithm) signature recovery process for the secp256k1 curve. This code is part of the larger cosmos-sdk project, which is a blockchain framework that provides a modular architecture for building custom blockchain applications. 
 

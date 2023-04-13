@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/server/export.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/server/export.go)
 
 The `ExportCmd` function in the `server` package of the `cosmos-sdk` project is responsible for exporting the application state to JSON. This function takes an `AppExporter` interface and a default node home directory as input parameters and returns a `cobra.Command` object. The `AppExporter` interface is used to export the application state, while the default node home directory is used to set the root directory of the configuration.
 

@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/codec/codec.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/codec/codec.go)
 
 The `codec` package in the `cosmos-sdk` project provides functionality for serializing other objects. It defines an interface called `Codec` that users can implement to define custom Protobuf-based serialization. The `Codec` interface provides two implementations: `AminoCodec` and `ProtoCodec`. `AminoCodec` provides full Amino serialization compatibility, while `ProtoCodec` provides full Protobuf serialization compatibility. Note that Amino can still be used without any dependency on Protobuf.
 

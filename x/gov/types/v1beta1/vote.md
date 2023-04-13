@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/x/gov/types/v1beta1/vote.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/x/gov/types/v1beta1/vote.go)
 
 The code in this file provides functionality for creating and managing votes for proposals in the cosmos-sdk project. It defines several structs and methods for creating and manipulating votes, as well as functions for parsing and validating vote options.
 

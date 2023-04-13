@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/x/bank/types/params.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/x/bank/types/params.go)
 
 This code is part of the `cosmos-sdk` project and defines the parameter configuration for the bank module. The bank module is responsible for handling the transfer of tokens between accounts in the Cosmos network. 
 

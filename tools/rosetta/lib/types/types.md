@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/tools/rosetta/lib/types/types.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/tools/rosetta/lib/types/types.go)
 
 This file defines interfaces and APIs for interacting with a Cosmos SDK-based blockchain using the Rosetta API standard. The Rosetta API standard is a specification for blockchain interaction that aims to provide a standard interface for interacting with different blockchains. 
 

@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/x/staking/genesis.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/x/staking/genesis.go)
 
 The `staking` package in the `cosmos-sdk` project contains code related to the staking module of the Cosmos blockchain. The `WriteValidators` function in this file returns a slice of bonded genesis validators. It takes a `sdk.Context` and a `keeper.Keeper` as input parameters. The `keeper.Keeper` is a reference to the staking module's keeper, which is responsible for managing the state of the staking module. The function iterates over the last validators and appends their information to the `vals` slice. The `cmttypes.GenesisValidator` struct contains the address, public key, power, and name of the validator. The `ConsPubKey` method of the `types.ValidatorI` interface returns the consensus public key of the validator. The `ToCmtPubKeyInterface` function converts the consensus public key to a `cmttypes.PubKeyInterface` which is used to create the `cmttypes.GenesisValidator` struct. The function returns the `vals` slice and an error if one occurs.
 

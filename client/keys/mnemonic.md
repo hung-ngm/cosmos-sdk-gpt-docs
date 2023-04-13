@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/client/keys/mnemonic.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/client/keys/mnemonic.go)
 
 The `MnemonicKeyCommand` function in the `keys` package of the `cosmos-sdk` project is used to generate a bip39 mnemonic, also known as a seed phrase, for input entropy. The function takes no arguments and returns a `cobra.Command` object that can be used to execute the command. 
 

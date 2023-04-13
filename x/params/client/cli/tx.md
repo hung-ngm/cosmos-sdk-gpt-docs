@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/x/params/client/cli/tx.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/x/params/client/cli/tx.go)
 
 The `NewSubmitParamChangeProposalTxCmd` function is a CLI command handler that creates a parameter change proposal governance transaction. This function is part of the `cosmos-sdk` project and is located in the `cli` package. 
 

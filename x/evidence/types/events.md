@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/x/evidence/types/events.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/x/evidence/types/events.go)
 
 This code defines two constants related to the evidence module events in the cosmos-sdk project. The first constant, `EventTypeSubmitEvidence`, is a string that represents the event type for submitting evidence. The second constant, `AttributeKeyEvidenceHash`, is a string that represents the key for the evidence hash attribute.
 

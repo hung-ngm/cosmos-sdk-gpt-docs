@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/x/gov/types/config.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/x/gov/types/config.go)
 
 The `Config` struct in this file is used for initializing the governance (gov) module in the larger cosmos-sdk project. It is designed to avoid using global variables, which can make code harder to maintain and test. 
 

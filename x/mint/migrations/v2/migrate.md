@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/x/mint/migrations/v2/migrate.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/x/mint/migrations/v2/migrate.go)
 
 The code above is a migration function for the `x/mint` module in the Cosmos SDK. The purpose of this function is to migrate the state of the `x/mint` module from consensus version 1 to version 2. Specifically, it takes the parameters that are currently stored and managed by the `x/params` module and stores them directly into the `x/mint` module state.
 

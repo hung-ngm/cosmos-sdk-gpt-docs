@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/internal/conv/doc.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/internal/conv/doc.go)
 
 The `conv` package in the `cosmos-sdk` project provides internal functions for conversions and data manipulation. This package is used to convert data from one format to another, such as converting a string to a byte array or vice versa. It also provides functions for manipulating data, such as reversing a byte array or converting a byte array to a hexadecimal string.
 

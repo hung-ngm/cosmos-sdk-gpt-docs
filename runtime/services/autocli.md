@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/runtime/services/autocli.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/runtime/services/autocli.go)
 
 The `AutoCLIQueryService` type in the `services` package of the `cosmos-sdk` project implements the `cosmos.autocli.v1.Query` service. This service is used to generate command-line interfaces (CLIs) for modules in the Cosmos SDK. The `AutoCLIQueryService` type is responsible for extracting the `autocli.ModuleOptions` from the provided app modules and returning them in response to an `AppOptions` request. 
 

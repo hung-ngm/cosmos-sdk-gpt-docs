@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/proto/buf.gen.pulsar.yaml)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/proto/buf.gen.pulsar.yaml)
 
 This code is a configuration file for the cosmos-sdk project. It specifies the version of the project as "v1" and enables the use of a package manager called "managed". The "managed" section of the configuration file allows for the specification of a go package prefix, which is used to organize and import packages within the project. The default go package prefix is "cosmossdk.io/api", but there are exceptions specified in the "except" section. These exceptions are for specific packages that should not use the default prefix, such as "buf.build/googleapis/googleapis" and "buf.build/cosmos/gogo-proto". The "override" section allows for the specification of a different prefix for certain packages if needed.
 

@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/crypto/keys/secp256k1/internal/secp256k1/libsecp256k1/src/num_impl.h)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/crypto/keys/secp256k1/internal/secp256k1/libsecp256k1/src/num_impl.h)
 
 The code is a header file that includes the implementation of the `num` module in the `cosmos-sdk` project. The `num` module is responsible for handling arithmetic operations on large numbers used in cryptographic algorithms. 
 

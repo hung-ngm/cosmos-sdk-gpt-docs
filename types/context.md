@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/types/context.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/types/context.go)
 
 The `Context` type in the `types` package of the `cosmos-sdk` project is an immutable object that contains all the information needed to process a request. It contains a `context.Context` object inside, but it is recommended not to overuse it. The purpose of this type is to keep all data structured, and standard additions should be added to the `Context` struct. 
 

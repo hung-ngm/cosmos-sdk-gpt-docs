@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/x/tx/signing/sign_mode_handler.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/x/tx/signing/sign_mode_handler.go)
 
 The `signing` package in the `cosmos-sdk` project contains an interface called `SignModeHandler`. This interface defines the methods that handlers for each sign mode should implement to generate sign bytes. 
 

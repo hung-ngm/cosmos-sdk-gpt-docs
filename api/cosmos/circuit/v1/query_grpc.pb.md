@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/api/cosmos/circuit/v1/query_grpc.pb.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/api/cosmos/circuit/v1/query_grpc.pb.go)
 
 This code defines a gRPC service for the `cosmos-sdk` project, specifically for the `circuit` module. The service is defined in the `Query` interface, which has three methods: `Account`, `Accounts`, and `DisabledList`. These methods are used to query account permissions, a list of accounts, and a list of disabled message URLs, respectively. 
 

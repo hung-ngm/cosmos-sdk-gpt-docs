@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/client/docs/config.json)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/client/docs/config.json)
 
 This code is a Swagger specification file for the Cosmos SDK gRPC Gateway documentation. Swagger is a tool used to describe and document RESTful APIs. This file specifies the REST interface for state queries in the Cosmos SDK, which is a framework for building blockchain applications. 
 

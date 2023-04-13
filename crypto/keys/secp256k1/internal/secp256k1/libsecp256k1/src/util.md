@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/crypto/keys/secp256k1/internal/secp256k1/libsecp256k1/src/util.h)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/crypto/keys/secp256k1/internal/secp256k1/libsecp256k1/src/util.h)
 
 The code is a header file for the `cosmos-sdk` project that defines various utility functions and macros. The purpose of this file is to provide a set of common functions that can be used throughout the project. 
 

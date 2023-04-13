@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/tools/confix/cmd/mutate.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/tools/confix/cmd/mutate.go)
 
 The code above is a part of the cosmos-sdk project and contains two functions that return CLI commands to interactively update and get an application config value. The functions are `SetCommand()` and `GetCommand()`. 
 

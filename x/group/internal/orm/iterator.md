@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/x/group/internal/orm/iterator.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/x/group/internal/orm/iterator.go)
 
 The `orm` package provides an Object Relational Mapping (ORM) layer for the Cosmos SDK. The code in this file defines several functions and types related to iterating over and paginating through data stored in the ORM.
 

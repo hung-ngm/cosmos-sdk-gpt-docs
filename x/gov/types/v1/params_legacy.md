@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/x/gov/types/v1/params_legacy.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/x/gov/types/v1/params_legacy.go)
 
 This code defines a set of functions and variables related to parameter validation for the cosmos-sdk project. The purpose of this code is to ensure that the parameters used in the project are valid and meet certain criteria. 
 

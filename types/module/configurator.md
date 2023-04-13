@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/types/module/configurator.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/types/module/configurator.go)
 
 The `module` package provides an interface called `Configurator` that allows modules to configure and register their services. The `Configurator` interface is designed to support module object capabilities isolation. The `configurator` struct implements the `Configurator` interface and provides methods to register services, register migrations, and run module migrations.
 

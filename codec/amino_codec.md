@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/codec/amino_codec.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/codec/amino_codec.go)
 
 The `AminoCodec` type is a codec that utilizes the `Codec` type for both binary and JSON encoding. It is a part of the `cosmos-sdk` project. However, it is deprecated and should not be used. Instead, the `LegacyAmino` type should be used directly. The `AminoCodec` type implements the `Codec` interface, which defines methods for encoding and decoding binary and JSON data.
 

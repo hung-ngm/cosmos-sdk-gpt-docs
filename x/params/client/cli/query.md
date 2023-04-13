@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/x/params/client/cli/query.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/x/params/client/cli/query.go)
 
 The code above is a part of the cosmos-sdk project and it is located in the cli package. The purpose of this code is to provide a CLI command handler for querying subspace parameters managed by the x/params module. 
 

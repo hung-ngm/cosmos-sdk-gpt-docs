@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/tools/confix/cmd/diff.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/tools/confix/cmd/diff.go)
 
 The `DiffCommand` function is a command-line interface (CLI) command that is used to compare the configuration values of an application with the default values. The function takes two arguments, `target-version` and `app-toml-path`, and returns a `cobra.Command` object. 
 

@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/x/authz/client/cli/tx.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/x/authz/client/cli/tx.go)
 
 The code is a part of the cosmos-sdk project and it provides a command-line interface (CLI) for authorization transactions. The CLI allows users to grant and revoke authorization to execute transactions on behalf of their address. The code defines three commands: `grant`, `revoke`, and `exec`. 
 

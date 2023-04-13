@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/x/group/migrations/v2/gen_state.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/x/group/migrations/v2/gen_state.go)
 
 The `MigrateGenState` function in the `v2` package of the `cosmos-sdk` project is responsible for migrating the exported v0.46 `x/auth` genesis state to v0.47 `x/auth` genesis state. The migration process involves replacing group policy accounts from module accounts to base accounts if the group module is enabled. 
 

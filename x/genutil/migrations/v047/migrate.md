@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/x/genutil/migrations/v047/migrate.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/x/genutil/migrations/v047/migrate.go)
 
 The `Migrate` function in this file is responsible for migrating the exported state from version 0.46 to version 0.47 of the Cosmos SDK. It takes in two parameters: `appState`, which is a map of the application state, and `clientCtx`, which is the client context.
 

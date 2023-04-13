@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/x/slashing/migrations/v4/keys.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/x/slashing/migrations/v4/keys.go)
 
 This file contains functions related to validator signing information and missed block bitmaps in the cosmos-sdk project. 
 

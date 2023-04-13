@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/core/internal/buf.gen.yaml)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/core/internal/buf.gen.yaml)
 
 This code is a configuration file for the cosmos-sdk project. It sets the version of the project to v1 and enables the use of a package manager called "managed". The managed package manager allows for the management of dependencies and versioning of packages used in the project. 
 

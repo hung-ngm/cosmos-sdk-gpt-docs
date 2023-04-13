@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/x/crisis/types/codec.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/x/crisis/types/codec.go)
 
 This file is responsible for registering various codecs and interfaces used in the cosmos-sdk project. 
 

@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/client/v2/autocli/flag/value.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/client/v2/autocli/flag/value.go)
 
 The code defines two interfaces, `Value` and `HasValue`, that are used to wrap and interact with protobuf values in the context of command-line flags. The `Value` interface extends the `pflag.Value` interface, which is used to define custom flag types for command-line arguments in Go. The `HasValue` interface provides a method `Get` that returns the value of a protobuf value reference or an error. 
 

@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/x/nft/client/cli/tx.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/x/nft/client/cli/tx.go)
 
 The code defines the command-line interface (CLI) for the nft (non-fungible token) module of the cosmos-sdk project. The CLI provides a way for users to interact with the nft module through the command line. 
 

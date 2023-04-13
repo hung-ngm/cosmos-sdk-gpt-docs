@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/version/command.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/version/command.go)
 
 The `version` package in the `cosmos-sdk` project contains a CLI command that prints the application binary version information. This package is used to provide version information about the application to the user. The `NewVersionCommand` function returns a `cobra.Command` object that can be used to interactively print the version information.
 

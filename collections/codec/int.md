@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/collections/codec/int.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/collections/codec/int.go)
 
 This code defines two key codecs, `int64Key` and `int32Key`, which are used to encode and decode integer keys for use in the larger cosmos-sdk project. These codecs implement the `KeyCodec` interface, which specifies methods for encoding, decoding, and manipulating keys.
 

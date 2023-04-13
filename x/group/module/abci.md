@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/x/group/module/abci.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/x/group/module/abci.go)
 
 The `EndBlocker` function is a part of the `module` package in the `cosmos-sdk` project. This function is called at the end of every block and performs two main tasks: updating the `FinalTallyResult` of proposals and pruning expired proposals. 
 

@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/baseapp/msg_service_router.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/baseapp/msg_service_router.go)
 
 The code defines a message service router that routes fully-qualified message service methods to their respective handlers. The router is used to handle messages in the cosmos-sdk project. The router is implemented as an interface called `MessageRouter` and a struct called `MsgServiceRouter`. The `MsgServiceRouter` struct has two fields: `interfaceRegistry` and `routes`. The `interfaceRegistry` field is of type `codectypes.InterfaceRegistry` and is used to store the interface registry for the router. The `routes` field is a map that stores the message service handlers for each message type.
 

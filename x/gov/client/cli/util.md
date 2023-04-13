@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/x/gov/client/cli/util.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/x/gov/client/cli/util.go)
 
 The `cli` package in the `cosmos-sdk` project contains code for the command-line interface (CLI) of the Cosmos SDK. This file contains functions and types related to submitting governance proposals through the CLI.
 

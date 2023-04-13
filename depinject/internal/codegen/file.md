@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/depinject/internal/codegen/file.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/depinject/internal/codegen/file.go)
 
 The `FileGen` struct is a utility for generating and patching Go file Abstract Syntax Trees (ASTs) in the `cosmos-sdk` project. It contains the `File` field, which is a pointer to the AST of the file being generated or patched. The `idents` field is a map of all the reserved identifiers in the file, including Go keywords and top-level declaration identifiers. The `codegenPkgPath` field is a string representing the package path of the code generator. The `pkgImportMap` field is a map of package import paths to `importInfo` structs, which contain information about the package imports.
 

@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/x/auth/simulation/genesis.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/x/auth/simulation/genesis.go)
 
 The `simulation` package in the `cosmos-sdk` project contains code for simulating various aspects of the Cosmos blockchain. This particular file contains functions for generating random genesis accounts and state for the `auth` module, which is responsible for managing accounts and authentication on the blockchain.
 

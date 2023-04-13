@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/x/slashing/keeper/keeper.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/x/slashing/keeper/keeper.go)
 
 The `keeper` package in the `cosmos-sdk` project contains the implementation of the `Keeper` struct, which is responsible for managing the slashing store. The `Keeper` struct contains the store key, binary codec, legacy amino codec, staking keeper, and authority. It provides methods for adding and retrieving address-pubkey relations, slashing validators, and jailing validators.
 

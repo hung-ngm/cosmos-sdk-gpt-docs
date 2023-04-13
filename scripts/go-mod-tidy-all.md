@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/scripts/go-mod-tidy-all.sh)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/scripts/go-mod-tidy-all.sh)
 
 This code is a bash script that updates the go.mod files in the cosmos-sdk project. The go.mod file is used in Go projects to manage dependencies and versioning. This script iterates through all the directories in the project and finds the go.mod files. It then runs the `go mod tidy` command in each directory to update the dependencies and remove any unused ones.
 

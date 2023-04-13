@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/x/upgrade/plan/info.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/x/upgrade/plan/info.go)
 
 The `plan` package contains functionality related to upgrade plans for the Cosmos SDK. The `Info` struct is a special structure that represents the plan information as a JSON string. It contains a map of OS/architecture strings to URLs where the binary can be downloaded. The `BinaryDownloadURLMap` is a map of OS/architecture strings to URLs where the binary can be downloaded. 
 

@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/x/mint/types/expected_keepers.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/x/mint/types/expected_keepers.go)
 
 This file defines three interfaces: StakingKeeper, AccountKeeper, and BankKeeper. These interfaces are expected to be implemented by other modules in the cosmos-sdk project. 
 

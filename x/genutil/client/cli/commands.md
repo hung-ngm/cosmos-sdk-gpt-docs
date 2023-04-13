@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/x/genutil/client/cli/commands.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/x/genutil/client/cli/commands.go)
 
 The `cli` package in the `cosmos-sdk` project contains code for the command-line interface (CLI) of the Cosmos SDK. This particular file defines functions for adding core SDK sub-commands into the genesis command.
 

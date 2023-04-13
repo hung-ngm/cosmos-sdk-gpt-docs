@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/x/auth/types/account_retriever.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/x/auth/types/account_retriever.go)
 
 The `AccountRetriever` type in the `types` package of the `cosmos-sdk` project defines a set of methods that can be used to retrieve and query account information from the blockchain. This type implements the `client.Account` and `client.AccountRetriever` interfaces, which are used by the Cosmos SDK client to interact with the blockchain.
 

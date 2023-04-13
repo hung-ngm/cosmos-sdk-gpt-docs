@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/x/staking/types/commission.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/x/staking/types/commission.go)
 
 The code defines two structs, CommissionRates and Commission, and provides functions to initialize and validate them. CommissionRates represents the commission rates for a validator, including the current rate, maximum rate, and maximum change rate. Commission represents the commission for a validator, including the CommissionRates and the time it was last updated.
 

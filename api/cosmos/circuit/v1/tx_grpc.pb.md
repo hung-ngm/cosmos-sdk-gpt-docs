@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/api/cosmos/circuit/v1/tx_grpc.pb.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/api/cosmos/circuit/v1/tx_grpc.pb.go)
 
 This code defines the gRPC service for the `cosmos.circuit.v1.Msg` package. It provides three methods: `AuthorizeCircuitBreaker`, `TripCircuitBreaker`, and `ResetCircuitBreaker`. These methods allow a super-admin to grant or revoke circuit breaker permissions for another account, pause processing of messages in the state machine, and resume processing of messages that have been paused using `TripCircuitBreaker`, respectively.
 

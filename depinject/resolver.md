@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/depinject/resolver.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/depinject/resolver.go)
 
 The `depinject` package contains code related to dependency injection in the cosmos-sdk project. This specific file defines an interface called `resolver` which is used to resolve dependencies between modules in the project.
 

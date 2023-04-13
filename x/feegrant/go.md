@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/x/feegrant/go.mod)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/x/feegrant/go.mod)
 
 The code shown is not a part of the cosmos-sdk project, but rather a module located within it. The code is a Go module file that lists the dependencies required for the module to function properly. The module is called `cosmossdk.io/x/feegrant`.
 

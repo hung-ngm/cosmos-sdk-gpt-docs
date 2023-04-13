@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/orm/encoding/ormkv/codec.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/orm/encoding/ormkv/codec.go)
 
 The code defines two interfaces, `EntryCodec` and `IndexCodec`, which are used for encoding and decoding entries and index-keys in a key-value store. These interfaces enable full logical decoding of Object-Relational Mapping (ORM) data.
 

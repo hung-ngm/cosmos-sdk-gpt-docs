@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/types/invariant.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/types/invariant.go)
 
 This file defines several types and functions related to invariants in the cosmos-sdk project. Invariants are functions that test a particular condition or constraint in the system and return a descriptive message about what happened and a boolean indicating whether the invariant has been broken. If an invariant is broken, the simulator will halt and print the logs.
 

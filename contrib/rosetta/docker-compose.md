@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/contrib/rosetta/docker-compose.yaml)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/contrib/rosetta/docker-compose.yaml)
 
 This code is a docker-compose file that defines and configures four services for the cosmos-sdk project: cosmos, rosetta, faucet, and test_rosetta.
 

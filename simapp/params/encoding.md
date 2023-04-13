@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/simapp/params/encoding.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/simapp/params/encoding.go)
 
 The `EncodingConfig` struct in the `params` package of the `cosmos-sdk` project is used to specify the concrete encoding types to be used for a given application. This struct is provided for compatibility between protobuf and amino implementations.
 

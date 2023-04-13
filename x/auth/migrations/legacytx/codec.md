@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/x/auth/migrations/legacytx/codec.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/x/auth/migrations/legacytx/codec.go)
 
 The `legacytx` package contains code related to the legacy transaction format used in the Cosmos SDK. The `RegisterLegacyAminoCodec` function is used to register the `StdTx` struct with the `codec.LegacyAmino` codec. 
 

@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/types/proto.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/types/proto.go)
 
 The `CustomProtobufType` interface in the `types` package of the `cosmos-sdk` project defines the methods that custom gogo protobuf types must implement in order to be used as a "customtype" extension. 
 

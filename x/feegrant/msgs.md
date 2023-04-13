@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/x/feegrant/msgs.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/x/feegrant/msgs.go)
 
 The `feegrant` package in the `cosmos-sdk` project contains code related to fee allowances, which are used to grant permission to an account to spend tokens from another account. This file contains two message types: `MsgGrantAllowance` and `MsgRevokeAllowance`, which are used to grant and revoke fee allowances, respectively.
 

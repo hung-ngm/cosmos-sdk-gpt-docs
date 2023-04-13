@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/proto/buf.gen.gogo.yaml)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/proto/buf.gen.gogo.yaml)
 
 This code is a configuration file for the cosmos-sdk project. It specifies the version of the project as "v1" and lists two plugins: "gocosmos" and "grpc-gateway". 
 

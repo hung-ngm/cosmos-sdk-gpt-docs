@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/x/slashing/migrations/v4/migrate.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/x/slashing/migrations/v4/migrate.go)
 
 The `Migrate` function in this file is responsible for migrating state to consensus version 4 in the Cosmos SDK. Specifically, it deletes all existing validator bitmap entries and replaces them with a real "chunked" bitmap. 
 

@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/x/crisis/keeper/genesis.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/x/crisis/keeper/genesis.go)
 
 This code is a part of the `cosmos-sdk` project and is located in the `keeper` package. The purpose of this code is to handle the initialization and exporting of the crisis module's genesis state. 
 

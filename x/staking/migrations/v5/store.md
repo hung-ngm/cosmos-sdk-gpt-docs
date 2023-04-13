@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/x/staking/migrations/v5/store.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/x/staking/migrations/v5/store.go)
 
 The `MigrateStore` function in the `v5` package of the `cosmos-sdk` project performs an in-place store migration from version 4 to version 5. The function takes two arguments: a `sdk.Context` and a `storetypes.StoreKey`. The `ctx` argument is used to access the key-value store, while the `storeKey` argument is the key of the store to be migrated. The function returns an error if the migration fails.
 

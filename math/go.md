@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/math/go.sum)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/math/go.sum)
 
 This code is a list of dependencies for the cosmos-sdk project. The cosmos-sdk is a blockchain development framework that allows developers to build custom blockchains using the Tendermint consensus algorithm. The dependencies listed in this file are third-party libraries that the cosmos-sdk project relies on to function properly.
 

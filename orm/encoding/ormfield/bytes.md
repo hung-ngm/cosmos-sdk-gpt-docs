@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/orm/encoding/ormfield/bytes.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/orm/encoding/ormfield/bytes.go)
 
 The `ormfield` package contains code for encoding and decoding data types used in the Cosmos SDK. Specifically, this file defines two codecs for encoding and decoding byte arrays: `BytesCodec` and `NonTerminalBytesCodec`.
 

@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/crypto/hd/doc.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/crypto/hd/doc.go)
 
 The `hd` package in the `cosmos-sdk` project provides support for generating and deriving hierarchical deterministic wallets. This is achieved by implementing the BIP 32 and BIP 44 specifications, which define a standard for generating and deriving keys from a master seed. 
 

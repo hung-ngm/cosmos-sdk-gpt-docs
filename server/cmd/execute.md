@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/server/cmd/execute.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/server/cmd/execute.go)
 
 The `Execute` function in the `cmd` package of the `cosmos-sdk` project is responsible for executing the root command of an application. It creates a server context object with the appropriate server and client objects injected into the underlying stdlib Context. It also handles adding core CLI flags, specifically the logging flags. The function takes three arguments: `rootCmd`, `envPrefix`, and `defaultHome`. `rootCmd` is a pointer to a `cobra.Command` object that represents the root command of the application. `envPrefix` is a string that represents the environment variable prefix for the application. `defaultHome` is a string that represents the default home directory for the application.
 

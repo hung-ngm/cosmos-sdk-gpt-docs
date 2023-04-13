@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/client/config/toml.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/client/config/toml.go)
 
 The `config` package contains functions for reading and writing configuration files for the Cosmos SDK client. The `writeConfigToFile` function takes a file path and a `ClientConfig` struct as input, parses a default configuration template, and writes the rendered configuration to the specified file. The `getClientConfig` function reads a configuration file from the specified path using the `viper` library, unmarshals the configuration into a `ClientConfig` struct, and returns it.
 

@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/x/bank/types/events.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/x/bank/types/events.go)
 
 This file is part of the `cosmos-sdk` project and contains code related to the bank module event types. The purpose of this code is to define event types and attributes related to the bank module, which can be used to track supply and balance changes within the system. 
 

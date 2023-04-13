@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/types/result.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/types/result.go)
 
 This file contains various utility functions and types used in the cosmos-sdk project. 
 

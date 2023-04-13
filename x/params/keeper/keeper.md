@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/x/params/keeper/keeper.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/x/params/keeper/keeper.go)
 
 The code above defines the `Keeper` struct and its associated methods. The `Keeper` struct is responsible for managing the global parameter store for the Cosmos SDK. The parameter store is a key-value store that allows modules to store and retrieve parameters that are used to configure the behavior of the module.
 

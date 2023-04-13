@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/tools/cosmovisor/cmd/cosmovisor/main.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/tools/cosmovisor/cmd/cosmovisor/main.go)
 
 The code above is the entry point for the Cosmovisor tool in the Cosmos SDK project. The purpose of this tool is to manage the lifecycle of a Cosmos SDK-based blockchain application. It allows for seamless upgrades of the application without disrupting the network or requiring manual intervention from validators.
 

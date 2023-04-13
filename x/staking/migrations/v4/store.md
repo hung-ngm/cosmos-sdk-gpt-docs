@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/x/staking/migrations/v4/store.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/x/staking/migrations/v4/store.go)
 
 The `v4` package in the `cosmos-sdk` project contains code for performing in-place store migrations from version 3 to version 4. The `MigrateStore` function is the entry point for this package, and it takes four arguments: a `sdk.Context` object, a `storetypes.StoreKey` object, a `codec.BinaryCodec` object, and an `exported.Subspace` object. The function first retrieves the key-value store from the context object using the store key, and then calls two other functions to migrate the parameters and unbonding delegations.
 

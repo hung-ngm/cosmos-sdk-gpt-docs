@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/runtime/services.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/runtime/services.go)
 
 The `registerRuntimeServices` function is responsible for registering runtime services for the Cosmos SDK application. It takes a `module.Configurator` as input and returns an error if there is any. 
 

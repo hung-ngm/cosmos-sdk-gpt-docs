@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/x/bank/keeper/invariants.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/x/bank/keeper/invariants.go)
 
 The code above is a part of the `cosmos-sdk` project and is located in the `keeper` package. The purpose of this code is to register and run invariants for the `bank` module of the `cosmos-sdk`. 
 

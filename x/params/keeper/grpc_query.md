@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/x/params/keeper/grpc_query.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/x/params/keeper/grpc_query.go)
 
 The code above is a part of the `cosmos-sdk` project and contains two functions that are used to query the parameters and subspaces of the system. 
 

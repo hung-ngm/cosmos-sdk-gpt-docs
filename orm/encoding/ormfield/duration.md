@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/orm/encoding/ormfield/duration.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/orm/encoding/ormfield/duration.go)
 
 The `ormfield` package contains code related to encoding and decoding of protocol buffer messages. Specifically, this file contains code related to encoding and decoding of the `google.protobuf.Duration` message type. 
 

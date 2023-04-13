@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/api/cosmos/authz/v1beta1/tx_grpc.pb.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/api/cosmos/authz/v1beta1/tx_grpc.pb.go)
 
 This code defines the client and server APIs for the `Msg` service in the `cosmos/authz/v1beta1` package. The `Msg` service provides methods for granting, executing, and revoking authorizations for a given grantee on a granter's account. 
 

@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/x/simulation/client/cli/flags.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/x/simulation/client/cli/flags.go)
 
 The `cli` package in the `cosmos-sdk` project contains code related to the command-line interface of the project. This specific file defines a list of available flags for the simulator and provides functions to retrieve the values of these flags.
 

@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/x/consensus/types/msgs.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/x/consensus/types/msgs.go)
 
 The code defines a message type called `MsgUpdateParams` that is used to update the consensus parameters of a Tendermint blockchain. The `MsgUpdateParams` message contains fields for updating the maximum block size, maximum gas per block, maximum age of evidence, and validator public key types. 
 

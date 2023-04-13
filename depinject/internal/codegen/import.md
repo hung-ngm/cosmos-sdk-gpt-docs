@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/depinject/internal/codegen/import.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/depinject/internal/codegen/import.go)
 
 The `codegen` package contains code generation utilities for the Cosmos SDK project. The `AddOrGetImport` function is used to add a new import to a Go source file and return the unique import prefix for that path. 
 

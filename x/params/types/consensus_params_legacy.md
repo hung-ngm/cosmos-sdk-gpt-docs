@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/x/params/types/consensus_params_legacy.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/x/params/types/consensus_params_legacy.go)
 
 The code defines a function called `ConsensusParamsKeyTable()` that returns a `KeyTable` object. This function is marked as deprecated, which means it is no longer recommended to use it in the codebase. 
 

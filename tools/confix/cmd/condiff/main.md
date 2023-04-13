@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/tools/confix/cmd/condiff/main.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/tools/confix/cmd/condiff/main.go)
 
 The code is a command-line tool that compares two TOML configuration files and outputs the differences between them. The tool is part of the larger cosmos-sdk project and is located in the `cosmossdk.io/tools/confix` package. 
 

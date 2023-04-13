@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/store/snapshots/types/format.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/store/snapshots/types/format.go)
 
 The code defines a constant variable called `CurrentFormat` with a value of 3. This variable is used to represent the currently used format for snapshots in the cosmos-sdk project. Snapshots are a way to capture the state of the blockchain at a particular height and can be used to speed up syncing of new nodes. 
 

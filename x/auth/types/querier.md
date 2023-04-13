@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/x/auth/types/querier.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/x/auth/types/querier.go)
 
 This code defines two constants, `QueryAccount` and `QueryParams`, which are used as query endpoints in the auth Querier. The auth Querier is a module in the larger cosmos-sdk project that handles authentication and authorization for accounts. 
 

@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/client/v2/autocli/msg.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/client/v2/autocli/msg.go)
 
 The `autocli` package provides functionality for automatically generating command-line interfaces (CLIs) for gRPC services. This code defines two methods: `BuildMsgCommand` and `AddMsgServiceCommands`. 
 

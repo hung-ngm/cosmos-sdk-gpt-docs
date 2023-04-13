@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/client/account_retriever.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/client/account_retriever.go)
 
 This code defines interfaces and a mock implementation for retrieving and working with account information in the cosmos-sdk project. 
 

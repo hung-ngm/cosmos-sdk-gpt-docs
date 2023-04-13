@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/client/rpc/block.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/client/rpc/block.go)
 
 The `rpc` package in the `cosmos-sdk` project contains functions for interacting with the CometBFT RPC. The `GetChainHeight` function returns the current height of the blockchain. It takes a `client.Context` object as input and returns an integer height and an error.
 

@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/server/doc.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/server/doc.go)
 
 This code defines the `InterceptConfigsPreRunHandler` function which is responsible for configuring the commands from the Cosmos SDK using the `cobra` and `viper` packages. The `viper` package is used for configuration and determines the precedence of configuration sources, which are command line switches, environment variables, files from configuration values, and default values.
 

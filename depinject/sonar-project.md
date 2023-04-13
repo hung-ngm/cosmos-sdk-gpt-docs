@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/depinject/sonar-project.properties)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/depinject/sonar-project.properties)
 
 This code is a configuration file for the SonarQube code analysis tool, specifically for the Cosmos SDK Depinject project. SonarQube is a platform for continuous code quality inspection, and this configuration file sets various parameters for how SonarQube should analyze the code in the project.
 

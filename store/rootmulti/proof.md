@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/store/rootmulti/proof.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/store/rootmulti/proof.go)
 
 The code in this file provides two functions related to proof generation and verification in the cosmos-sdk project. 
 

@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/x/upgrade/abci.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/x/upgrade/abci.go)
 
 The `upgrade` package contains the `BeginBlocker` function, which is responsible for executing an upgrade plan at a specific block height. The function checks if there is a scheduled upgrade plan and if it is ready to be executed. If the current height is in the provided set of heights to skip, it will skip and clear the upgrade plan. If it is ready, it will execute it if the handler is installed, and panic/abort otherwise. If the plan is not ready, it will ensure the handler is not registered too early (and abort otherwise).
 

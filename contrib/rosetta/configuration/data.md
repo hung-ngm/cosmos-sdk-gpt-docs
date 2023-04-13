@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/contrib/rosetta/configuration/data.sh)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/contrib/rosetta/configuration/data.sh)
 
 This script is used to recreate the data directory for the `cosmos-sdk` project. It initializes a new chain and creates accounts with some initial balance. It then generates a genesis transaction (genTx) and adds it to the genesis file. The script also changes the network settings and starts the `simd` daemon. It waits for the daemon to be ready before sending a transaction to a deterministic address. Finally, it stops the daemon, zips the data directory, and saves it to `/tmp/data.tar.gz`.
 

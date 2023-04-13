@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/x/auth/signing/sign_mode_handler.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/x/auth/signing/sign_mode_handler.go)
 
 The `signing` package in the `cosmos-sdk` project provides functionality for generating and handling signatures for transactions. This particular file defines two interfaces, `SignModeHandler` and `SignModeHandlerWithContext`, which are used to generate sign bytes from a transaction and signer data for a given signing mode. 
 

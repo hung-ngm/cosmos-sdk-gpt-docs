@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/types/utils.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/types/utils.go)
 
 This file contains various utility functions that are used throughout the cosmos-sdk project. These functions are used to perform tasks such as sorting JSON, converting uint64 to big-endian byte slices, formatting time into a byte slice, and logging errors in deferred function calls.
 

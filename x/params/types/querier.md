@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/x/params/types/querier.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/x/params/types/querier.go)
 
 This file contains code related to querying module parameters in the cosmos-sdk project. It defines two structs, QuerySubspaceParams and SubspaceParamsResponse, which are used to query module parameters by a given subspace and key. 
 

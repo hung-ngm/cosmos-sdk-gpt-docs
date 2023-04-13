@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/client/docs/swagger-ui/oauth2-redirect.html)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/client/docs/swagger-ui/oauth2-redirect.html)
 
 This code is an HTML file that implements the OAuth2 redirect flow for Swagger UI. Swagger UI is a tool for visualizing and interacting with APIs that have been defined using the OpenAPI specification. OAuth2 is a protocol for authorization that allows users to grant third-party applications access to their resources on a server without sharing their credentials. 
 

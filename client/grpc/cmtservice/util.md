@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/client/grpc/cmtservice/util.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/client/grpc/cmtservice/util.go)
 
 The `cmtservice` package contains functions that convert CometBFT blocks and headers to their corresponding SDK (Software Development Kit) blocks and headers. The SDK is a set of tools and libraries that developers can use to build blockchain applications on top of the Cosmos network. 
 

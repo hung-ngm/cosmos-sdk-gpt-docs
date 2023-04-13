@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/crypto/ledger/ledger_notavail.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/crypto/ledger/ledger_notavail.go)
 
 This file is a part of the cosmos-sdk project and is located in the ledger package. The purpose of this code is to provide a mock implementation of the Ledger device for testing purposes. 
 

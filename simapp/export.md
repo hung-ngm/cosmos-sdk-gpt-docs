@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/simapp/export.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/simapp/export.go)
 
 The `ExportAppStateAndValidators` function in the `simapp` package is responsible for exporting the state of the application for a genesis file. This function takes in three parameters: `forZeroHeight`, `jailAllowedAddrs`, and `modulesToExport`. 
 

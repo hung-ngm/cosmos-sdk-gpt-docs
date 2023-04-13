@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/client/v2/autocli/flag/duration.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/client/v2/autocli/flag/duration.go)
 
 The code above is a part of the `flag` package in the `cosmos-sdk` project. This package is used to define and parse command-line flags for the application. The purpose of this specific code is to define a custom flag type for durations.
 

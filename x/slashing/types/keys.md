@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/x/slashing/types/keys.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/x/slashing/types/keys.go)
 
 This file contains various constants, keys, and functions related to the slashing module of the Cosmos SDK. The slashing module is responsible for penalizing validators who misbehave by slashing their staked tokens. 
 

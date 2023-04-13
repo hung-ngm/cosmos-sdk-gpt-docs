@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/x/gov/keeper/params.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/x/gov/keeper/params.go)
 
 The code above is a part of the `gov` module in the `cosmos-sdk` project. The `gov` module is responsible for managing the governance of the blockchain network. This includes the ability to propose and vote on changes to the network's parameters, such as transaction fees or block size limits.
 

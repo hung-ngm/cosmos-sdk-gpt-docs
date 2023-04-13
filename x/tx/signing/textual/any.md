@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/x/tx/signing/textual/any.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/x/tx/signing/textual/any.go)
 
 The `textual` package in the `cosmos-sdk` project contains code for rendering and parsing protocol buffer messages in a human-readable format. This specific file contains code for rendering and parsing messages of type `google.protobuf.Any`. 
 

@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/x/staking/types/pool.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/x/staking/types/pool.go)
 
 The code defines two constants, `NotBondedPoolName` and `BondedPoolName`, which are used as root names for pool module accounts in the larger cosmos-sdk project. These constants are used to identify the two types of pools that exist in the project: the not-bonded tokens pool and the bonded tokens pool.
 

@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/scripts/validate-gentxs.sh)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/scripts/validate-gentxs.sh)
 
 This script is used to validate and test the genesis file for a Cosmos SDK-based blockchain network. It ensures that the required environment variables are set and that the necessary dependencies are installed. The script then clones the specified GitHub repository, checks out the specified version, and installs the daemon. It then iterates over all the JSON files in the specified directory and validates each gentx file. 
 

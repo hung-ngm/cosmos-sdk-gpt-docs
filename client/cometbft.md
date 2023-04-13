@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/client/cometbft.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/client/cometbft.go)
 
 This code defines an interface called `CometRPC` which specifies the methods required for a CometBFT RPC client to handle queries and transactions. The interface extends the `rpcclient.ABCIClient` interface, which is defined in a separate package. 
 

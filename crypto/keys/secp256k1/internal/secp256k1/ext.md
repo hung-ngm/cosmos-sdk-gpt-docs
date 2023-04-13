@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/crypto/keys/secp256k1/internal/secp256k1/ext.h)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/crypto/keys/secp256k1/internal/secp256k1/ext.h)
 
 This file contains a set of functions for performing cryptographic operations using the secp256k1 elliptic curve. The functions are designed to create a context for signing and signature verification, recover the public key of an encoded compact signature, verify an encoded compact signature, decode and encode a public key, and multiply a point by a scalar in constant time.
 

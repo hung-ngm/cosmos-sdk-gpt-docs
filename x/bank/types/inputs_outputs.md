@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/x/bank/types/inputs_outputs.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/x/bank/types/inputs_outputs.go)
 
 The code above is part of the `cosmos-sdk` project and contains functions and types related to transaction inputs and outputs validation. 
 

@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/client/keys/list.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/client/keys/list.go)
 
 The `keys` package provides functionality for managing cryptographic keys in the Cosmos SDK. This file contains two commands for listing keys and key types respectively.
 

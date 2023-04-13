@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/store/pruning/manager.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/store/pruning/manager.go)
 
 The `pruning` package in the `cosmos-sdk` project contains the `Manager` type, which is responsible for handling the logic needed to determine when to prune old heights of the store based on the strategy described by the pruning options. The `Manager` type is an abstraction that provides a way to prune the store based on a given strategy. It has methods to set and get the pruning options, handle heights, and load pruning heights from the database as a crash recovery.
 

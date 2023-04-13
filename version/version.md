@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/version/version.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/version/version.go)
 
 The `version` package provides a utility for SDK consumers to easily add a version command to their application. This command produces versioning information based on flags passed at compile time. The package exports an `Info` struct that defines the application version information. The `NewInfo` function creates a new `Info` struct with the version information based on the values of the `Name`, `AppName`, `Version`, `Commit`, and `BuildTags` variables. The `String` method of the `Info` struct returns a formatted string with the version information. 
 

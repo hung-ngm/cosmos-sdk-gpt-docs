@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/store/types/proof.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/store/types/proof.go)
 
 The `types` package in the `cosmos-sdk` project contains various types and interfaces used throughout the project. This specific file defines a `CommitmentOp` type that implements the `merkle.ProofOperator` interface. The `CommitmentOp` type wraps an `ics23.CommitmentProof` and contains a `Key` field to determine which key the proof is proving. The `Type` and `Spec` fields are classified by the kind of merkle proof it represents, allowing the code to be reused by more types. The `Spec` field is never on the wire but is mapped from the type in the code.
 

@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/x/slashing/simulation/genesis.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/x/slashing/simulation/genesis.go)
 
 The `simulation` package in the `cosmos-sdk` project contains code for simulating various aspects of the Cosmos blockchain. This particular file contains code for generating randomized simulation parameters for the `slashing` module.
 

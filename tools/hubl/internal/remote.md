@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/tools/hubl/internal/remote.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/tools/hubl/internal/remote.go)
 
 The code is a part of the cosmos-sdk project and is located in the internal package. The purpose of this code is to provide a CLI (Command Line Interface) for interacting with Cosmos SDK chains. The code defines a root command and two helper functions, InitCommand and RemoteCommand. The root command is used to initialize a new chain and add commands to the CLI. The InitCommand function is used to initialize a new chain, while the RemoteCommand function is used to add commands to the CLI for interacting with existing chains.
 

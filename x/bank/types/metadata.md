@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/x/bank/types/metadata.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/x/bank/types/metadata.go)
 
 The `types` package in the `cosmos-sdk` project contains various data structures and functions that are used throughout the project. This particular file defines two functions, `Validate` and `Validate` for validating coin metadata and denomination units, respectively.
 

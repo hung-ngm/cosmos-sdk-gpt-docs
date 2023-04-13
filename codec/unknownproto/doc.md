@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/codec/unknownproto/doc.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/codec/unknownproto/doc.go)
 
 The `unknownproto` package provides functionality to "type check" protobuf serialized byte sequences against an expected `proto.Message`. This is useful for detecting potential issues such as unknown fields in the stream or mismatched wire types for a field, which could indicate mismatched services or even malicious actors.
 

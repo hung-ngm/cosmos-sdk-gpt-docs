@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/errors/stacktrace.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/errors/stacktrace.go)
 
 The `errors` package provides additional functionality to the standard Go `errors` package. This file contains several functions and a struct that are used to format and manipulate error messages and stack traces.
 

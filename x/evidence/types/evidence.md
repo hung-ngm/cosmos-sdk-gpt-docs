@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/x/evidence/types/evidence.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/x/evidence/types/evidence.go)
 
 The code defines the Equivocation type and implements the exported.Evidence interface for the cosmos-sdk project. The Equivocation type represents evidence of a validator equivocating, i.e., signing two different blocks at the same height. The code provides methods to validate, hash, and convert Equivocation evidence to and from ABCI types.
 

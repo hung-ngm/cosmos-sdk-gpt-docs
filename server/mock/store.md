@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/server/mock/store.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/server/mock/store.go)
 
 The code defines two structs, `multiStore` and `kvStore`, which implement various interfaces from the `storetypes` package. These interfaces define the behavior of a key-value store and a multi-store, which is a collection of key-value stores. The purpose of this code is to provide a mock implementation of these interfaces for use in testing and development of the larger `cosmos-sdk` project.
 

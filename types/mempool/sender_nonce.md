@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/types/mempool/sender_nonce.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/types/mempool/sender_nonce.go)
 
 The `SenderNonceMempool` is a mempool implementation that prioritizes transactions within a sender by nonce, the lowest first, but selects a random sender on each iteration. The mempool is iterated by maintaining a separate list of nonce-ordered transactions per sender. For each select iteration, a sender is randomly chosen, and the next nonce-ordered transaction from their list is picked. This process is repeated until the mempool is exhausted. The `SenderNonceMempool` is used to store transactions that are waiting to be included in a block. 
 

@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/x/auth/ante/fee.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/x/auth/ante/fee.go)
 
 The code in this file implements the DeductFeeDecorator, which is an AnteHandler that deducts transaction fees from the first signer of a transaction. The DeductFeeDecorator checks if the provided fee is enough and returns the effective fee and transaction priority. The effective fee should be deducted later, and the priority should be returned in the ABCI response. The DeductFeeDecorator is used to ensure that the first signer of a transaction has enough funds to pay for the transaction fees.
 

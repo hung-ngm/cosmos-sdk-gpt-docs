@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/crypto/keys/bcrypt/base64.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/crypto/keys/bcrypt/base64.go)
 
 This file contains functions for encoding and decoding data using the bcrypt algorithm. The bcrypt algorithm is a password hashing function that is commonly used for secure password storage. The functions in this file use base64 encoding to convert binary data to and from a string format that can be stored or transmitted.
 

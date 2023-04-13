@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/depinject/internal/graphviz/node.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/depinject/internal/graphviz/node.go)
 
 The `graphviz` package contains code for rendering graphviz graphs. The `Node` struct represents a graphviz node and contains a pointer to an `Attributes` struct and a `name` string. The `Attributes` struct contains attributes for the node such as color, shape, and label.
 

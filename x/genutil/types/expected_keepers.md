@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/x/genutil/types/expected_keepers.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/x/genutil/types/expected_keepers.go)
 
 This file defines several interfaces that are expected to be implemented by other modules in the cosmos-sdk project. These interfaces are used to interact with the staking and account modules, as well as to iterate over genesis accounts and balances.
 

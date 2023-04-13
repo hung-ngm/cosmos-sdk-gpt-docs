@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/x/tx/signing/direct/direct.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/x/tx/signing/direct/direct.go)
 
 The `direct` package in the `cosmos-sdk` project contains code related to direct signing of transactions. This particular file defines a `SignModeHandler` struct that implements the `signing.SignModeHandler` interface for the `SIGN_MODE_DIRECT` signing mode.
 

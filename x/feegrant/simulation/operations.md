@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/x/feegrant/simulation/operations.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/x/feegrant/simulation/operations.go)
 
 The `simulation` package in the `cosmos-sdk` project contains code for simulating operations in the network. This particular file contains code for simulating fee grant operations. 
 

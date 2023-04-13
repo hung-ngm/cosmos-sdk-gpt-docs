@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/x/simulation/event_stats.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/x/simulation/event_stats.go)
 
 The `simulation` package in the `cosmos-sdk` project contains code that is used to simulate various events that occur in the blockchain network. This particular file defines an object called `EventStats` that keeps track of the number of times each event has occurred during a simulation. 
 

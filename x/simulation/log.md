@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/x/simulation/log.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/x/simulation/log.go)
 
 This file contains code related to logging and simulation for the cosmos-sdk project. The purpose of this code is to provide a way to log simulation events and write them to a file. The file contains two types of log writers: StandardLogWriter and DummyLogWriter. 
 

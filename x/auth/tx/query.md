@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/x/auth/tx/query.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/x/auth/tx/query.go)
 
 The `tx` package in the `cosmos-sdk` project contains functions for querying transactions in the CometBFT blockchain. The `QueryTxsByEvents` function retrieves a list of paginated transactions from CometBFT's `TxSearch` RPC method given a set of pagination criteria and an events query. The function takes in a `client.Context` object, `page` and `limit` integers, a `query` string, and an `orderBy` string. The `query` string must be valid based on CometBFT's query semantics. The function returns a `SearchTxsResult` object and an error. If an empty `orderBy` is provided, the default behavior is ascending. If negative values are provided for `page` or `limit`, defaults will be used. 
 

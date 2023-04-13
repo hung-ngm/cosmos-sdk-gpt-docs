@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/simapp/params/proto.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/simapp/params/proto.go)
 
 This code defines a function called `MakeTestEncodingConfig` that creates an `EncodingConfig` object for a non-amino based test configuration. The `EncodingConfig` object contains several fields, including an interface registry, a codec, a transaction configuration, and an amino codec. 
 

@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/docs/docs/basics/_category_.json)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/docs/docs/basics/_category_.json)
 
 This code appears to be a JSON object that defines a label, position, and link for a section of the larger project. The label is "Basics", which suggests that this section may cover fundamental concepts or introductory material. The position is 1, which could indicate that this section is the first in a series or that it is particularly important. The link is null, which may mean that this section does not have an associated URL or that the link has not yet been defined.
 

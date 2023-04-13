@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/x/simulation/util.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/x/simulation/util.go)
 
 The `simulation` package in the `cosmos-sdk` project provides tools for simulating the behavior of the blockchain network. This file contains functions for generating and delivering transactions during the simulation.
 

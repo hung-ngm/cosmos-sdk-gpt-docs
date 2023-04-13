@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/x/params/types/proposal/codec.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/x/params/types/proposal/codec.go)
 
 The code above is a part of the `proposal` package in the `cosmos-sdk` project. It contains two functions that are used to register types with the codec and interface registry.
 

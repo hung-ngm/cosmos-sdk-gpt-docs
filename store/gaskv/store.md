@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/store/gaskv/store.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/store/gaskv/store.go)
 
 The `gaskv` package provides a wrapper around an underlying key-value store that tracks gas consumption for each operation. This package is part of the larger `cosmos-sdk` project and is used to implement the KVStore interface.
 

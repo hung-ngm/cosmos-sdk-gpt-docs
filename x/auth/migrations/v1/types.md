@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/x/auth/migrations/v1/types.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/x/auth/migrations/v1/types.go)
 
 This code defines two constants, `ModuleName` and `AddrLen`, for the `auth` module in the `cosmos-sdk` project. 
 

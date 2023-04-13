@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/crypto/keys/secp256k1/internal/secp256k1/libsecp256k1/src/scalar_low.h)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/crypto/keys/secp256k1/internal/secp256k1/libsecp256k1/src/scalar_low.h)
 
 This code defines a scalar representation for the secp256k1 curve, which is a widely-used elliptic curve in cryptography. The scalar is defined as a 32-bit unsigned integer and is used to perform scalar multiplication on points on the curve. 
 

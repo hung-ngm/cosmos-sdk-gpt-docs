@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/x/authz/keys.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/x/authz/keys.go)
 
 This code defines constants for the `authz` module in the `cosmos-sdk` project. 
 

@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/x/staking/keeper/alias_functions.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/x/staking/keeper/alias_functions.go)
 
 This file contains various functions related to the management of validators and delegations in the Cosmos SDK. The `Keeper` struct is defined here, which is responsible for managing the state of the staking module. 
 

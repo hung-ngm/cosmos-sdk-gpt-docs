@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/x/mint/client/cli/query.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/x/mint/client/cli/query.go)
 
 The code above is part of the `cosmos-sdk` project and is located in the `cli` package. The purpose of this code is to provide a set of command-line interface (CLI) query commands for the minting module of the Cosmos SDK. 
 

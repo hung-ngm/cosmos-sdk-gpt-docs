@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/depinject/internal/util/util.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/depinject/internal/util/util.go)
 
 The `util` package in the `cosmos-sdk` project contains two functions: `IterateMapOrdered` and `OrderedMapKeys`. These functions are used to iterate over a map with keys sorted in ascending order and to return the map keys in ascending order, respectively.
 

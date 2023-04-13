@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/orm/encoding/ormfield/string.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/orm/encoding/ormfield/string.go)
 
 The `ormfield` package contains two string codecs: `StringCodec` and `NonTerminalStringCodec`. These codecs are used to encode and decode strings as raw bytes or null-terminated raw bytes, respectively. 
 

@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/x/bank/types/send_authorization.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/x/bank/types/send_authorization.go)
 
 The code defines an implementation of the `Authorization` interface from the `authz` package in the `cosmos-sdk` project. Specifically, it defines a `SendAuthorization` struct that implements the `Authorization` interface. This authorization type is used to restrict the ability of an account to send tokens to other accounts based on a spend limit and an allow list of addresses.
 

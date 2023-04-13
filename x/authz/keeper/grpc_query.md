@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/x/authz/keeper/grpc_query.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/x/authz/keeper/grpc_query.go)
 
 The code above is a part of the `cosmos-sdk` project and it implements the `QueryServer` interface of the `authz` module. The `authz` module is responsible for managing authorizations for different types of messages in the Cosmos SDK. 
 

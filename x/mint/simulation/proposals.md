@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/x/mint/simulation/proposals.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/x/mint/simulation/proposals.go)
 
 The `simulation` package in the `cosmos-sdk` project provides functionality for simulating the behavior of the blockchain network. This specific file contains functions and constants related to simulating the behavior of the `mint` module.
 

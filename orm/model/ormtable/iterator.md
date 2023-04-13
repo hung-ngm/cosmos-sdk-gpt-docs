@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/orm/model/ormtable/iterator.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/orm/model/ormtable/iterator.go)
 
 The `ormtable` package contains an interface called `Iterator` and several functions that implement this interface. The `Iterator` interface is used for iterating over indexes. The `prefixIterator` function takes a `kv.ReadonlyStore`, a `ReadBackend`, a `concreteIndex`, a `*ormkv.KeyCodec`, a prefix, and a list of options. It returns an `Iterator` and an error. The `rangeIterator` function is similar to `prefixIterator`, but it takes a start and end key instead of a prefix. Both functions return an `Iterator` that can be used to iterate over the index.
 

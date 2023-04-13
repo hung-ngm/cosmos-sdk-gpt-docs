@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/x/feegrant/fees.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/x/feegrant/fees.go)
 
 The `feegrant` package contains an interface called `FeeAllowanceI` which defines the methods that a fee allowance implementation should implement. A fee allowance is used to enforce fee grant limits for a given fee delegator and delegatee. 
 

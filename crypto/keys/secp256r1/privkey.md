@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/crypto/keys/secp256r1/privkey.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/crypto/keys/secp256r1/privkey.go)
 
 The `secp256r1` package in the `cosmos-sdk` project provides functionality for generating and working with secp256r1 elliptic curve keys. This package contains methods for generating private keys, deriving public keys from private keys, signing messages using ECDSA, and serializing private keys.
 

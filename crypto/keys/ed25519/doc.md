@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/crypto/keys/ed25519/doc.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/crypto/keys/ed25519/doc.go)
 
 The `ed25519` package is a wrapper around the `crypto/ed25519` package that makes it compliant with the crypto interfaces. This package follows the zip215 rules and uses the `ed25519consensus` verification function from the `hdevalence/ed25519consensus` package to maintain compatibility with Tendermint's ed25519 implementation. 
 

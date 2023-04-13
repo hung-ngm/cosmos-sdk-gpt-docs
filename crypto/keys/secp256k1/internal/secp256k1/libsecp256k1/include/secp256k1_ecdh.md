@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/crypto/keys/secp256k1/internal/secp256k1/libsecp256k1/include/secp256k1_ecdh.h)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/crypto/keys/secp256k1/internal/secp256k1/libsecp256k1/include/secp256k1_ecdh.h)
 
 The code above is a header file for the secp256k1 library that provides a function for computing an EC Diffie-Hellman secret. The Diffie-Hellman key exchange is a cryptographic protocol that allows two parties to establish a shared secret over an insecure communication channel. The secp256k1 library is used in the Cosmos SDK to provide cryptographic functions for the Cosmos Hub and other Cosmos-based blockchains.
 

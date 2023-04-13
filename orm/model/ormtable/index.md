@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/orm/model/ormtable/index.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/orm/model/ormtable/index.go)
 
 The `ormtable` package in the `cosmos-sdk` project defines interfaces and types related to indexing and querying data in a table. The `Index` interface defines methods for iterating over and deleting entries in an index. The `List` method takes a prefix key and options and returns an iterator over all entries in the index with keys that have the given prefix. The `ListRange` method takes a range of keys and options and returns an iterator over all entries in the index with keys that fall within the given range. The `DeleteBy` method deletes all entries in the index with keys that have the given prefix. The `DeleteRange` method deletes all entries in the index with keys that fall within the given range. The `MessageType` method returns the protobuf message type of the index, and the `Fields` method returns the canonical field names of the index.
 

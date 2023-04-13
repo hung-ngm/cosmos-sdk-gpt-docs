@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/crypto/keys/secp256k1/internal/secp256k1/libsecp256k1/src/hash.h)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/crypto/keys/secp256k1/internal/secp256k1/libsecp256k1/src/hash.h)
 
 The code defines several data structures and functions related to cryptographic hashing and random number generation. These are essential components of many cryptographic protocols, including those used in blockchain technology.
 

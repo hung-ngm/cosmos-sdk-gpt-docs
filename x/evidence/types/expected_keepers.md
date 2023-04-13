@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/x/evidence/types/expected_keepers.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/x/evidence/types/expected_keepers.go)
 
 This file defines several interfaces that are used by the evidence module in the cosmos-sdk project. The evidence module is responsible for handling evidence of misbehavior by validators in the network. 
 

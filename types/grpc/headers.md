@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/types/grpc/headers.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/types/grpc/headers.go)
 
 This code defines a constant variable called `GRPCBlockHeightHeader` which is a string representing the gRPC header for block height. This header is used to indicate the block height of a particular request or response in the Cosmos SDK project. 
 

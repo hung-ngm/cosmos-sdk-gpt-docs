@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/api/cosmos/slashing/v1beta1/tx_grpc.pb.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/api/cosmos/slashing/v1beta1/tx_grpc.pb.go)
 
 This code defines a gRPC service for the `cosmos-sdk` project's `slashing` module. Specifically, it defines a `Msg` service with two methods: `Unjail` and `UpdateParams`. 
 

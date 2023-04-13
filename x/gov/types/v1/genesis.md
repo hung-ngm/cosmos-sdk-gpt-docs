@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/x/gov/types/v1/genesis.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/x/gov/types/v1/genesis.go)
 
 The code above is a part of the governance module in the cosmos-sdk project. It provides functions for creating, validating, and unpacking the genesis state of the governance module.
 

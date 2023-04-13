@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/x/tx/go.mod)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/x/tx/go.mod)
 
 This file is a module for the cosmos-sdk project that deals with transaction input and output. It imports various packages and modules that are required for the project to function properly. 
 

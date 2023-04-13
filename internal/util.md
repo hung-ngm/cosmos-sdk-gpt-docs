@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/internal/util.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/internal/util.go)
 
 The `util` package in the `cosmos-sdk` project contains a function called `CombineErrors`. This function takes in three parameters: `ret`, `also`, and `desc`. `ret` is an error that may already exist, `also` is an additional error that may be encountered, and `desc` is a string that describes the error.
 

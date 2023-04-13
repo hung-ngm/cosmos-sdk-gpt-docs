@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/orm/model/ormtable/filter.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/orm/model/ormtable/filter.go)
 
 The `filterIterator` struct and its associated methods are used to iterate over a collection of protocol buffer messages and filter out those that do not meet a certain criteria. The `filterIterator` struct contains an embedded `Iterator` interface, which provides the basic functionality for iterating over a collection of messages. In addition, the struct contains a `filter` function, which takes a protocol buffer message as input and returns a boolean value indicating whether the message should be included in the filtered collection.
 

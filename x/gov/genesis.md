@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/x/gov/genesis.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/x/gov/genesis.go)
 
 The `gov` package contains the implementation of the governance module for the Cosmos SDK. This module allows token holders to submit proposals, vote on them, and fund them with deposits. This file contains two functions: `InitGenesis` and `ExportGenesis`.
 

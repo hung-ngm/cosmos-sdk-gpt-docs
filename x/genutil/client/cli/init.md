@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/x/genutil/client/cli/init.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/x/genutil/client/cli/init.go)
 
 The `InitCmd` function in the `cli` package is responsible for initializing all the files required for Tendermint and the respective application. This function takes in two arguments: `mbm` of type `module.BasicManager` and `defaultNodeHome` of type `string`. The `mbm` argument is used to get the default genesis state of the application, while the `defaultNodeHome` argument is used to set the node's home directory.
 

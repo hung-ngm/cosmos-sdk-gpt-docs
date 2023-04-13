@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/x/auth/vesting/types/codec.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/x/auth/vesting/types/codec.go)
 
 The code above is part of the `cosmos-sdk` project and is responsible for registering various types and interfaces used for serialization and deserialization of data in the project. 
 

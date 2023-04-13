@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/baseapp/grpcrouter_helpers.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/baseapp/grpcrouter_helpers.go)
 
 The `QueryServiceTestHelper` struct in the `baseapp` package provides a helper for making gRPC query service RPC calls in unit tests. It implements both the `grpc.Server` and `grpc.ClientConn` interfaces needed to register a query service server and create a query service client. 
 

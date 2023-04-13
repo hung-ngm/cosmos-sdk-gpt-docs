@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/client/grpc_query.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/client/grpc_query.go)
 
 The `client` package contains the implementation of the `Context` struct, which is used to interact with the Cosmos SDK client. The `Context` struct implements the `gogogrpc.ClientConn` interface, which is used to make gRPC calls to the Cosmos SDK server.
 

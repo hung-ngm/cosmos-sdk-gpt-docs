@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/docs/src/css/base.css)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/docs/src/css/base.css)
 
 This code defines the base layer of the CSS styling for the cosmos-sdk project. The purpose of this code is to provide a consistent and visually appealing user interface for the project. 
 

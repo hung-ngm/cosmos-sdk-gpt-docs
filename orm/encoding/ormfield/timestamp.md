@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/orm/encoding/ormfield/timestamp.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/orm/encoding/ormfield/timestamp.go)
 
 The `ormfield` package contains two codecs for encoding and decoding Google Protocol Buffers (protobuf) `Timestamp` values. The `TimestampCodec` encodes `Timestamp` values as a byte slice with a fixed length of 9 bytes. The encoding scheme is as follows: nil values are encoded as `[]byte{0xFF}`, seconds are encoded as 5 fixed bytes, and nanoseconds are encoded as 4 bytes with the bit mask `0xC0` applied to the first byte. The `TimestampV0Codec` encodes `Timestamp` values as 12 bytes using `Int64Codec` for seconds followed by `Int32Codec` for nanoseconds. 
 

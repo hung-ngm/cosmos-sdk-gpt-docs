@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/tools/confix/upgrade.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/tools/confix/upgrade.go)
 
 The `confix` package provides functionality for upgrading and validating configuration files used in the Cosmos SDK project. The `Upgrade` function reads a configuration file at `configPath` and applies any necessary transformations to upgrade it to the current version. The transformed output is then written to `outputPath`. If `outputPath` is an empty string, the output is written to stdout. 
 

@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/types/query/query.pb.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/types/query/query.pb.go)
 
 This file contains generated code for the `cosmos/query/v1/query.proto` file. The purpose of this code is to provide functionality for querying data within the Cosmos SDK. 
 

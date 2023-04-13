@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/x/slashing/module.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/x/slashing/module.go)
 
 The code defines the implementation of the slashing module in the Cosmos SDK. The slashing module is responsible for detecting and punishing validators who misbehave in the network. The module is composed of several components, including a keeper, a set of message types, and a set of query types.
 

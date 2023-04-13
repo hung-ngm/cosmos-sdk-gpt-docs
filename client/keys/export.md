@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/client/keys/export.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/client/keys/export.go)
 
 The `ExportKeyCommand` function is a command-line interface (CLI) command that exports private keys from the key store. The function takes no arguments and returns a `cobra.Command` object. The command can be invoked from the command line with the `export` subcommand followed by the name of the key to be exported. The exported key is in ASCII-armored encrypted format, which can be decrypted using the passphrase used to encrypt it.
 

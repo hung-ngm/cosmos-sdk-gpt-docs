@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/client/v2/internal/util/util.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/client/v2/internal/util/util.go)
 
 The `util` package in the `cosmos-sdk` project contains a set of utility functions that can be used across the project. This particular file contains three functions that are used to work with Protocol Buffers (protobufs) in Go.
 

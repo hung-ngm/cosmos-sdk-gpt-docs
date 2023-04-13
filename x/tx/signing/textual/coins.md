@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/x/tx/signing/textual/coins.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/x/tx/signing/textual/coins.go)
 
 The `textual` package in the `cosmos-sdk` project contains code for rendering and parsing values in a textual format. Specifically, this file provides a `ValueRenderer` implementation for SDK Coin and Coins. 
 

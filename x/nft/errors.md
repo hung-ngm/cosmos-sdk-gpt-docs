@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/x/nft/errors.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/x/nft/errors.go)
 
 This code defines a set of sentinel errors for the `nft` module of the `cosmos-sdk` project. Sentinel errors are predefined errors that can be returned by functions in a module to indicate specific error conditions. 
 

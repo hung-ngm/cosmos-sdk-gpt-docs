@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/x/slashing/types/querier.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/x/slashing/types/querier.go)
 
 This code defines constants and a struct for querying information related to slashing in the cosmos-sdk project. The `const` block defines three query endpoints: `QueryParameters`, `QuerySigningInfo`, and `QuerySigningInfos`. These endpoints are used to query different types of information related to slashing.
 

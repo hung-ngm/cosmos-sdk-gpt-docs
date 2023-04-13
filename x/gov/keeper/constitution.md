@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/x/gov/keeper/constitution.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/x/gov/keeper/constitution.go)
 
 This code is a part of the `gov` module in the `cosmos-sdk` project. The purpose of this code is to define two functions that allow for the retrieval and setting of a constitution string in the module's key-value store.
 

@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/x/auth/client/tx.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/x/auth/client/tx.go)
 
 The `client` package in the `cosmos-sdk` project contains code that provides functionality for building and signing transactions, as well as reading and decoding transactions from files. The code in this file provides several functions for these purposes.
 

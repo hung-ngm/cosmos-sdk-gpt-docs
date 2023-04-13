@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/types/tx/tips.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/types/tx/tips.go)
 
 The code above defines an interface called `TipTx` that is used to handle tips in transactions within the `cosmos-sdk` project. The `TipTx` interface extends the `FeeTx` interface from the `sdk` package, which means that any implementation of `TipTx` must also implement the methods defined in `FeeTx`. 
 

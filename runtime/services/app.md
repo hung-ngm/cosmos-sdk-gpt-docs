@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/runtime/services/app.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/runtime/services/app.go)
 
 The code defines a service called `AppQueryService` that implements the `cosmos.app.v1alpha1.Query` interface. This service is used to query information about the application's configuration. 
 

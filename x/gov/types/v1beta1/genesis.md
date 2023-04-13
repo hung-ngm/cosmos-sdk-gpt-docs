@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/x/gov/types/v1beta1/genesis.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/x/gov/types/v1beta1/genesis.go)
 
 This file contains code related to the governance module of the cosmos-sdk project. The governance module allows token holders to propose and vote on changes to the network. 
 

@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/go.work.example)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/go.work.example)
 
 This code is a Go module file that imports various packages and modules from the `cosmos-sdk` project. The purpose of this file is to provide a centralized location for importing all the necessary dependencies for the project. 
 

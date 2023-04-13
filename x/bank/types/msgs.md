@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/x/bank/types/msgs.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/x/bank/types/msgs.go)
 
 This file contains message types and functions related to sending and updating parameters in the Cosmos SDK. The `MsgSend` type represents a message to send coins from one account to another, while the `MsgMultiSend` type represents a message to send coins from multiple accounts to multiple recipients. The `MsgUpdateParams` type represents a message to update certain parameters in the system. The `MsgSetSendEnabled` type represents a message to set one or more `SendEnabled` entries.
 

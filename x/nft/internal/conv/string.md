@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/x/nft/internal/conv/string.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/x/nft/internal/conv/string.go)
 
 The `conv` package in the `cosmos-sdk` project contains two functions that use the `unsafe` package to convert between strings and byte arrays without making any allocations. 
 

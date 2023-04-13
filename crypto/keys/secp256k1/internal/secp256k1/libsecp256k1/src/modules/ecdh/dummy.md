@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/crypto/keys/secp256k1/internal/secp256k1/libsecp256k1/src/modules/ecdh/dummy.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/crypto/keys/secp256k1/internal/secp256k1/libsecp256k1/src/modules/ecdh/dummy.go)
 
 This code is a simple Go package called `ecdh` that contains only a comment explaining its purpose. The comment indicates that this package is part of a workaround for `go mod vendor`, and directs the reader to another file called `crypto/secp256k1/dummy.go` for more information.
 

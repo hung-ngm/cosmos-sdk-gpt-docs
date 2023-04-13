@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/orm/cmd/protoc-gen-go-cosmos-orm/main.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/orm/cmd/protoc-gen-go-cosmos-orm/main.go)
 
 The code above is a simple Go program that runs a code generation tool for the cosmos-sdk project. The program imports the `protogen` package from the `google.golang.org/protobuf/compiler` module and the `codegen` package from the `github.com/cosmos/cosmos-sdk/orm/internal` module.
 

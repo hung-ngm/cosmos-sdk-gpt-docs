@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/x/params/proposal_handler.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/x/params/proposal_handler.go)
 
 The code above is a part of the `cosmos-sdk` project and is located in the `params` package. It contains a function that creates a new governance handler for a `ParamChangeProposal`. The purpose of this code is to handle proposals to change the parameters of the Cosmos SDK. 
 

@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/codec/types/any.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/codec/types/any.go)
 
 The `Any` type in the `types` package of the `cosmos-sdk` project is a protocol buffer message that can hold any other protocol buffer message. It is used to allow for the serialization and deserialization of messages of different types in a single field. 
 

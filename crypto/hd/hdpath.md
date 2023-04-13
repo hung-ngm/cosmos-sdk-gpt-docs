@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/crypto/hd/hdpath.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/crypto/hd/hdpath.go)
 
 The `hd` package in the `cosmos-sdk` project provides functionality for hierarchical deterministic (HD) key derivation and management. The code in this file defines functions and types for creating and parsing BIP 44 HD paths, deriving private keys from a seed and a path, and creating BIP 44 objects from account and index parameters.
 

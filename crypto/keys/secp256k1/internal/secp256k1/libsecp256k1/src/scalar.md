@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/crypto/keys/secp256k1/internal/secp256k1/libsecp256k1/src/scalar.h)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/crypto/keys/secp256k1/internal/secp256k1/libsecp256k1/src/scalar.h)
 
 The code defines a set of functions for working with scalar values in the context of the cosmos-sdk project. Scalars are used extensively in cryptography, and in particular in elliptic curve cryptography, which is used in the cosmos-sdk project for secure key generation and signing.
 

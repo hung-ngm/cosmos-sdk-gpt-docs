@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/types/mempool/noop.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/types/mempool/noop.go)
 
 The code defines a no-op mempool implementation called `NoOpMempool`. A mempool is a buffer where transactions are temporarily stored before they are added to a block by a validator. The purpose of this implementation is to completely discard and ignore transactions that are added to the mempool. This can be useful in situations where an application wants to rely on a different transaction ordering mechanism, such as CometBFT's transaction ordering defined in `RequestPrepareProposal`, which is FIFO-ordered by default.
 

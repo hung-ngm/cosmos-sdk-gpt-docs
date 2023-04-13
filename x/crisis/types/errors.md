@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/x/crisis/types/errors.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/x/crisis/types/errors.go)
 
 This code defines two sentinel errors for the x/crisis module in the cosmos-sdk project. Sentinel errors are predefined errors that are used to represent specific error conditions in a program. 
 

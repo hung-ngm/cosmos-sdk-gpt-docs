@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/x/auth/ante/validator_tx_fee.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/x/auth/ante/validator_tx_fee.go)
 
 The `checkTxFeeWithValidatorMinGasPrices` function in the `ante` package of the `cosmos-sdk` project implements the default fee logic for a transaction. The function takes in a context and a transaction as input and returns the fee, priority, and an error. The function first checks if the transaction is a `FeeTx` type and returns an error if it is not. It then extracts the fee and gas from the transaction. If the context is a `CheckTx`, the function ensures that the provided fees meet a minimum threshold for the validator. It does this by checking the minimum gas prices set by the validator and ensuring that the fee provided by the transaction is greater than or equal to the required fee. If the fee is not sufficient, the function returns an error. Finally, the function calculates the priority of the transaction based on the fee and gas provided using the `getTxPriority` function.
 

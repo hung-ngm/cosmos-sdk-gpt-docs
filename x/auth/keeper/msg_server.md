@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/x/auth/keeper/msg_server.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/x/auth/keeper/msg_server.go)
 
 The code above is a part of the `cosmos-sdk` project and is located in the `keeper` package. The purpose of this code is to implement the `MsgServer` interface of the `x/auth` module. The `MsgServer` interface is used to define the server-side message handlers for the `x/auth` module. 
 

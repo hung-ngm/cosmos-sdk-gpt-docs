@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/orm/types/docs.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/orm/types/docs.go)
 
 The code above is a package called `types` that contains various types used in the ORM (Object-Relational Mapping) implementation of the larger project. ORM is a technique used to map objects from a programming language to a relational database, allowing developers to interact with the database using objects instead of SQL queries.
 

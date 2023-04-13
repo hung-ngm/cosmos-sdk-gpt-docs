@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/client/v2/autocli/flag/enum.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/client/v2/autocli/flag/enum.go)
 
 The code defines two types, `enumType` and `enumValue`, which are used to handle protobuf enums. The `enumType` type is responsible for creating new instances of `enumValue` and setting their values based on user input. The `enumValue` type represents a single value of a protobuf enum and provides methods for getting, setting, and formatting the value.
 

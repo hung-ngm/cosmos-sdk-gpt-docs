@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/orm/internal/codegen/codegen.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/orm/internal/codegen/codegen.go)
 
 The code above is a Go package called `codegen` that contains two functions: `ORMPluginRunner` and `QueryProtoPluginRunner`. These functions are used to generate code for the Cosmos SDK project, specifically for the Object Relational Mapping (ORM) and Query Protocol Buffer (Proto) plugins.
 

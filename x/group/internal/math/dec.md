@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/x/group/internal/math/dec.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/x/group/internal/math/dec.go)
 
 The `math` package provides helper functions for mathematical calculations and parsing for the group module in the Cosmos SDK project. The `Dec` struct is a wrapper around the `apd.Decimal` type that ensures safe usage by creating a new `apd.Decimal` for every operation instead of mutating the underlying `Decimal`. This is necessary because `apd` operations can mutate the underlying `Decimal`, and copying the `big.Int` structure can cause corruption when shared between `Decimal` instances. 
 

@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/tools/rosetta/lib/errors/registry.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/tools/rosetta/lib/errors/registry.go)
 
 The code above defines an error registry for the Rosetta API implementation in the Cosmos SDK project. The error registry is used to register and store error codes and messages that can be returned by the Rosetta API. 
 

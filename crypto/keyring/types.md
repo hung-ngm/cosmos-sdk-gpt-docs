@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/crypto/keyring/types.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/crypto/keyring/types.go)
 
 This file contains various types and constants related to key management and generation in the cosmos-sdk project. The `Language` type is an enumeration of supported languages for creating BIP 39 mnemonics, which are used to generate deterministic keys. Currently, only English is supported. The `KeyType` type is another enumeration that represents the type of key being used, such as local, ledger, offline, or multi. The `keyTypes` map provides human-readable names for each key type.
 

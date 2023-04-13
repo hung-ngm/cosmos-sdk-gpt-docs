@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/x/gov/client/utils/utils.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/x/gov/client/utils/utils.go)
 
 The `utils` package in the `cosmos-sdk` project contains several utility functions that are used throughout the project. This file in particular contains functions that normalize user input for various parameters related to governance proposals.
 

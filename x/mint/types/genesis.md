@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/x/mint/types/genesis.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/x/mint/types/genesis.go)
 
 This file contains various functions and types related to the inflation calculation and genesis state of the Cosmos SDK. 
 

@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/log/sonar-project.properties)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/log/sonar-project.properties)
 
 This code is a configuration file for the SonarQube tool, which is used for code quality analysis. The purpose of this file is to define the parameters for analyzing the code in the cosmos-sdk project, specifically for the log module. 
 

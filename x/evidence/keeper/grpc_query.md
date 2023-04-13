@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/x/evidence/keeper/grpc_query.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/x/evidence/keeper/grpc_query.go)
 
 The code above is a part of the cosmos-sdk project and is located in the `keeper` package. The purpose of this code is to implement two gRPC methods for querying evidence. The `Evidence` method retrieves a single piece of evidence by its hash, while the `AllEvidence` method retrieves all evidence stored in the KVStore.
 

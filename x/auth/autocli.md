@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/x/auth/autocli.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/x/auth/autocli.go)
 
 The code above is a part of the `cosmos-sdk` project and is located in the `auth` package. It defines a function called `AutoCLIOptions` that implements the `autocli.HasAutoCLIConfig` interface. This function returns a pointer to a `ModuleOptions` struct that contains configuration options for the `autocli` tool.
 

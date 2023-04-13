@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/x/gov/migrations/v3/convert.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/x/gov/migrations/v3/convert.go)
 
 The `v3` package in the `cosmos-sdk` project contains functions for converting between different versions of proposals, votes, and deposit parameters. The `ConvertToLegacyProposal` function takes a new proposal of type `v1.Proposal` and attempts to convert it to the legacy proposal format of type `v1beta1.Proposal`. This conversion is best effort, and new proposal types that don't have a legacy message will return a "nil" content. The function returns an error when the amount of messages in the proposal is different than one. 
 

@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/store/reexport.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/store/reexport.go)
 
 This code is a package that provides convenience imports for the `cosmos-sdk` project's `store` module. It imports various types from the `cosmos-sdk/types/store.go` file and aliases them for easier use in other parts of the project. 
 

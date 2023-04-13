@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/client/flags/flags.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/client/flags/flags.go)
 
 The `flags` package provides a set of common flags and flag-related functions that can be used across the Cosmos SDK. The package defines a set of constants that represent default values for gas adjustment, gas limit, and keyring backend. It also defines a set of CLI flags that can be used to configure various aspects of the Cosmos SDK, such as the home directory, keyring directory, chain ID, node address, gRPC endpoint, gas adjustment, gas limit, and broadcast mode.
 

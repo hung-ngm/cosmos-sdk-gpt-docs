@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/x/evidence/simulation/decoder.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/x/evidence/simulation/decoder.go)
 
 The `simulation` package in the `cosmos-sdk` project contains code related to simulating the behavior of the blockchain. The `evidence` sub-package contains code related to handling evidence of misbehavior on the blockchain. The `NewDecodeStore` function in this file is a closure that returns a function that can be used to decode key-value pairs in the store. 
 

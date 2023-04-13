@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/types/simulation/rand_util.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/types/simulation/rand_util.go)
 
 The `simulation` package provides a set of functions for generating random values that can be used in simulations of the Cosmos SDK blockchain. 
 

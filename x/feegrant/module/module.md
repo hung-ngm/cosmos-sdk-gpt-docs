@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/x/feegrant/module/module.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/x/feegrant/module/module.go)
 
 The code is a part of the feegrant module in the cosmos-sdk project. The module provides a way to grant fee allowances to accounts on the Cosmos network. The code defines two structs, `AppModuleBasic` and `AppModule`, that implement the `module.AppModuleBasic` and `module.AppModule` interfaces, respectively. 
 

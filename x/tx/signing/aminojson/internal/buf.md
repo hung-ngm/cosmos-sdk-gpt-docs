@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/x/tx/signing/aminojson/internal/buf.yaml)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/x/tx/signing/aminojson/internal/buf.yaml)
 
 This code is a configuration file for the cosmos-sdk project. It specifies the version of the project, dependencies required for the project, and linting rules to be followed. 
 

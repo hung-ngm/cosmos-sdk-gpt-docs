@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/x/authz/generic_authorization.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/x/authz/generic_authorization.go)
 
 The code above is a part of the `cosmos-sdk` project and is located in the `authz` package. It defines a `GenericAuthorization` struct that implements the `Authorization` interface. The purpose of this code is to provide a generic implementation of the `Authorization` interface that can be used by other modules in the `cosmos-sdk` project.
 

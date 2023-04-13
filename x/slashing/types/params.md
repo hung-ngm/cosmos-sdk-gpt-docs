@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/x/slashing/types/params.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/x/slashing/types/params.go)
 
 The code defines the parameters for the Cosmos SDK module. It includes the default values for the parameters, a function to create a new parameter object, and a function to validate the parameters.
 

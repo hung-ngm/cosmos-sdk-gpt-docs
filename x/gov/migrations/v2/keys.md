@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/x/gov/migrations/v2/keys.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/x/gov/migrations/v2/keys.go)
 
 This code defines a constant variable `ModuleName` with the value "gov". This variable is likely used as a reference throughout the larger project to identify and reference the specific module named "gov". 
 

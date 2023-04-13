@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/proto/buf.gen.swagger.yaml)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/proto/buf.gen.swagger.yaml)
 
 This code is a configuration file for the cosmos-sdk project. Specifically, it is configuring the swagger plugin for the project. 
 

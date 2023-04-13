@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/x/staking/keeper/keeper.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/x/staking/keeper/keeper.go)
 
 The code defines the `Keeper` struct, which is responsible for managing the state of the staking module in the Cosmos SDK. The staking module is responsible for managing the validators and delegators in the network. The `Keeper` struct has several fields, including the store key, binary codec, account keeper, bank keeper, staking hooks, and authority. 
 

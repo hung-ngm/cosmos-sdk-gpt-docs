@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/x/gov/types/events.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/x/gov/types/events.go)
 
 This file defines constants for event types and attribute keys related to the governance module in the cosmos-sdk project. The governance module allows stakeholders to submit proposals for changes to the network and vote on them. 
 

@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/store/snapshots/types/errors.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/store/snapshots/types/errors.go)
 
 This code defines several error variables that are used throughout the cosmos-sdk project. These errors are related to snapshot functionality, which is used to create a backup of the state of the blockchain at a particular point in time. 
 

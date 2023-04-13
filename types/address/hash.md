@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/types/address/hash.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/types/address/hash.go)
 
 The `address` package provides functionality for creating and manipulating addresses in the Cosmos SDK project. The package defines an `Addressable` interface that can be implemented by any type that can be used to derive an address. The package also provides functions for creating and composing addresses.
 

@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/docs/docs/intro/_category_.json)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/docs/docs/intro/_category_.json)
 
 This code appears to be a JSON object that defines an "Introduction" label with a position of 0 and a null link. It is unclear how this code fits into the larger cosmos-sdk project without additional context. However, it is possible that this JSON object is used to provide introductory information or metadata for a specific feature or component within the cosmos-sdk project. For example, it could be used to label and organize documentation or provide information for a user interface element. 
 

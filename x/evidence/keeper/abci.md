@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/x/evidence/keeper/abci.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/x/evidence/keeper/abci.go)
 
 The code above is a part of the `cosmos-sdk` project and specifically the `keeper` package. The purpose of this code is to handle any newly discovered evidence of misbehavior submitted by CometBFT during the BeginBlocker phase of the blockchain. The code iterates through the `ByzantineValidators` slice of the `abci.RequestBeginBlock` argument and handles any evidence of misbehavior. Currently, only equivocation is handled.
 

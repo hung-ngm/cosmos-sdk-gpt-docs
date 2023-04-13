@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/x/nft/client/cli/query.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/x/nft/client/cli/query.go)
 
 The code is a part of the cosmos-sdk project and provides a command-line interface (CLI) for querying the NFT (Non-Fungible Token) module. The NFT module is used for creating and managing unique digital assets on the Cosmos blockchain. The CLI provides various commands for querying NFTs, such as querying NFT classes, NFTs, owners, balances, and supply.
 

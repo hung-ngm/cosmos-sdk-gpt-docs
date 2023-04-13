@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/errors/handle.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/errors/handle.go)
 
 The `errors` package in the `cosmos-sdk` project contains a function called `AssertNil`. This function is used to panic if an error is encountered. It is intended to be used with interface methods that require a return error, but the error is always expected to be nil. 
 

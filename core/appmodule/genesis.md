@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/core/appmodule/genesis.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/core/appmodule/genesis.go)
 
 This file defines interfaces and types related to handling genesis data and state initialization for modules in the cosmos-sdk project. The `HasGenesis` interface extends the `AppModule` interface and defines four methods that modules should implement to handle genesis data and state initialization. 
 

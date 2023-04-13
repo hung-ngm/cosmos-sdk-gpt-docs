@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/client/v2/autocli/validate.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/client/v2/autocli/validate.go)
 
 The `autocli` package contains a single function called `validateCmd`. This function takes in a `cobra.Command` object and a slice of strings as arguments. The purpose of this function is to validate the command and its arguments passed to it and return an error if the command is invalid.
 

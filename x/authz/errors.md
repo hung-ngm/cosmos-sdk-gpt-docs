@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/x/authz/errors.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/x/authz/errors.go)
 
 This code defines a set of sentinel errors for the `authz` module in the `cosmos-sdk` project. Sentinel errors are predefined errors that are used throughout the module to provide consistent error messages and codes. 
 

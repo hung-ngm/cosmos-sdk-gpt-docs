@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/x/tx/signing/tx_data.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/x/tx/signing/tx_data.go)
 
 The `signing` package in the `cosmos-sdk` project contains a `TxData` struct that represents the necessary data about a transaction to generate sign bytes. The `TxData` struct has five fields: `Body`, `AuthInfo`, `BodyBytes`, `AuthInfoBytes`, and `BodyHasUnknownNonCriticals`.
 

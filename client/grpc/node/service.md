@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/client/grpc/node/service.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/client/grpc/node/service.go)
 
 The code above is a part of the cosmos-sdk project and it provides functionality for registering the node gRPC service and its GRPC-gateway routes. The `RegisterNodeService` function registers the node gRPC service on the provided gRPC router. It takes in three arguments: `clientCtx`, `server`, and `cfg`. `clientCtx` is an instance of the `client.Context` struct, `server` is an instance of the `gogogrpc.Server` struct, and `cfg` is an instance of the `config.Config` struct. The function calls the `RegisterServiceServer` function passing in the `server` and an instance of the `queryServer` struct created by calling the `NewQueryServer` function with `clientCtx` and `cfg` as arguments.
 

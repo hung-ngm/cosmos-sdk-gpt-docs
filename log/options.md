@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/log/options.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/log/options.go)
 
 The code above is a logging package that provides a configurable logger for the cosmos-sdk project. The package is built on top of the zerolog package, which is a fast and simple logging library for Go.
 

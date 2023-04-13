@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/x/evidence/types/errors.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/x/evidence/types/errors.go)
 
 This code defines a set of sentinel errors for the `x/evidence` module in the `cosmos-sdk` project. Sentinel errors are predefined errors that can be returned by functions or methods to indicate specific error conditions. 
 

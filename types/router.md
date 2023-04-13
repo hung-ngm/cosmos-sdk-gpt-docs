@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/types/router.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/types/router.go)
 
 The `types` package in the `cosmos-sdk` project contains various data types and utility functions used throughout the project. This particular file defines a regular expression for matching against alpha-numeric values. 
 

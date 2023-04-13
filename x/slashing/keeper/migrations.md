@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/x/slashing/keeper/migrations.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/x/slashing/keeper/migrations.go)
 
 The `Migrator` struct and associated functions in this file are used for handling in-place store migrations in the `x/slashing` module of the Cosmos SDK. The `Migrator` struct contains a `Keeper` and a `legacySubspace` field, which are used to manage the state of the module during migrations.
 

@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/x/staking/keeper/historical_info.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/x/staking/keeper/historical_info.go)
 
 The code provided is a part of the `cosmos-sdk` project and contains a set of functions that allow the user to manage historical information about the staking module. The staking module is responsible for managing the validators and delegators in the Cosmos network. 
 

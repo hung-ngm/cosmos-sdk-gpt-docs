@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/client/v2/autocli/flag/pagination.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/client/v2/autocli/flag/pagination.go)
 
 The `flag` package contains a function called `bindPageRequest` that is used to bind a page request message to a flag set. This function is part of the larger `cosmos-sdk` project and is used to facilitate command-line interface (CLI) interactions with the project.
 

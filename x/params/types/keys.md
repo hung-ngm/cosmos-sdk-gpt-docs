@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/x/params/types/keys.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/x/params/types/keys.go)
 
 This code defines a constant variable `ModuleName` with the value "params". This variable is likely used as a reference throughout the larger project to identify and reference the specific module related to parameters. 
 

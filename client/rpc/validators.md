@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/client/rpc/validators.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/client/rpc/validators.go)
 
 The `rpc` package contains functions and types related to the CometBFT RPC interface. The `ValidatorCommand` function returns a Cobra command that retrieves the full CometBFT validator set at a given height. The function takes an optional height argument and returns a list of validators, including their address, public key, proposer priority, and voting power. The `GetValidators` function is called by `ValidatorCommand` to retrieve the validators from the CometBFT node. It takes a context, client context, height, page, and limit as arguments and returns a `ResultValidatorsOutput` struct containing the block height, validators, and total count. The `ResultValidatorsOutput` struct contains a `ValidatorOutput` struct that defines the output format for each validator. The `validatorOutput` function converts a `cmttypes.Validator` to a `ValidatorOutput`. 
 

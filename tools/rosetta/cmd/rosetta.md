@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/tools/rosetta/cmd/rosetta.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/tools/rosetta/cmd/rosetta.go)
 
 The code defines a function called `RosettaCommand` that builds a root command for a Rosetta server. Rosetta is an open standard protocol that allows blockchain networks to be compatible with different blockchain tools and services. The function takes two arguments: `ir` and `cdc`. `ir` is an interface registry that is used to register and retrieve protocol buffer interfaces. `cdc` is a codec that is used to serialize and deserialize data.
 

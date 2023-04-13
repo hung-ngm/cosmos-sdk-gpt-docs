@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/x/mint/types/minter.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/x/mint/types/minter.go)
 
 The `types` package in the `cosmos-sdk` project contains various types and functions that are used throughout the project. This specific file contains the `Minter` struct and associated functions that are used to manage the inflation and minting of new tokens in the Cosmos network.
 

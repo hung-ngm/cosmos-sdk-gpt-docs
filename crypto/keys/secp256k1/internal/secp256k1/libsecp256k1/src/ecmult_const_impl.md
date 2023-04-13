@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/crypto/keys/secp256k1/internal/secp256k1/libsecp256k1/src/ecmult_const_impl.h)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/crypto/keys/secp256k1/internal/secp256k1/libsecp256k1/src/ecmult_const_impl.h)
 
 This code is a part of the secp256k1 library, which is used for elliptic curve cryptography. Specifically, this file implements constant-time multiplication of a point on the curve by a scalar. This is a crucial operation in many cryptographic protocols, such as digital signatures and key exchange.
 

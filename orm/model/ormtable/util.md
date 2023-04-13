@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/orm/model/ormtable/util.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/orm/model/ormtable/util.go)
 
 The `ormtable` package in the `cosmos-sdk` project contains two functions: `prefixEndBytes` and `inclusiveEndBytes`. These functions are used to generate byte slices that can be used as the end keys in range queries.
 

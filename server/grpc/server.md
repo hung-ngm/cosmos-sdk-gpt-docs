@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/server/grpc/server.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/server/grpc/server.go)
 
 The `grpc` package in the `cosmos-sdk` project provides functionality for setting up and starting a gRPC server. The `NewGRPCServer` function returns a new instance of a gRPC server that is correctly configured and initialized. The caller is responsible for starting the server using the `StartGRPCServer` function.
 

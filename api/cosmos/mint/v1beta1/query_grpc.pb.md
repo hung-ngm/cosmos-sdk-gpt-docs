@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/api/cosmos/mint/v1beta1/query_grpc.pb.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/api/cosmos/mint/v1beta1/query_grpc.pb.go)
 
 This code defines the client and server interfaces for the Query service in the cosmos-sdk's mint module. The Query service provides methods for retrieving information about the minting process, such as the current inflation rate and annual provisions. 
 

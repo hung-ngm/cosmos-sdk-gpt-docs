@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/types/errors/doc.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/types/errors/doc.go)
 
 The `errors` package in the `cosmos-sdk` project provides a shared set of errors that can be used throughout the SDK. It also includes functionality that was previously in the `cosmossdk.io/errors` module, and provides helpers for converting errors to ABCI response code.
 

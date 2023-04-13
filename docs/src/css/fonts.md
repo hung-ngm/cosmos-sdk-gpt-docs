@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/docs/src/css/fonts.css)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/docs/src/css/fonts.css)
 
 This code defines font families and their corresponding font files for use in the cosmos-sdk project. The font families defined in this file are Inter and JetBrains Mono. 
 

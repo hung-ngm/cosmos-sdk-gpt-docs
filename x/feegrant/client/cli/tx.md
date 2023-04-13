@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/x/feegrant/client/cli/tx.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/x/feegrant/client/cli/tx.go)
 
 The code is a part of the cosmos-sdk project and is located in the `cli` package. The purpose of this code is to provide a command-line interface (CLI) for the `feegrant` module of the cosmos-sdk. The `feegrant` module allows a granter to grant a grantee the permission to pay fees from the granter's account. The CLI provides two commands for this module: `grant` and `revoke`. 
 

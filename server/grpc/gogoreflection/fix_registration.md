@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/server/grpc/gogoreflection/fix_registration.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/server/grpc/gogoreflection/fix_registration.go)
 
 The `gogoreflection` package provides utility functions for working with Go protocol buffers and GoGo protocol buffers. Protocol buffers are a language-agnostic data serialization format used for communication between different systems. GoGo protocol buffers are a faster and more efficient implementation of protocol buffers in Go.
 

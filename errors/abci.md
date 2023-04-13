@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/errors/abci.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/errors/abci.go)
 
 The `errors` package in the `cosmos-sdk` project provides functionality for handling and reporting errors. This particular file contains functions and constants related to encoding and decoding errors in the ABCI (Application BlockChain Interface) format used by the Tendermint client.
 

@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/crypto/keys/internal/ecdsa/doc.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/crypto/keys/internal/ecdsa/doc.go)
 
 The `ecdsa` package in the `cosmos-sdk` project implements public and private keys for the Elliptic Curve Digital Signature Algorithm (ECDSA) that are compatible with the Cosmos-SDK. The keys can be serialized, which means they can be converted into a format that can be stored or transmitted over a network.
 

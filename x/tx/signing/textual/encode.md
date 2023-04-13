@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/x/tx/signing/textual/encode.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/x/tx/signing/textual/encode.go)
 
 The `textual` package in the `cosmos-sdk` project contains code for encoding and decoding structured text data. Specifically, this file defines functions and variables for encoding a struct containing an array of screens according to a CDDL (CBOR Data Definition Language) specification. 
 

@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/x/staking/client/cli/flags.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/x/staking/client/cli/flags.go)
 
 This file contains various flag sets that are used in the `cosmos-sdk` project for staking-related operations. The purpose of this file is to define the flags that can be used in the command-line interface (CLI) for staking-related operations. 
 

@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/x/params/types/proposal/keys.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/x/params/types/proposal/keys.go)
 
 This code defines constants for the proposal module in the cosmos-sdk project. The `ModuleName` constant defines the name of the module as "params". The `RouterKey` constant defines the routing key for a `ParameterChangeProposal` within the module as "params". 
 

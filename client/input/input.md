@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/client/input/input.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/client/input/input.go)
 
 The `input` package provides functions for reading user input from the command line. It includes functions for getting a password, getting confirmation, and getting a string. These functions are used throughout the larger project to interact with the user and gather necessary information.
 

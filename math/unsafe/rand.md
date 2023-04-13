@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/math/unsafe/rand.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/math/unsafe/rand.go)
 
 The `unsafe` package in the `cosmos-sdk` project contains a `Rand` struct that is a pseudorandom number generator (PRNG) seeded with OS randomness. The `Rand` struct uses `crypto/rand` to obtain OS randomness, but none of the provided methods are suitable for cryptographic usage. Instead, they all utilize `math/rand`'s PRNG internally. The `Rand` struct is designed to be used concurrently, and this is achieved by using a mutex lock on all of the provided methods.
 

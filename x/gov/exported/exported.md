@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/x/gov/exported/exported.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/x/gov/exported/exported.go)
 
 This code defines two types, `ParamSet` and `ParamSubspace`, which are used for managing parameters in the `cosmos-sdk` project. 
 

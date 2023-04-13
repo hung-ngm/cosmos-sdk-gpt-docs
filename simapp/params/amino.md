@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/simapp/params/amino.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/simapp/params/amino.go)
 
 The code above is a Go package that provides a function called `MakeTestEncodingConfig()`. This function creates an `EncodingConfig` object that is used for amino-based test configurations. The purpose of this function is to create a codec that can be used to serialize and deserialize Go data structures into bytes and vice versa. 
 

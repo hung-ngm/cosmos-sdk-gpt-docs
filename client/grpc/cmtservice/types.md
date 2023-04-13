@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/client/grpc/cmtservice/types.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/client/grpc/cmtservice/types.go)
 
 The `cmtservice` package contains two functions that are used to convert between gRPC and ABCI query request/response types. The `ToABCIRequestQuery` function takes in a `ABCIQueryRequest` type and returns an `abci.RequestQuery` type. The `FromABCIResponseQuery` function takes in an `abci.ResponseQuery` type and returns an `ABCIQueryResponse` type.
 

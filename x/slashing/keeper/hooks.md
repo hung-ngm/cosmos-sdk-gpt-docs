@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/x/slashing/keeper/hooks.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/x/slashing/keeper/hooks.go)
 
 The `keeper` package in the `cosmos-sdk` project contains the implementation of the `Keeper` interface, which is responsible for managing the state of the blockchain. This file in particular, `hooks.go`, defines a struct `Hooks` that acts as a wrapper for the `slashing` keeper. The `Hooks` struct implements the `types.StakingHooks` interface, which defines a set of methods that are called at various points during the staking process. 
 

@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/api/cosmos/base/reflection/v1beta1/reflection_grpc.pb.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/api/cosmos/base/reflection/v1beta1/reflection_grpc.pb.go)
 
 The code defines a gRPC service called ReflectionService that provides two methods: ListAllInterfaces and ListImplementations. The purpose of this service is to allow clients to query information about the interfaces and their implementations registered in the interface registry. 
 

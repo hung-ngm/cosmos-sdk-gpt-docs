@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/x/auth/tx/config/expected_keepers.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/x/auth/tx/config/expected_keepers.go)
 
 This code defines an interface called `BankKeeper` that specifies the contract needed for transaction-related APIs in the `cosmos-sdk` project's `x/bank` module. 
 

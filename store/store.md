@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/store/store.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/store/store.go)
 
 The code above is a part of the `cosmos-sdk` project and is located in the `store` package. It provides two functions: `NewCommitMultiStore` and `NewCommitKVStoreCacheManager`.
 

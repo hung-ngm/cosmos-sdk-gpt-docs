@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/x/tx/signing/textual/timestamp.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/x/tx/signing/textual/timestamp.go)
 
 The `textual` package in the `cosmos-sdk` project contains code for rendering and parsing protocol buffer values as text. This particular file defines a `timestampValueRenderer` struct and associated methods for rendering and parsing protocol buffer Timestamp messages.
 

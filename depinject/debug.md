@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/depinject/debug.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/depinject/debug.go)
 
 The `depinject` package provides functionality for dependency injection in Go. This file contains code for debugging and visualization of the dependency injection container. The `DebugOption` interface is defined, which is a functional option for running a container that controls debug logging and visualization output. The `DebugOption` interface has several implementations such as `StdoutLogger`, `StderrLogger`, `FileLogger`, `Visualizer`, `LogVisualizer`, `FileVisualizer`, `Logger`, `OnError`, `OnSuccess`, `DebugCleanup`, `Debug`, `AutoDebug`, and `DebugOptions`. These implementations provide different options for logging and visualizing the dependency injection container. 
 

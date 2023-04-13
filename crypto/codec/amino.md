@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/crypto/codec/amino.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/crypto/codec/amino.go)
 
 The `codec` package in the `cosmos-sdk` project provides functionality for encoding and decoding data structures used in the project. This specific file, `register_crypto.go`, contains a function called `RegisterCrypto` that registers various types of cryptographic keys with the provided Amino codec.
 

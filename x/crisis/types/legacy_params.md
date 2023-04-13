@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/x/crisis/types/legacy_params.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/x/crisis/types/legacy_params.go)
 
 This code defines a parameter key table for the cosmos-sdk project. The `ParamKeyTable` function returns a `paramtypes.KeyTable` object that contains a single parameter called `ConstantFee`. This parameter is of type `sdk.Coin` and is used to represent a constant fee that is charged for certain actions within the cosmos-sdk system. 
 

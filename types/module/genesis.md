@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/types/module/genesis.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/types/module/genesis.go)
 
 The `module` package contains code that is used to create and manage modules within the larger `cosmos-sdk` project. A module is a self-contained unit of functionality that can be added or removed from the project as needed. 
 

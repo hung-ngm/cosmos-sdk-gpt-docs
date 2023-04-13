@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/x/auth/posthandler/post.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/x/auth/posthandler/post.go)
 
 The `posthandler` package in the `cosmos-sdk` project contains code that is responsible for handling post-processing logic after a transaction has been executed on the blockchain. This code is specifically focused on constructing a default SDK PostHandler.
 

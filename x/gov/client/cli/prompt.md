@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/x/gov/client/cli/prompt.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/x/gov/client/cli/prompt.go)
 
 The `cli` package contains the command-line interface (CLI) for the Cosmos SDK. This file contains the implementation of the `draft-proposal` command, which generates a draft proposal JSON file. The generated proposal JSON contains only one message (skeleton).
 

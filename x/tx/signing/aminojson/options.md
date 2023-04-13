@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/x/tx/signing/aminojson/options.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/x/tx/signing/aminojson/options.go)
 
 The `aminojson` package provides functionality for encoding and decoding Protobuf messages using the Amino encoding format. This package is part of the larger `cosmos-sdk` project, which is a framework for building blockchain applications.
 

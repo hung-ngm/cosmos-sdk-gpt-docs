@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/collections/map.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/collections/map.go)
 
 The `collections` package in the `cosmos-sdk` project provides a set of data structures that can be used to store arbitrary keys and values in a key-value store. This package contains a `Map` type that is used to map arbitrary keys to arbitrary objects. The `Map` type is defined as a struct that contains a key codec, a value codec, a store accessor, a prefix, and a name. The key codec and value codec are used to encode and decode the keys and values respectively. The store accessor is used to access the underlying key-value store. The prefix is used to namespace the keys in the store. The name is a human-readable name for the map.
 

@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/x/feegrant/errors.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/x/feegrant/errors.go)
 
 This code defines a set of error codes for the `feegrant` module in the `cosmos-sdk` project. The `feegrant` module is responsible for managing fee allowances for specific message types. 
 

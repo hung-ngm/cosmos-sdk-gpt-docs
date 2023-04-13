@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/tools/hubl/internal/registry.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/tools/hubl/internal/registry.go)
 
 The `internal` package contains code that is used internally within the `cosmos-sdk` project. The `chainregistry.go` file contains functions that interact with the Cosmos Chain Registry, which is a repository of information about various Cosmos blockchains. 
 

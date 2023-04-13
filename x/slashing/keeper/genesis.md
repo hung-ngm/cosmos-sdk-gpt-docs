@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/x/slashing/keeper/genesis.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/x/slashing/keeper/genesis.go)
 
 The code above is part of the `cosmos-sdk` project and is located in the `keeper` package. The purpose of this code is to initialize the default parameters and the keeper's address to pubkey map, as well as to export the current store values to a genesis file, which can be imported again with `InitGenesis`.
 

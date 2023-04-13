@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/collections/codec/string.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/collections/codec/string.go)
 
 This code defines a string key codec for use in encoding and decoding keys in the cosmos-sdk project. The `NewStringKeyCodec` function returns an instance of the `stringKey` struct, which implements the `KeyCodec` interface for string keys. 
 

@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/orm/model/ormtable/batch.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/orm/model/ormtable/batch.go)
 
 The `ormtable` package contains code related to the object-relational mapping (ORM) functionality of the Cosmos SDK. Specifically, this file defines a `batchIndexCommitmentWriter` type that implements the `Backend` interface. This type is responsible for batching writes to the commitment store and index store, which are two types of key-value stores used by the Cosmos SDK.
 

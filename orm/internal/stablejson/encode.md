@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/orm/internal/stablejson/encode.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/orm/internal/stablejson/encode.go)
 
 The `stablejson` package provides functionality for marshaling a protocol buffer message to JSON with a stable ordering based on ascending field numbers. This is useful when comparing JSON representations of protocol buffer messages, as the order of fields in the JSON output can vary depending on the order in which they were added to the message.
 

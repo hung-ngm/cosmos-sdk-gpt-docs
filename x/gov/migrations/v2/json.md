@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/x/gov/migrations/v2/json.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/x/gov/migrations/v2/json.go)
 
 The code provided is a part of the cosmos-sdk project and is located in the v2 package. The purpose of this code is to migrate the ADR-037 weighted votes from the v1beta1 version of the x/gov module to the v2 version. The code achieves this by defining two functions: `migrateJSONWeightedVotes` and `MigrateJSON`.
 

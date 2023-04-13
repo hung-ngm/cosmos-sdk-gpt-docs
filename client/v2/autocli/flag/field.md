@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/client/v2/autocli/flag/field.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/client/v2/autocli/flag/field.go)
 
 The code is a part of the cosmos-sdk project and is located in the flag package. The purpose of this code is to provide a set of functions that can be used to add flags to a flag set. The flags are added based on the provided field and flag options. The namingOptions struct specifies internal naming options for flags, such as a prefix to prepend to all flags. 
 

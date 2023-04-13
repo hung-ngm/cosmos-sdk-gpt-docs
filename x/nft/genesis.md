@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/x/nft/genesis.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/x/nft/genesis.go)
 
 The code above is a part of the `cosmos-sdk` project and is located in the `nft` package. The purpose of this code is to validate the integrity of the genesis state of the non-fungible token (NFT) module. 
 

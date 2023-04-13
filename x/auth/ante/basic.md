@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/x/auth/ante/basic.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/x/auth/ante/basic.go)
 
 The code provided is a collection of decorators that implement the AnteHandler interface in the Cosmos SDK. AnteHandlers are a middleware layer that intercepts and processes transactions before they are included in a block. The purpose of these decorators is to perform various checks and operations on incoming transactions to ensure their validity and security.
 

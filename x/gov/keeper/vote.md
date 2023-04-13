@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/x/gov/keeper/vote.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/x/gov/keeper/vote.go)
 
 The code above is a part of the cosmos-sdk project and contains the implementation of the Keeper struct, which is responsible for managing the storage and retrieval of votes for proposals in the governance module. The governance module is responsible for managing the on-chain governance of the Cosmos network, allowing token holders to vote on proposals that can change the network's parameters, such as transaction fees or block size.
 

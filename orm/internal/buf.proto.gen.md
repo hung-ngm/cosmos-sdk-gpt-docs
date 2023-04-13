@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/orm/internal/buf.proto.gen.yaml)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/orm/internal/buf.proto.gen.yaml)
 
 This code is a configuration file for the cosmos-sdk project's Object-Relational Mapping (ORM) tool. The ORM tool is used to map data between a relational database and the Go programming language used in the cosmos-sdk project. 
 

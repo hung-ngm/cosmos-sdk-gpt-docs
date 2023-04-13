@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/x/bank/types/vesting.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/x/bank/types/vesting.go)
 
 The `types` package in the `cosmos-sdk` project contains an interface called `VestingAccount` that is used for account vesting. Vesting is a mechanism that allows for the gradual release of funds over a period of time, rather than all at once. This is commonly used in situations where an individual or organization is granted a large sum of money, but the funds are subject to certain conditions or restrictions.
 

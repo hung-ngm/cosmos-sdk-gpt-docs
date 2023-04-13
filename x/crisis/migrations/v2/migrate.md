@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/x/crisis/migrations/v2/migrate.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/x/crisis/migrations/v2/migrate.go)
 
 The code provided is a part of the `cosmos-sdk` project and is located in the `v2` package. The purpose of this code is to migrate the state of the `x/crisis` module from consensus version 1 to version 2. Specifically, it takes the `ConstantFee` parameter that is currently stored and managed by the `x/params` module and stores it directly into the `x/crisis` module state.
 

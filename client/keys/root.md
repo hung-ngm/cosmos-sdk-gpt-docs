@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/client/keys/root.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/client/keys/root.go)
 
 The `keys` package in the `cosmos-sdk` project provides a set of commands to manage local private key storage. This package is used to interact with the keyring, which is a secure storage system for private keys. The `Commands` function in this file registers a sub-tree of commands that can be used to manage the keyring.
 

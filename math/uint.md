@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/math/uint.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/math/uint.go)
 
 The `math` package in the `cosmos-sdk` project contains a `Uint` type that wraps an integer with a 256-bit range bound. This type checks for overflow, underflow, and division by zero. It exists in the range from 0 to 2^256-1. The `Uint` type has several methods that allow for arithmetic operations such as addition, subtraction, multiplication, and division. It also has methods to convert to and from `big.Int` and `uint64` types. 
 

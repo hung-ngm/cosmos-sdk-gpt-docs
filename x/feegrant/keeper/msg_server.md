@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/x/feegrant/keeper/msg_server.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/x/feegrant/keeper/msg_server.go)
 
 The code defines a message server implementation for the `feegrant` module in the Cosmos SDK. The `feegrant` module allows for the granting and revocation of fee allowances between accounts in a Cosmos SDK-based blockchain. 
 

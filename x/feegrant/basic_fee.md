@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/x/feegrant/basic_fee.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/x/feegrant/basic_fee.go)
 
 The `feegrant` package contains the implementation of the FeeGrant module in the Cosmos SDK. The `BasicAllowance` struct is a type that implements the `FeeAllowanceI` interface. It represents a basic fee allowance that can be granted to an address. The `Accept` method of the `BasicAllowance` struct is called when a fee payment is requested. It takes in the context, the requested fee, and a slice of messages. It returns a boolean value and an error. If the fee payment is accepted, it returns true and nil. If the fee payment is rejected, it returns false and an error. The `ValidateBasic` method is called to validate the basic sanity checks of the fee allowance. It returns an error if the spend limit is not valid or if the expiration time is negative. The `ExpiresAt` method returns the expiration time of the fee allowance.
 

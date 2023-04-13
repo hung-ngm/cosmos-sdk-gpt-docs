@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/docker-compose.yml)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/docker-compose.yml)
 
 This code is a docker-compose file that defines four instances of a container called "simd" from the "cosmossdk/simd" image. Each instance is given a unique name (simdnode0, simdnode1, etc.) and is configured with different environment variables, ports, and IP addresses. The purpose of this file is to facilitate the deployment and configuration of multiple instances of the "simd" container for use in a local network.
 

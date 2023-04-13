@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/tools/rosetta/cmd/rosetta/main.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/tools/rosetta/cmd/rosetta/main.go)
 
 This code is the main entry point for running the Rosetta API server for the Cosmos SDK blockchain. The Rosetta API is a standard interface for interacting with blockchain nodes, allowing developers to build applications that can work across different blockchains. 
 

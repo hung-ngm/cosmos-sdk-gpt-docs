@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/crypto/keys/bcrypt/bcrypt.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/crypto/keys/bcrypt/bcrypt.go)
 
 The code is a modified implementation of the bcrypt adaptive hashing algorithm by Provos and Mazières. The package provides functions to generate and compare bcrypt hashed passwords. The GenerateFromPassword function takes a salt, password, and cost as input and returns the bcrypt hash of the password. The cost parameter is used to determine the computational cost of the hash function. If the cost is less than the minimum allowable cost, the cost is set to the default cost. The CompareHashAndPassword function compares a bcrypt hashed password with its plaintext equivalent. The function returns nil on success and an error on failure. The Cost function returns the hashing cost used to create the given hashed password. The package also defines several error types that can be returned by the functions.
 

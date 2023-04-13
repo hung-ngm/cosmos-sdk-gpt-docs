@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/x/consensus/module.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/x/consensus/module.go)
 
 The code defines the `consensus` module of the Cosmos SDK, which is responsible for managing the consensus rules of the blockchain. The module provides an implementation of the Tendermint consensus algorithm, which is used to validate transactions and maintain the integrity of the blockchain.
 

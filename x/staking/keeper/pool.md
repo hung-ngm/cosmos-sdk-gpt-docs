@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/x/staking/keeper/pool.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/x/staking/keeper/pool.go)
 
 The code above is part of the `keeper` package in the `cosmos-sdk` project. It contains functions that are used to manage the bonded and not bonded token pools within the staking module. 
 

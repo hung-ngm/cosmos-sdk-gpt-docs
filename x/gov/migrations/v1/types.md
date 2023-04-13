@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/x/gov/migrations/v1/types.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/x/gov/migrations/v1/types.go)
 
 The `v1` package in the `cosmos-sdk` project contains code related to governance. The `keys.go` file in this package defines various keys used to store proposals, deposits, and votes in the governance store. It also provides functions to split these keys and retrieve the relevant information.
 

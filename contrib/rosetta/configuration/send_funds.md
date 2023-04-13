@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/contrib/rosetta/configuration/send_funds.sh)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/contrib/rosetta/configuration/send_funds.sh)
 
 This code is a shell script that is used to send a transaction on the Cosmos network using the `simd` command-line interface. The purpose of this script is to automate the process of sending a transaction by providing the necessary parameters as arguments to the script.
 

@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/x/crisis/keeper/msg_server.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/x/crisis/keeper/msg_server.go)
 
 The code is a part of the `cosmos-sdk` project and contains two methods that implement the `MsgServer` interface. The `MsgServer` interface is used to define the server-side message handlers for the `cosmos-sdk` application. 
 

@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/x/group/keeper/migrations.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/x/group/keeper/migrations.go)
 
 The `Migrator` struct and associated functions in this file are used for handling in-place store migrations in the cosmos-sdk project. Specifically, the `Migrator` struct contains a `Keeper` object, which is used to access and modify the state of the application.
 

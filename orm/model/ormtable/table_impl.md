@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/orm/model/ormtable/table_impl.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/orm/model/ormtable/table_impl.go)
 
 The `tableImpl` struct is an implementation of the `Table` interface in the `cosmos-sdk` project. It represents a table in a key-value store and provides methods for CRUD operations on the table. The struct contains fields for the primary key index, other indexes, and entry codecs. It also has a table prefix, table ID, type resolver, and a custom JSON validator.
 

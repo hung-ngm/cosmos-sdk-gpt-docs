@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/x/slashing/migrations/v3/migrate.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/x/slashing/migrations/v3/migrate.go)
 
 The code provided is a migration function for the x/slashing module in the Cosmos SDK project. The purpose of this function is to migrate the state of the x/slashing module from consensus version 2 to version 3. Specifically, it takes the parameters that are currently stored and managed by the x/params module and stores them directly into the x/slashing module state.
 

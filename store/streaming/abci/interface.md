@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/store/streaming/abci/interface.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/store/streaming/abci/interface.go)
 
 The `abci` package contains shared data between the host and plugins in the cosmos-sdk project. The purpose of this package is to provide a common handshake that is shared by streaming and host to prevent users from executing bad plugins or executing a plugin directory. This is a UX feature, not a security feature. 
 

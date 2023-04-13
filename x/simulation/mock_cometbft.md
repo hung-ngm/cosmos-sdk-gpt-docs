@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/x/simulation/mock_cometbft.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/x/simulation/mock_cometbft.go)
 
 The `simulation` package in the `cosmos-sdk` project contains code for simulating the behavior of a blockchain network. This particular file contains code for generating a random `RequestBeginBlock` message for a given set of validators. 
 

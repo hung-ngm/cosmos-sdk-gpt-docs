@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/store/types/iterator.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/store/types/iterator.go)
 
 The `types` package in the `cosmos-sdk` project contains code for handling key-value stores. This specific file contains functions for iterating over key-value stores in a paginated manner. 
 

@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/orm/internal/codegen/query.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/orm/internal/codegen/query.go)
 
 This code generates a protobuf file that defines a gRPC service for querying a database. The service is defined by the `queryProtoGen` struct, which contains information about the protobuf file being generated, as well as methods for generating the service and request/response types.
 

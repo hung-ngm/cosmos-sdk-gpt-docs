@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/x/staking/types/params.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/x/staking/types/params.go)
 
 The code defines the parameters and validation functions for the staking module in the Cosmos SDK. The staking module is responsible for managing the delegation of tokens to validators and the distribution of rewards. 
 

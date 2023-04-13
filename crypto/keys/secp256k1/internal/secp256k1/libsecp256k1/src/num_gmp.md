@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/crypto/keys/secp256k1/internal/secp256k1/libsecp256k1/src/num_gmp.h)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/crypto/keys/secp256k1/internal/secp256k1/libsecp256k1/src/num_gmp.h)
 
 This code defines a struct called `secp256k1_num` that represents a 256-bit integer in memory. The struct contains an array of `mp_limb_t` (multi-precision limb type) called `data`, which is twice the size of the number of limbs needed to represent a 256-bit integer. The `neg` field is a boolean flag that indicates whether the number is negative or not, and the `limbs` field is an integer that represents the number of limbs used to represent the integer.
 

@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/crypto/ledger/ledger_mock.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/crypto/ledger/ledger_mock.go)
 
 This file is part of the cosmos-sdk project and contains code related to the ledger package. The code is used to mock the ledger device for testing purposes. The package provides an interface to interact with the Ledger device, which is a hardware wallet used to store private keys. The package contains a function called `init()` that sets the `discoverLedger` function, which is responsible for loading the Ledger device at runtime or returning an error. 
 

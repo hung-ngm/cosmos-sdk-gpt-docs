@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/x/gov/abci.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/x/gov/abci.go)
 
 The `EndBlocker` function is a part of the `gov` package in the `cosmos-sdk` project. It is called every block and is responsible for processing proposals that are in the inactive or active state. The function takes two arguments: `ctx` of type `sdk.Context` and `keeper` of type `*keeper.Keeper`. 
 

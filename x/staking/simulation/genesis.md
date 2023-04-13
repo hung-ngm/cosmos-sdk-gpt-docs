@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/x/staking/simulation/genesis.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/x/staking/simulation/genesis.go)
 
 The `simulation` package in the `cosmos-sdk` project contains code for simulating the behavior of the staking module. The `RandomizedGenState` function in this file generates a random GenesisState for the staking module. 
 

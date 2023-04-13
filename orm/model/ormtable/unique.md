@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/orm/model/ormtable/unique.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/orm/model/ormtable/unique.go)
 
 The `ormtable` package provides an implementation of a unique key index for the Cosmos SDK ORM (Object-Relational Mapping) module. The `uniqueKeyIndex` struct represents a unique index on a table, which is used to enforce a unique constraint on a set of fields. The struct contains a `UniqueKeyCodec` field, which is used to encode and decode the unique key values, a `fields` field, which is a list of the field names that make up the unique key, a `primaryKey` field, which is a reference to the primary key index of the table, and a `getReadBackend` function, which is used to get the read backend for the table.
 

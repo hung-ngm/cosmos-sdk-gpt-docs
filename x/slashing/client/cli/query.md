@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/x/slashing/client/cli/query.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/x/slashing/client/cli/query.go)
 
 The code provided is a part of the Cosmos SDK project and is located in the `cli` package. This code provides a set of CLI commands for the `slashing` module of the Cosmos SDK. The `slashing` module is responsible for detecting and punishing validators who misbehave on the network. 
 

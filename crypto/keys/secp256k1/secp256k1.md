@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/crypto/keys/secp256k1/secp256k1.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/crypto/keys/secp256k1/secp256k1.go)
 
 The `secp256k1` package provides functionality for generating and manipulating secp256k1 elliptic curve keys. The package contains two main types: `PrivKey` and `PubKey`. `PrivKey` represents a private key on the secp256k1 curve, while `PubKey` represents a public key. 
 

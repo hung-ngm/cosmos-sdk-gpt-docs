@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/core/appmodule/module.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/core/appmodule/module.go)
 
 This file defines several interfaces that are used as extension points for modules in the cosmos-sdk project. 
 

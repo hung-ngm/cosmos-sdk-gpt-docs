@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/x/simulation/operation.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/x/simulation/operation.go)
 
 The `simulation` package in the `cosmos-sdk` project contains code for simulating the behavior of the Cosmos blockchain. This particular file defines several types and functions related to logging and queuing operations during simulation.
 

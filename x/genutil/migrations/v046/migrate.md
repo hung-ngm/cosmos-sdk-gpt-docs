@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/x/genutil/migrations/v046/migrate.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/x/genutil/migrations/v046/migrate.go)
 
 The `v046` package in the `cosmos-sdk` project contains a function called `Migrate` that is responsible for migrating exported state from version `v0.43` to version `v0.46` of the `cosmos-sdk` genesis state. The function takes in two arguments: `appState` of type `types.AppMap` and `clientCtx` of type `client.Context`. The `appState` argument represents the current state of the application, while the `clientCtx` argument provides context for the migration process.
 

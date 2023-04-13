@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/proto/buf.yaml)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/proto/buf.yaml)
 
 This code is a configuration file for the `cosmos-sdk` project. It specifies the version and name of the project, as well as its dependencies on other modules such as `cosmos-proto`, `gogo-proto`, and `googleapis`. 
 

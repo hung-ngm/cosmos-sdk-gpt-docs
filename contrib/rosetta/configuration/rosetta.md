@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/contrib/rosetta/configuration/rosetta.json)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/contrib/rosetta/configuration/rosetta.json)
 
 This code represents a configuration file for the cosmos-sdk project. The configuration file contains various settings that can be used to customize the behavior of the project. 
 

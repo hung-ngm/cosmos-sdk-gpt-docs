@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/orm/encoding/ormkv/index_key.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/orm/encoding/ormkv/index_key.go)
 
 The `IndexKeyCodec` type is a codec for (non-unique) index keys. It is used to encode and decode index keys for use in the larger project. The `IndexKeyCodec` type is a struct that contains a `KeyCodec` and a `pkFieldOrder` slice. The `KeyCodec` is used to encode and decode keys, while the `pkFieldOrder` slice is used to determine the order of the primary key fields.
 

@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/types/tx/signing/signature_data.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/types/tx/signing/signature_data.go)
 
 The `signing` package in the `cosmos-sdk` project contains code related to cryptographic signing of transactions. The code in this file defines two structs, `SingleSignatureData` and `MultiSignatureData`, which represent the signature and signing mode of a single signer and the nested signature data of a multisig signature, respectively. 
 

@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/collections/keyset.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/collections/keyset.go)
 
 The `collections` package in the `cosmos-sdk` project provides a set of data structures and utilities for working with collections of data. This particular file defines a `KeySet` data structure that is built on top of a `Map` and represents a collection that retains only a set of keys and no values. It can be used, for example, in an allow list.
 

@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/client/grpc/reflection/reflection.pb.gw.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/client/grpc/reflection/reflection.pb.gw.go)
 
 This file is a part of the reflection package in the cosmos-sdk project. The reflection package is a reverse proxy that translates gRPC into RESTful JSON APIs. This file contains functions that handle HTTP requests for the ReflectionService. 
 

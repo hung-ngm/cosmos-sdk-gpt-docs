@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/crypto/keyring/legacy_info.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/crypto/keyring/legacy_info.go)
 
 The `keyring` package provides functionality for managing keys used in the Cosmos SDK. This file defines an interface called `LegacyInfo` and several structs that implement this interface. These structs represent different types of keys and contain information about them, such as their name, public key, address, and algorithm. 
 

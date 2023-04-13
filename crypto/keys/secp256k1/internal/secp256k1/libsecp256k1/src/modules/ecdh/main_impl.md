@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/crypto/keys/secp256k1/internal/secp256k1/libsecp256k1/src/modules/ecdh/main_impl.h)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/crypto/keys/secp256k1/internal/secp256k1/libsecp256k1/src/modules/ecdh/main_impl.h)
 
 The code provided is a C implementation of the Elliptic Curve Diffie-Hellman (ECDH) key exchange protocol using the secp256k1 curve. The ECDH protocol is used to establish a shared secret between two parties over an insecure channel. This shared secret can then be used as a symmetric key for encryption and decryption.
 

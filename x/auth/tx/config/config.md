@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/x/auth/tx/config/config.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/x/auth/tx/config/config.go)
 
 This code defines a module for transaction handling in the cosmos-sdk project. It provides a `ProvideModule` function that returns a `ModuleOutputs` struct containing a `TxConfig` and a `BaseAppOption`. The `TxConfig` is a configuration object for transactions that can be used by the SDK's `client` package. The `BaseAppOption` is a function that can be passed to the SDK's `baseapp` package to configure the application.
 

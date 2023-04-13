@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/x/auth/vesting/types/expected_keepers.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/x/auth/vesting/types/expected_keepers.go)
 
 The code defines an interface contract called `BankKeeper` that is required by the vesting module in the `cosmos-sdk` project. The purpose of this interface is to provide a set of methods that allow the vesting module to interact with the bank module in the `cosmos-sdk` project. 
 

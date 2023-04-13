@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/types/abci.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/types/abci.go)
 
 This file defines several function types that are used in the cosmos-sdk project for initializing application state, running code before and after transactions in a block, responding to p2p filtering queries, and processing and preparing proposals.
 

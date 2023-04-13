@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/x/tx/signing/textual/internal/cbor/cbor.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/x/tx/signing/textual/internal/cbor/cbor.go)
 
 The `cbor` package is a Go implementation of the CBOR (Concise Binary Object Representation) protocol, as defined in RFC 8948. The purpose of this package is to provide a way to encode simple data in a deterministic way. The package provides a set of types that implement the `Cbor` interface, which allows them to be encoded to a stream.
 

@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/x/bank/keeper/migrations.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/x/bank/keeper/migrations.go)
 
 The code above is a part of the `cosmos-sdk` project and it handles in-place store migrations for the `x/bank` module. The `Migrator` struct is defined to handle these migrations, and it contains a `BaseKeeper` and a `legacySubspace` of type `exported.Subspace`. The `BaseKeeper` is a struct that contains a `storeKey` and a `cdc` (codec) for encoding and decoding data. The `legacySubspace` is used to store data in a separate namespace for backward compatibility.
 

@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/crypto/keys/secp256k1/internal/secp256k1/libsecp256k1/src/group.h)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/crypto/keys/secp256k1/internal/secp256k1/libsecp256k1/src/group.h)
 
 The code defines data structures and functions related to group elements on the secp256k1 elliptic curve. The secp256k1 curve is widely used in blockchain technology, including Bitcoin and Ethereum. 
 

@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/tools/cosmovisor/process.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/tools/cosmovisor/process.go)
 
 The `cosmovisor` package provides a process manager for Cosmos SDK-based applications. This package contains a `Launcher` struct that is responsible for launching the application in a subprocess and monitoring it for upgrades. The `Launcher` struct has a `Run` method that takes in arguments, `stdout` and `stderr` writers, and returns a boolean value indicating whether an upgrade was detected and the upgrade process started. 
 

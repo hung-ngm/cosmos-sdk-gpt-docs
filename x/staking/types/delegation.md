@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/x/staking/types/delegation.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/x/staking/types/delegation.go)
 
 This file contains various types and functions related to delegation, unbonding delegation, and redelegation in the Cosmos SDK project. 
 

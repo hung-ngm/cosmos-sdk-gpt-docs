@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/store/dbadapter/store.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/store/dbadapter/store.go)
 
 The `dbadapter` package provides a wrapper type for the `dbm.DB` type from the `github.com/cosmos/cosmos-db` package. This wrapper type is called `Store` and implements the `types.KVStore` interface. The purpose of this package is to provide a way to use the `dbm.DB` type as a key-value store in the larger `cosmos-sdk` project.
 

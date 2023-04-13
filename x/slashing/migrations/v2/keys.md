@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/x/slashing/migrations/v2/keys.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/x/slashing/migrations/v2/keys.go)
 
 This code is a part of the cosmos-sdk project and is located in the v2 package. The purpose of this code is to provide functions for working with a bit array that tracks missed blocks by validators in the Cosmos network. 
 

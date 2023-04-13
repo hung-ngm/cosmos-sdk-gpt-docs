@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/x/gov/types/v1beta1/proposal.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/x/gov/types/v1beta1/proposal.go)
 
 The code is a part of the cosmos-sdk project and contains various functions and types related to governance proposals. The `NewProposal` function creates a new proposal instance with the given content, ID, submission time, and deposit end time. The content is first checked if it implements the `proto.Message` interface and then converted to `codectypes.Any` type. The `Proposal` struct contains various fields such as `Content`, `ProposalId`, `Status`, `FinalTallyResult`, `TotalDeposit`, `SubmitTime`, and `DepositEndTime`. 
 

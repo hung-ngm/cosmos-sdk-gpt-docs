@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/orm/model/ormtable/singleton.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/orm/model/ormtable/singleton.go)
 
 The `ormtable` package contains an implementation of a Table interface for singletons. The `singleton` struct implements the Table interface and provides methods for working with JSON data.
 

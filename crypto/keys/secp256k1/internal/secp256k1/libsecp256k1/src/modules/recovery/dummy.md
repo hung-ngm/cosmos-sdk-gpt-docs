@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/crypto/keys/secp256k1/internal/secp256k1/libsecp256k1/src/modules/recovery/dummy.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/crypto/keys/secp256k1/internal/secp256k1/libsecp256k1/src/modules/recovery/dummy.go)
 
 This code is a part of the `recovery` package in the `cosmos-sdk` project. It is a workaround for the `go mod vendor` command. The `go mod vendor` command is used to create a vendor directory that contains all the dependencies of a project. However, it does not include any C files that are required by the project. 
 

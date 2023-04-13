@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/x/simulation/doc.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/x/simulation/doc.go)
 
 The `simulation` package in the `cosmos-sdk` project implements a full-fledged application for executing simulation test suites. The `SimApp` type defines an application used for running extensive simulation testing suites. It contains all core modules, including governance, staking, slashing, and distribution. 
 

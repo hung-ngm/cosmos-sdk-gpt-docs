@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/codec/types/compat.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/codec/types/compat.go)
 
 This file contains code related to the marshaling and unmarshaling of protobuf Any messages using different codecs. The Any message is a special message type in protobuf that can contain any other message type. This makes it useful for creating generic interfaces that can accept any message type. 
 

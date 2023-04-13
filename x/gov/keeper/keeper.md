@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/x/gov/keeper/keeper.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/x/gov/keeper/keeper.go)
 
 The code defines the Keeper for the governance module in the cosmos-sdk project. The Keeper handles the following tasks:
 

@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/x/upgrade/keeper/grpc_query.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/x/upgrade/keeper/grpc_query.go)
 
 This file contains the implementation of the query server for the upgrade module in the cosmos-sdk project. The upgrade module is responsible for managing the upgrade process of the blockchain. The module allows for the proposal of a new version of the software and the execution of the upgrade process. The upgrade process is executed in two phases: the proposal phase and the execution phase. During the proposal phase, a new version of the software is proposed, and the validators vote on whether to upgrade or not. During the execution phase, the upgrade is executed, and the new version of the software is activated.
 

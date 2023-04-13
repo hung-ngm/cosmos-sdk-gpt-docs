@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/x/staking/types/errors.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/x/staking/types/errors.go)
 
 This code defines a set of error variables for the `staking` module in the `cosmos-sdk` project. These errors are used to indicate various types of failures that can occur during staking operations, such as creating or removing validators, delegating tokens, or unbonding tokens. 
 

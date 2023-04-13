@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/api/cosmos/vesting/v1beta1/tx_grpc.pb.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/api/cosmos/vesting/v1beta1/tx_grpc.pb.go)
 
 This code defines a gRPC service for creating different types of vesting accounts. The vesting accounts are used in the Cosmos SDK blockchain framework to manage the distribution of tokens over time. 
 

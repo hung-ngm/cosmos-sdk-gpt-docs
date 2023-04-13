@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/depinject/internal/graphviz/docs.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/depinject/internal/graphviz/docs.go)
 
 The `graphviz` package provides a set of simple types for building graphviz DOT files. These files are commonly used for container debugging and visualization. The package does not attempt to cover all of graphviz, but rather focuses on the specific needs of the project.
 

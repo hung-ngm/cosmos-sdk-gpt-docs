@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/tools/rosetta/lib/internal/service/construction.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/tools/rosetta/lib/internal/service/construction.go)
 
 The `service` package in the `cosmos-sdk` project contains code that implements the Rosetta API for the Cosmos SDK. The Rosetta API is a standard interface for interacting with blockchain nodes, and it provides a set of endpoints for constructing, signing, and submitting transactions. The `service` package contains functions that implement these endpoints for the Cosmos SDK.
 

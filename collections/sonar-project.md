@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/collections/sonar-project.properties)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/collections/sonar-project.properties)
 
 This code is a configuration file for the SonarQube code analysis tool, specifically for the Cosmos SDK - Collections project. SonarQube is a tool that analyzes code for bugs, vulnerabilities, and code smells, and provides metrics and insights to improve code quality. 
 

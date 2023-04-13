@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/crypto/keys/secp256k1/internal/secp256k1/libsecp256k1/src/bench_recover.c)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/crypto/keys/secp256k1/internal/secp256k1/libsecp256k1/src/bench_recover.c)
 
 This code is a benchmarking tool for the `secp256k1` library, which is a C library for working with elliptic curve cryptography. Specifically, this tool benchmarks the `secp256k1_ecdsa_recover` function, which is used to recover a public key from a given message and signature. The purpose of this benchmark is to measure the performance of this function under different conditions, such as different message and signature lengths.
 

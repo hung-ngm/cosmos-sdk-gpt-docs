@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/types/address/store_key.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/types/address/store_key.go)
 
 The code in this file provides functionality for working with addresses in the cosmos-sdk project. It defines a constant `MaxAddrLen` which represents the maximum allowed length for an address in bytes. It also provides a function `LengthPrefix` which prefixes a given byte slice with its length and returns the resulting byte slice. This is useful for variable-length components in store keys. The function also performs a validation check to ensure that the length of the byte slice is not greater than `MaxAddrLen`. If the length is greater, it returns an error.
 

@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/x/gov/types/v1beta1/router.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/x/gov/types/v1beta1/router.go)
 
 The code defines a Router interface and a router struct that implements this interface. The purpose of this code is to provide a governance Handler router for the cosmos-sdk project. The Router interface defines methods for adding, checking, and getting routes for governance handlers. The router struct implements these methods and provides a way to add governance handlers for a given path.
 

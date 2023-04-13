@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/orm/model/ormtable/index_impl.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/orm/model/ormtable/index_impl.go)
 
 The `ormtable` package contains code that implements an object-relational mapping (ORM) system for the Cosmos SDK project. The code in this file defines an `indexKeyIndex` type that implements the `Index` interface for a regular `IndexKey`. The `Index` interface provides methods for indexing and querying data in a key-value store.
 

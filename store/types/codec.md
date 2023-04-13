@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/store/types/codec.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/store/types/codec.go)
 
 This file defines an interface called `Codec` and a concrete implementation of it called `TestCodec`. The `Codec` interface is used by the store package to marshal data. It has four methods: `Marshal`, `MarshalLengthPrefixed`, `Unmarshal`, and `UnmarshalLengthPrefixed`. The `Marshal` method takes a `proto.Message` and returns its binary encoding. The `MarshalLengthPrefixed` method does the same thing, but prefixes the binary encoding with the length of the encoding. The `Unmarshal` method takes a byte slice and a pointer to a `proto.Message`, and stores the result of parsing the byte slice into the `proto.Message`. The `UnmarshalLengthPrefixed` method does the same thing, but expects the byte slice to be prefixed with the length of the encoding.
 

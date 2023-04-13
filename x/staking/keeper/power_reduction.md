@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/x/staking/keeper/power_reduction.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/x/staking/keeper/power_reduction.go)
 
 The code above is a part of the `keeper` package in the `cosmos-sdk` project. It contains two functions that are used to convert tokens to consensus power and vice versa. 
 

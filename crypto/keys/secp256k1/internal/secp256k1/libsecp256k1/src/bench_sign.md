@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/crypto/keys/secp256k1/internal/secp256k1/libsecp256k1/src/bench_sign.c)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/crypto/keys/secp256k1/internal/secp256k1/libsecp256k1/src/bench_sign.c)
 
 This code is a benchmarking tool for measuring the performance of the `secp256k1` library's `ecdsa_sign` function. The `secp256k1` library is a C library for working with the elliptic curve cryptography used in Bitcoin. The `ecdsa_sign` function is used to sign messages using the ECDSA algorithm.
 

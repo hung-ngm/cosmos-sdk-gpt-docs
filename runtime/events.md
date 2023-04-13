@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/runtime/events.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/runtime/events.go)
 
 The `runtime` package in the `cosmos-sdk` project contains code related to the execution of smart contracts on the Cosmos blockchain. The `EventService` and `Events` types in this file are used to manage events emitted by smart contracts during their execution.
 

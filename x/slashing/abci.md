@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/x/slashing/abci.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/x/slashing/abci.go)
 
 The code above is a function called `BeginBlocker` that is part of the `slashing` package in the `cosmos-sdk` project. The purpose of this function is to check for infraction evidence or downtime of validators on every begin block. 
 

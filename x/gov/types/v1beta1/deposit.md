@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/x/gov/types/v1beta1/deposit.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/x/gov/types/v1beta1/deposit.go)
 
 This file contains code related to deposits in the cosmos-sdk project. Specifically, it defines a Deposit struct, a Deposits collection, and several methods related to these types.
 

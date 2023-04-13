@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/x/nft/simulation/decoder.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/x/nft/simulation/decoder.go)
 
 The `simulation` package in the `cosmos-sdk` project contains code related to simulating the behavior of the blockchain. The `NewDecodeStore` function in this file is a closure that returns a decoder function. This decoder function takes two `kv.Pair` objects as input and unmarshals the `Value` of each pair to the corresponding `nft` type. 
 

@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/x/genutil/genesis.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/x/genutil/genesis.go)
 
 The `genutil` package in the `cosmos-sdk` project provides a set of utility functions for initializing and managing the genesis state of a Cosmos SDK-based blockchain. This package contains a function called `InitGenesis` that is responsible for initializing accounts and delivering genesis transactions.
 

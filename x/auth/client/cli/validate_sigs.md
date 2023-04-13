@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/x/auth/client/cli/validate_sigs.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/x/auth/client/cli/validate_sigs.go)
 
 The `cli` package contains the command-line interface (CLI) functionality for the Cosmos SDK. This file, `validate_signatures.go`, contains the implementation of the `validate-signatures` command. This command is used to validate the signatures of a transaction. It checks whether all required signers have signed the transaction, whether the signatures were collected in the right order, and if the signature is valid over the given transaction. 
 

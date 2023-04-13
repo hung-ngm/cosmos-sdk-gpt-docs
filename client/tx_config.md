@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/client/tx_config.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/client/tx_config.go)
 
 This file defines several interfaces that are used to encode, decode, and build transactions in the cosmos-sdk project. 
 

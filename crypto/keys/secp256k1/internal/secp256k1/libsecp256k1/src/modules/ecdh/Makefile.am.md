@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/crypto/keys/secp256k1/internal/secp256k1/libsecp256k1/src/modules/ecdh/Makefile.am.include)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/crypto/keys/secp256k1/internal/secp256k1/libsecp256k1/src/modules/ecdh/Makefile.am.include)
 
 This code is responsible for including and compiling the necessary headers and programs related to the Elliptic Curve Diffie-Hellman (ECDH) key exchange protocol in the cosmos-sdk project. 
 

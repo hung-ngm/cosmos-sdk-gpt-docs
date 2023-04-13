@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/types/msgservice/validate.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/types/msgservice/validate.go)
 
 The `msgservice` package contains functions for validating protocol buffer (protobuf) messages used in the Cosmos SDK. The `ValidateProtoAnnotations` function validates that the proto annotations are correct. Specifically, it verifies that all services named "Msg" have `(cosmos.msg.v1.service) = true`. This is done by iterating over all the files in the `protoFiles` parameter (or `protoregistry.GlobalFiles` if `protoFiles` is nil), and for each file, iterating over all the services in the file. If a service is named "Msg", the `validateMsgServiceAnnotations` function is called to check if the service has the `(cosmos.msg.v1.service) = true` proto annotation. If the annotation is not present, an error is returned.
 

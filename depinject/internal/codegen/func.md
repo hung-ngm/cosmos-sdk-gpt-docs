@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/depinject/internal/codegen/func.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/depinject/internal/codegen/func.go)
 
 The `FuncGen` struct and its associated methods are part of the `codegen` package in the `cosmos-sdk` project. This package is used for generating and patching Go code, and `FuncGen` specifically is a utility for working with function declaration abstract syntax trees (ASTs).
 

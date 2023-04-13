@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/api/cosmos/upgrade/v1beta1/query_grpc.pb.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/api/cosmos/upgrade/v1beta1/query_grpc.pb.go)
 
 This code defines the gRPC API for the Query service in the cosmos-sdk upgrade module. The Query service provides methods for querying information related to upgrades in the blockchain. 
 

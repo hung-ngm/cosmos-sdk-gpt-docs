@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/x/tx/decode/unknown.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/x/tx/decode/unknown.go)
 
 The `decode` package in the `cosmos-sdk` project provides functions for decoding and validating binary data for various types of messages. The `RejectUnknownFields` function is used to reject any bytes that have unknown fields for the provided `proto.Message` type. It also has an option to allow non-critical fields to pass through. The function traverses inside of messages nested via `google.protobuf.Any` and does not do any deserialization of the `proto.Message`. An `AnyResolver` must be provided for traversing inside `google.protobuf.Any` messages.
 

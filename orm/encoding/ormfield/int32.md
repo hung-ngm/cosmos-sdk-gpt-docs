@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/orm/encoding/ormfield/int32.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/orm/encoding/ormfield/int32.go)
 
 The `ormfield` package contains the `Int32Codec` struct which is used to encode and decode 32-bit integers as big-endian unsigned 32-bit integers. The purpose of this codec is to allow for ordered iteration of these integers. 
 

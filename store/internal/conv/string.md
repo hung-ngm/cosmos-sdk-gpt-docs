@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/store/internal/conv/string.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/store/internal/conv/string.go)
 
 The `conv` package in the `cosmos-sdk` project contains two functions, `UnsafeStrToBytes` and `UnsafeBytesToStr`, that use the `unsafe` package to perform low-level memory operations. 
 

@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/x/auth/types/genesis.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/x/auth/types/genesis.go)
 
 The `types` package in the `cosmos-sdk` project contains various types and functions that are used throughout the project. This specific file contains functions and types related to the genesis state of the `auth` module. 
 

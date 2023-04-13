@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/x/feegrant/expected_keepers.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/x/feegrant/expected_keepers.go)
 
 The code above defines two interfaces, `AccountKeeper` and `BankKeeper`, that are expected to be implemented by other modules in the cosmos-sdk project. These interfaces are used to interact with the auth and supply modules respectively.
 

@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/tools/rosetta/client_offline.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/tools/rosetta/client_offline.go)
 
 This file contains an implementation of two interfaces from the `rosetta-sdk-go` package: `NetworkInformationProvider` and `OfflineClient`. These interfaces define methods that are used to interact with a blockchain network through the Rosetta API. The purpose of this code is to provide an implementation of these methods specific to the Cosmos SDK blockchain.
 

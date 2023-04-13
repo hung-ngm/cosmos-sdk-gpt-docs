@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/x/crisis/client/cli/tx.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/x/crisis/client/cli/tx.go)
 
 The code above is part of the cosmos-sdk project and is located in the cli package. The purpose of this code is to provide a root CLI command handler for all x/crisis transaction commands. It also provides a CLI command handler for creating a MsgVerifyInvariant transaction.
 

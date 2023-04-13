@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/orm/model/ormtable/primary_key.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/orm/model/ormtable/primary_key.go)
 
 The `ormtable` package contains code related to object-relational mapping (ORM) for the Cosmos SDK project. The `primaryKeyIndex` type is a struct that defines an `UniqueIndex` for the primary key. It contains a `PrimaryKeyCodec` field, which is used to encode and decode primary keys, a `fields` field, which is a list of field names, and an `indexers` field, which is a list of indexers. The `getBackend` function is a function that returns a `ReadBackend` and an error.
 

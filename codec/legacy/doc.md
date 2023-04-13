@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/codec/legacy/doc.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/codec/legacy/doc.go)
 
 The `legacy` package in the `cosmos-sdk` project contains a global amino codec (`Cdc`) that is deprecated but still used in several places within the SDK. This package is intended to be removed at some point in the future when the global `Cdc` is removed. The package also contains a utility function `RegisterAminoMsg` that checks the length of a message name before registering the concrete message type with amino.
 

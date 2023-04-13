@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/x/params/types/proposal/proposal.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/x/params/types/proposal/proposal.go)
 
 This code defines a proposal type for changing parameters in the Cosmos SDK. The `ParameterChangeProposal` struct represents a proposal to change one or more parameters in the system. It contains a title, description, and a slice of `ParamChange` structs, each of which represents a single parameter change. 
 

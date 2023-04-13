@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/types/errors/abci.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/types/errors/abci.go)
 
 The `errors` package in the `cosmos-sdk` project contains functions that return ABCI response objects with fields filled in from the given error, gas values, and events. 
 

@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/types/tx/direct_aux.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/types/tx/direct_aux.go)
 
 The code above is a part of the `cosmos-sdk` project and is located in the `tx` package. The purpose of this code is to provide functions for validating and unpacking auxiliary transaction data. 
 

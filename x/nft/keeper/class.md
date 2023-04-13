@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/x/nft/keeper/class.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/x/nft/keeper/class.go)
 
 The code above is a part of the `cosmos-sdk` project and is located in the `keeper` package. The purpose of this code is to define methods for managing non-fungible tokens (NFTs) classes. 
 

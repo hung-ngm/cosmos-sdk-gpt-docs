@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/scripts/go-update-dep-all.sh)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/scripts/go-update-dep-all.sh)
 
 The `go-update-dep-all.sh` script is a bash script that updates a specific Go module dependency in all of the `go.mod` files that import it. The purpose of this script is to make it easier to update a dependency across an entire project, rather than having to manually update each `go.mod` file individually. 
 

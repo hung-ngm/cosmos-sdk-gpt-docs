@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/x/staking/migrations/v3/keys.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/x/staking/migrations/v3/keys.go)
 
 This code defines a constant variable called `ModuleName` with the value of "staking". This variable is likely used throughout the larger project to reference the staking module. The staking module is likely responsible for managing the staking of tokens within the project's blockchain network. 
 

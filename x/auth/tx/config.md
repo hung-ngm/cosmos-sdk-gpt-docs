@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/x/auth/tx/config.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/x/auth/tx/config.go)
 
 The code defines a configuration struct and functions for creating and manipulating transactions in the cosmos-sdk project. The `config` struct contains various fields for handling different aspects of transaction creation and manipulation, such as the signing mode handler, transaction encoder and decoder, and JSON encoder and decoder. 
 

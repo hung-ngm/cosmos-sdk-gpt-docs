@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/baseapp/grpcrouter.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/baseapp/grpcrouter.go)
 
 The `GRPCQueryRouter` type in this file is responsible for routing ABCI Query requests to gRPC handlers. It contains a map of routes to handlers, as well as a codec for encoding and decoding protobuf messages. 
 

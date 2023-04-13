@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/depinject/internal/graphviz/attrs.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/depinject/internal/graphviz/attrs.go)
 
 The `graphviz` package in the `cosmos-sdk` project provides functionality for generating Graphviz graphs. This particular file defines an `Attributes` struct that represents a map of Graphviz attributes. It also provides methods for setting various attributes such as shape, color, label, etc. on the `Attributes` instance.
 

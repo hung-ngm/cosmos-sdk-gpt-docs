@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/store/types/context.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/store/types/context.go)
 
 The code above defines an interface called `Context` that is used by an application to pass context information required to process store streaming requests. The `Context` interface has four methods: `BlockHeader()`, `BlockHeight()`, `Logger()`, and `StreamingManager()`. 
 

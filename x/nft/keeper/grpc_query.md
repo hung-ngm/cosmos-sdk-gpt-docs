@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/x/nft/keeper/grpc_query.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/x/nft/keeper/grpc_query.go)
 
 This file contains the implementation of the `nft.QueryServer` interface for the `Keeper` struct. The `Keeper` struct is responsible for managing the state of non-fungible tokens (NFTs) in the Cosmos SDK blockchain framework. 
 

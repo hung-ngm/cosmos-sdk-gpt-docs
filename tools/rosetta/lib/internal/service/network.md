@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/tools/rosetta/lib/internal/service/network.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/tools/rosetta/lib/internal/service/network.go)
 
 The code above is a part of the `cosmos-sdk` project and is located in the `service` package. This code provides an implementation of the `OnlineNetwork` interface, which is used to interact with a blockchain network. The `OnlineNetwork` interface has three methods: `NetworkList`, `NetworkOptions`, and `NetworkStatus`.
 

@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/store/mem/store.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/store/mem/store.go)
 
 The `mem` package in the `cosmos-sdk` project contains an implementation of an in-memory key-value store. This store is used to maintain state privately by each node and is not committed as part of the app state. The `Store` struct implements the `types.KVStore` and `types.Committer` interfaces, which define the methods for interacting with the key-value store and committing changes to it.
 

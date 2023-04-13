@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/x/nft/keeper/keys.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/x/nft/keeper/keys.go)
 
 This code defines a set of functions and variables that are used to manage the storage of non-fungible tokens (NFTs) in the Cosmos SDK. The Cosmos SDK is a framework for building blockchain applications on top of the Tendermint consensus engine.
 

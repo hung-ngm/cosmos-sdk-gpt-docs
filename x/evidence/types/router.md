@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/x/evidence/types/router.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/x/evidence/types/router.go)
 
 The code defines a Router interface and a Handler type for handling evidence in the cosmos-sdk project. The Router interface defines methods for adding, checking, and retrieving evidence handlers for specific paths. The Handler type is a function that takes a context and an exported Evidence as input and returns an error. The Handler is responsible for verifying the evidence and executing any necessary business logic, slashing, or jailing.
 

@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/crypto/keyring/codec.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/crypto/keyring/codec.go)
 
 This code is part of the keyring package in the cosmos-sdk project. The purpose of this code is to register concrete types and interfaces on the given codec. The codec package is used for serialization and deserialization of data structures in the cosmos-sdk project. The legacy package provides support for backwards compatibility with older versions of the cosmos-sdk.
 

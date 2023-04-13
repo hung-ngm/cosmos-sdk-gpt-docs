@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/x/staking/migrations/v5/keys.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/x/staking/migrations/v5/keys.go)
 
 The `v5` package in the `cosmos-sdk` project contains code related to version 5 of the software development kit. This particular file defines a key prefix and a function for indexing historical information in the project.
 

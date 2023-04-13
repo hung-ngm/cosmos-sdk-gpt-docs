@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/x/gov/autocli.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/x/gov/autocli.go)
 
 This code is part of the `gov` package in the `cosmos-sdk` project. It defines a function called `AutoCLIOptions` that returns an instance of `autocliv1.ModuleOptions`. This function implements the `autocli.HasAutoCLIConfig` interface, which means it provides configuration options for the `autocli` tool.
 

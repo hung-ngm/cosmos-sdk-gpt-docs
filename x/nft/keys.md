@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/x/nft/keys.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/x/nft/keys.go)
 
 This code defines constants for the nft (non-fungible token) module in the cosmos-sdk project. 
 

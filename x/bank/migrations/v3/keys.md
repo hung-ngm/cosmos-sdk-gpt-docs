@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/x/bank/migrations/v3/keys.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/x/bank/migrations/v3/keys.go)
 
 The code defines a variable `DenomAddressPrefix` which is a byte slice containing a single byte value of `0x03`. It also provides a function `CreateDenomAddressPrefix` that takes a string argument `denom` and returns a byte slice. 
 

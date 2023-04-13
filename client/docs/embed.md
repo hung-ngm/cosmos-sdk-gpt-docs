@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/client/docs/embed.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/client/docs/embed.go)
 
 This code is responsible for embedding the Swagger UI into the cosmos-sdk project. Swagger UI is a tool for visualizing and interacting with APIs. The `embed` package is used to embed the Swagger UI files into the project, making them easily accessible to users. 
 

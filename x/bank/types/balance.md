@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/x/bank/types/balance.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/x/bank/types/balance.go)
 
 The `types` package in the `cosmos-sdk` project contains various types and interfaces used throughout the project. This specific file defines the `Balance` type, which represents the balance of an account in the Cosmos network. It also provides functions for validating and sanitizing genesis balances.
 

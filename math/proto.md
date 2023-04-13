@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/math/proto.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/math/proto.go)
 
 The `math` package in the `cosmos-sdk` project contains a definition for an interface called `customProtobufType`. This interface is used to define the behavior that custom gogo protobuf types must implement in order to be used as a "customtype" extension.
 

@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/x/feegrant/codec.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/x/feegrant/codec.go)
 
 The `feegrant` package in the `cosmos-sdk` project provides functionality for managing fee allowances for accounts. This file contains functions for registering the necessary interfaces and concrete types for Amino JSON serialization and for registering these types with the interface registry.
 

@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/simapp/genesis.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/simapp/genesis.go)
 
 The `simapp` package contains code related to the simulation of the Cosmos SDK blockchain. Within this package, the `GenesisState` type is defined. This type represents the initial state of the blockchain and is stored as a map of raw JSON messages, with each message being identified by a unique string.
 

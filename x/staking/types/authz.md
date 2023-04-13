@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/x/staking/types/authz.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/x/staking/types/authz.go)
 
 The code defines a StakeAuthorization struct that implements the authz.Authorization interface. This struct is used to define authorization rules for stake transactions in the Cosmos SDK. 
 

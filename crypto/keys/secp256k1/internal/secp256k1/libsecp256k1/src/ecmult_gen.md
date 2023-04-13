@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/crypto/keys/secp256k1/internal/secp256k1/libsecp256k1/src/ecmult_gen.h)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/crypto/keys/secp256k1/internal/secp256k1/libsecp256k1/src/ecmult_gen.h)
 
 The code defines functions and data structures for generating scalar multiples of the generator point on the secp256k1 elliptic curve. This is useful for various cryptographic operations, such as generating public keys from private keys or creating signatures.
 

@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/client/keys/import.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/client/keys/import.go)
 
 The `keys` package in the `cosmos-sdk` project provides functionality for managing cryptographic keys used in the Cosmos blockchain ecosystem. This particular file contains a function called `ImportKeyCommand()` that allows users to import private keys from a keyfile into the local keybase.
 

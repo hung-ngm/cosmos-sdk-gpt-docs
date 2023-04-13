@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/x/consensus/types/codec.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/x/consensus/types/codec.go)
 
 The code above is a part of the `cosmos-sdk` project and is located in the `types` package. The purpose of this code is to register various interfaces and concrete types used in the project for serialization and deserialization. 
 

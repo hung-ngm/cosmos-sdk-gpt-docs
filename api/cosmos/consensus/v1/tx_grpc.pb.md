@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/api/cosmos/consensus/v1/tx_grpc.pb.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/api/cosmos/consensus/v1/tx_grpc.pb.go)
 
 This code defines a gRPC service for the `cosmos-sdk` project, specifically for the `x/consensus_param` module. The service provides a method called `UpdateParams` that allows for updating the consensus parameters of the module. The authority for this operation is defined in the keeper. 
 

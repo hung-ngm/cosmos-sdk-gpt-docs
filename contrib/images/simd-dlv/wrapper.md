@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/contrib/images/simd-dlv/wrapper.sh)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/contrib/images/simd-dlv/wrapper.sh)
 
 This code is a shell script that is used to run the `simd` binary executable file within the `cosmos-sdk` project. The purpose of this script is to set up the necessary environment variables and execute the binary file with the appropriate arguments.
 

@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/docs/architecture/_category_.json)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/docs/architecture/_category_.json)
 
 This code defines a JSON object with three key-value pairs: "label", "position", and "link". The purpose of this object is not immediately clear without additional context, but it appears to be related to some sort of indexing or organization system. 
 

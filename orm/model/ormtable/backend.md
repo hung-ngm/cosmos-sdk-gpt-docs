@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/orm/model/ormtable/backend.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/orm/model/ormtable/backend.go)
 
 The `ormtable` package in the `cosmos-sdk` project provides an object-relational mapping (ORM) layer for working with key-value stores. This specific file defines the interfaces and implementations for read-only and read-write backends.
 

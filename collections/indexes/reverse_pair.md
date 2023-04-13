@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/collections/indexes/reverse_pair.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/collections/indexes/reverse_pair.go)
 
 The `indexes` package contains an implementation of an index called `ReversePair`. This index is used with `collections.Pair` keys and indexes objects by their second part of the key. When the value is being indexed by `collections.IndexedMap`, then `ReversePair` will create a relationship between the second part of the primary key and the first part. 
 

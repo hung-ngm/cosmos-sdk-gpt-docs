@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/api/cosmos/params/v1beta1/query_grpc.pb.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/api/cosmos/params/v1beta1/query_grpc.pb.go)
 
 This code defines the client and server API for the Query service in the cosmos-sdk project. The Query service allows clients to query specific parameters of a module, given its subspace and key, as well as all registered subspaces and all keys for a subspace. 
 

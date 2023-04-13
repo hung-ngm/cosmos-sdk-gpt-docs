@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/crypto/keys/secp256k1/internal/secp256k1/libsecp256k1/dummy.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/crypto/keys/secp256k1/internal/secp256k1/libsecp256k1/dummy.go)
 
 This code is a part of the `libsecp256k1` package in the `cosmos-sdk` project. It is a workaround for the `go mod vendor` command, which is used to create a local copy of all the dependencies required by a Go project. 
 

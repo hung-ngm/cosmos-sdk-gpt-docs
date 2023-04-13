@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/x/evidence/doc.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/x/evidence/doc.go)
 
 The `evidence` package is a module within the Cosmos SDK that allows for the submission and handling of evidence of misbehavior. This module follows the ADR 009 standard and requires all concrete evidence types to implement the `Evidence` interface contract. 
 

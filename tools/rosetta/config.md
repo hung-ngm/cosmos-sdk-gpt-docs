@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/tools/rosetta/config.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/tools/rosetta/config.go)
 
 The code defines the configuration for a Rosetta server for the Cosmos SDK blockchain. The `Config` struct defines the various parameters required to run the server, such as the blockchain name, network name, Tendermint RPC endpoint, gRPC endpoint, address to bind the server to, number of retries, offline mode, and fee suggestion parameters. The `validate` method checks if the required parameters are provided and sets default values if not. The `FromFlags` method reads the configuration from command-line flags and returns a `Config` object. The `ServerFromConfig` method creates a new Rosetta server from the given `Config` object. The `SetFlags` method sets the configuration flags to the given flagset.
 

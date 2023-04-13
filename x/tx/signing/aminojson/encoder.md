@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/x/tx/signing/aminojson/encoder.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/x/tx/signing/aminojson/encoder.go)
 
 The `aminojson` package provides encoding and decoding functionality for the Amino binary serialization format used in the Cosmos SDK. This file contains several functions that provide legacy-compatible encoding for certain types used in the SDK.
 

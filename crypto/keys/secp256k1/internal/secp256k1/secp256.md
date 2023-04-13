@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/crypto/keys/secp256k1/internal/secp256k1/secp256.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/crypto/keys/secp256k1/internal/secp256k1/secp256.go)
 
 The `secp256k1` package is a Go wrapper for the bitcoin `secp256k1` C library. This package provides functions for signing and verifying ECDSA signatures, as well as decompressing and compressing public keys. 
 

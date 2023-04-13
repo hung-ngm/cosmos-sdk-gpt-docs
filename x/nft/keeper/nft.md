@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/x/nft/keeper/nft.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/x/nft/keeper/nft.go)
 
 The code provided is a part of the `cosmos-sdk` project and contains the implementation of the `Keeper` struct, which is responsible for managing the state of non-fungible tokens (NFTs) in the blockchain. The `Keeper` struct provides methods for minting, burning, updating, and transferring NFTs. 
 

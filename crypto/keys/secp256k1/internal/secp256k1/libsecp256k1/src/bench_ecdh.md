@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/crypto/keys/secp256k1/internal/secp256k1/libsecp256k1/src/bench_ecdh.c)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/crypto/keys/secp256k1/internal/secp256k1/libsecp256k1/src/bench_ecdh.c)
 
 This code is a benchmarking tool for the ECDH (Elliptic Curve Diffie-Hellman) key exchange protocol using the secp256k1 elliptic curve. The purpose of this benchmark is to measure the performance of the ECDH key exchange protocol using the secp256k1 curve. 
 

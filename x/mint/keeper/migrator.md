@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/x/mint/keeper/migrator.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/x/mint/keeper/migrator.go)
 
 The code above is a part of the `cosmos-sdk` project and is located in the `keeper` package. It defines a `Migrator` struct that is responsible for handling in-place state migrations. The purpose of this code is to migrate the `x/mint` module state from consensus version 1 to version 2. 
 

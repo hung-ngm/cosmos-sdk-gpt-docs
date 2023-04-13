@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/runtime/services/reflection.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/runtime/services/reflection.go)
 
 The `ReflectionService` struct and associated methods in this file implement the `cosmos.reflection.v1` service for the `cosmos-sdk` project. This service provides functionality for retrieving protocol buffer file descriptors, which are used to describe the structure of messages and services in the `cosmos-sdk` system.
 

@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/client/keys/delete.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/client/keys/delete.go)
 
 The `keys` package in the `cosmos-sdk` project provides functionality for managing cryptographic keys. This specific file contains a function called `DeleteKeyCommand` which is a command-line interface (CLI) command for deleting a key from the key store. 
 

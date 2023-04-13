@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/tools/cosmovisor/cmd/cosmovisor/version.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/tools/cosmovisor/cmd/cosmovisor/version.go)
 
 This code defines a command-line interface (CLI) command for the Cosmos SDK project that displays the version of the cosmovisor and the application (APP) being used. The command can be executed by running `cosmovisor version` in the terminal. 
 

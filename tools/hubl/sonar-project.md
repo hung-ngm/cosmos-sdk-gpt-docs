@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/tools/hubl/sonar-project.properties)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/tools/hubl/sonar-project.properties)
 
 This code is a configuration file for SonarQube, a tool used for continuous code quality inspection. It sets various properties for the project, such as the project key, organization, and name. 
 

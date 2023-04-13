@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/x/genutil/migrations/v043/migrate.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/x/genutil/migrations/v043/migrate.go)
 
 The `v043` package in the `cosmos-sdk` project contains code for migrating exported state from version 0.40 to version 0.43 of the project's genesis state. The `Migrate` function in this file takes in two arguments: `appState` of type `types.AppMap` and `clientCtx` of type `client.Context`. The `appState` argument represents the current state of the application, while the `clientCtx` argument provides context for the migration process.
 

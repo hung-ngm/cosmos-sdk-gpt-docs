@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/crypto/keys/secp256k1/internal/secp256k1/libsecp256k1/src/bench_schnorr_verify.c)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/crypto/keys/secp256k1/internal/secp256k1/libsecp256k1/src/bench_schnorr_verify.c)
 
 This code is a part of the cosmos-sdk project and is used for benchmarking the performance of the Schnorr signature scheme. The Schnorr signature scheme is a digital signature algorithm that is used to verify the authenticity of a message. This algorithm is based on the discrete logarithm problem and is considered to be more secure than other signature schemes like ECDSA.
 

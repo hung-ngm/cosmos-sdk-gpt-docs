@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/tools/rosetta/lib/internal/service/block.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/tools/rosetta/lib/internal/service/block.go)
 
 The `service` package contains two functions that are used to retrieve information about blocks and transactions in the Cosmos SDK blockchain. These functions are used by the Rosetta API implementation in the Cosmos SDK to provide a standardized interface for interacting with the blockchain.
 

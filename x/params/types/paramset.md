@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/x/params/types/paramset.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/x/params/types/paramset.go)
 
 The `types` package in the `cosmos-sdk` project contains various types and interfaces used throughout the project. This specific file defines two types and an interface related to parameter sets.
 

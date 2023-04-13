@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/docs/spec/_category_.json)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/docs/spec/_category_.json)
 
 The code snippet above represents a JSON object that is used to store specifications for a particular feature or component within the cosmos-sdk project. The "label" field is used to provide a descriptive name for the specification, while the "position" field is used to indicate the order in which the specification should be displayed relative to other specifications. The "link" field can be used to provide a URL to additional documentation or resources related to the specification.
 

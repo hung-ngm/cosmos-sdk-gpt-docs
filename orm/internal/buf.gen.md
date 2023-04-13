@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/orm/internal/buf.gen.yaml)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/orm/internal/buf.gen.yaml)
 
 This code is a configuration file for the cosmos-sdk project. It specifies the version of the project as v1 and enables the use of a managed go package prefix. The managed go package prefix is set to the default value of `github.com/cosmos/cosmos-sdk/orm/internal`, but can be overridden with the `override` field. 
 

@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/depinject/inject.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/depinject/inject.go)
 
 The `depinject` package provides a dependency injection framework for the Cosmos SDK project. The `Inject` function is the main entry point for building and running a dependency injection container. It takes a `Config` object and a list of output pointers as arguments. The `Config` object specifies the providers that will be registered with the container, and the output pointers specify the values that will be extracted from the container. The `Inject` function returns an error if any of the requested outputs cannot be provided by the container.
 

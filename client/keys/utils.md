@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/client/keys/utils.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/client/keys/utils.go)
 
 This file contains functions related to printing keyring records in different formats. The `cryptokeyring` package is used to manage keyrings, which are collections of keys that can be used for signing transactions or messages. The `printKeyringRecord` function takes a single keyring record and a function that converts the record to a `KeyOutput` struct. It then prints the keyring record in the specified output format (either text or JSON) to the given writer. The `printKeyringRecords` function takes a slice of keyring records and uses the `MkAccKeysOutput` function to convert them to a slice of `KeyOutput` structs. It then prints the slice of `KeyOutput` structs in the specified output format to the given writer.
 

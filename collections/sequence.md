@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/collections/sequence.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/collections/sequence.go)
 
 The `collections` package contains code related to collections of data structures. This particular file defines a `Sequence` type that represents a monotonically increasing number. It is built on top of an `Item` type, which is a key-value store that can be used to store arbitrary data. 
 

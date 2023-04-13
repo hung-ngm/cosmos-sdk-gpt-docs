@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/x/bank/migrations/v1/types.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/x/bank/migrations/v1/types.go)
 
 This file is part of the `cosmos-sdk` project and contains code related to the `bank` module. The `bank` module is responsible for handling token transfers and account balances. 
 

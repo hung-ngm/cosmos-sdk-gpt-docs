@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/store/rootmulti/dbadapter.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/store/rootmulti/dbadapter.go)
 
 The code defines a wrapper type called `commitDBStoreAdapter` that implements the `types.KVStore` and `types.Committer` interfaces. This wrapper type is used to wrap a `dbadapter.Store` type and provide additional functionality for simulation and debugging purposes. 
 

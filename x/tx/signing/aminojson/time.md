@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/x/tx/signing/aminojson/time.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/x/tx/signing/aminojson/time.go)
 
 The `aminojson` package contains functions for encoding and decoding Protobuf messages to and from JSON format using the Amino encoding scheme. This file specifically contains two functions for marshaling Protobuf messages that represent timestamps and durations to JSON format.
 

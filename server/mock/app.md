@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/server/mock/app.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/server/mock/app.go)
 
 The `mock` package provides a simple mock kvstore app for testing purposes. The `NewApp` function creates a new instance of the app with a given root directory and logger. It initializes a new GoLevelDB database and mounts a new KVStore with a given key. It also sets an InitChainer function that initializes the chain with key/value pairs. The function then creates a new BaseApp with the name "kvstore", logger, database, and a custom transaction decoder. It mounts the KVStore to the BaseApp and sets the MsgServiceRouter to handle incoming messages. Finally, it loads the latest version of the app and returns the BaseApp instance.
 

@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/x/upgrade/client/cli/tx.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/x/upgrade/client/cli/tx.go)
 
 This code file contains two functions that are used to create command-line interface (CLI) commands for submitting software upgrade proposals and canceling them. These commands are part of the larger cosmos-sdk project, which is a framework for building blockchain applications.
 

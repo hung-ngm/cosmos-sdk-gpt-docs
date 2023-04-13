@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/x/gov/migrations/v3/json.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/x/gov/migrations/v3/json.go)
 
 The `MigrateJSON` function in the `v3` package of the `cosmos-sdk` project is responsible for migrating the `x/gov` module's genesis state from version `v0.43` to `v0.46`. The function takes an old state of type `v1beta1.GenesisState` as input and returns a new state of type `v1.GenesisState` after performing the necessary migration steps.
 

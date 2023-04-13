@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/store/snapshots/types/util.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/store/snapshots/types/util.go)
 
 The `types` package in the `cosmos-sdk` project contains various data structures and utility functions used throughout the project. One such utility function is `WriteExtensionPayload`, which is used to write an extension payload for the current extension snapshotter.
 

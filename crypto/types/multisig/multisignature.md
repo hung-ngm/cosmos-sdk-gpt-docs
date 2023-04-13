@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/crypto/types/multisig/multisignature.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/crypto/types/multisig/multisignature.go)
 
 The `multisig` package in the `cosmos-sdk` project provides functionality for handling multi-signatures in transactions. This file contains functions for creating and manipulating multi-signatures.
 

@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/tools/rosetta/lib/internal/service/mempool.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/tools/rosetta/lib/internal/service/mempool.go)
 
 The code above is a part of the `cosmos-sdk` project and is located in the `service` package. The purpose of this code is to provide functionality for fetching transactions from the mempool of an online network. 
 

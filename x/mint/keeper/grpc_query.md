@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/x/mint/keeper/grpc_query.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/x/mint/keeper/grpc_query.go)
 
 This code is a part of the `cosmos-sdk` project and is located in the `keeper` package. The purpose of this code is to provide query functionality for the `mint` module of the `cosmos-sdk`. The `mint` module is responsible for managing the inflation rate and distribution of newly minted tokens in the network.
 

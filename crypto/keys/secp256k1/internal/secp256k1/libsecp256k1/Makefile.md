@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/crypto/keys/secp256k1/internal/secp256k1/libsecp256k1/Makefile.am)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/crypto/keys/secp256k1/internal/secp256k1/libsecp256k1/Makefile.am)
 
 This file is responsible for compiling and linking the libsecp256k1 library, which is a C library for working with elliptic curve cryptography. The library provides functions for key generation, signing, and verification using the secp256k1 curve, which is used in the Bitcoin protocol. 
 

@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/x/upgrade/internal/conv/string.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/x/upgrade/internal/conv/string.go)
 
 The `conv` package in the `cosmos-sdk` project contains a function called `UnsafeStrToBytes` that converts a string into a byte array using the `unsafe` package. The purpose of this function is to provide a way to quickly convert a string into a byte array without the overhead of copying the data. However, it is important to note that the returned byte array must not be altered after the function is called, as doing so can cause a segmentation fault.
 

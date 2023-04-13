@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/server/pruning.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/server/pruning.go)
 
 The `server` package in the `cosmos-sdk` project contains code related to running a Cosmos SDK application server. This particular file contains a function called `GetPruningOptionsFromFlags` that is responsible for parsing command flags and returning the correct `PruningOptions` for the application.
 

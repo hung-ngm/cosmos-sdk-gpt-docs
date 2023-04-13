@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/internal/db/iterator_adapter.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/internal/db/iterator_adapter.go)
 
 The code above is a part of the cosmos-sdk project and is located in the `db` package. It provides a way to convert a `dbm.Iterator` into a `store/types.Iterator` interface. 
 

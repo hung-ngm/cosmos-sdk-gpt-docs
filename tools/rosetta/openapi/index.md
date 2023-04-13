@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/tools/rosetta/openapi/index.html)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/tools/rosetta/openapi/index.html)
 
 The code above is an HTML file that serves as the front-end for the Rosetta API. The Rosetta API is a standard interface for blockchain nodes that allows developers to build applications that can interact with any blockchain that implements the Rosetta API. 
 

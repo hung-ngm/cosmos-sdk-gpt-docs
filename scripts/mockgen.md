@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/scripts/mockgen.sh)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/scripts/mockgen.sh)
 
 This code is a bash script that generates mock implementations of various interfaces and structs used in the cosmos-sdk project. Mock implementations are used in testing to simulate the behavior of dependencies and isolate the code being tested. 
 

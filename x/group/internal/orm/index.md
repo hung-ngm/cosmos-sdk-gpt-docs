@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/x/group/internal/orm/index.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/x/group/internal/orm/index.go)
 
 The code defines two types of indexes, MultiKeyIndex and UniqueIndex, which are used to create and modify a secondary index based on the operations and changes on the primary object. The MultiKeyIndex is an index where multiple entries can point to the same underlying object, while the UniqueIndex prohibits duplicate keys. 
 

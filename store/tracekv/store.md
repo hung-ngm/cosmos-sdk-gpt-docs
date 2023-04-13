@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/store/tracekv/store.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/store/tracekv/store.go)
 
 The `tracekv` package provides a `Store` implementation that enables tracing of key-value store operations. The `Store` struct implements the `types.KVStore` interface and delegates all calls to a parent `KVStore` implementation. The `Store` struct also takes an `io.Writer` and a `types.TraceContext` as arguments. The `io.Writer` is used to write the trace data, and the `types.TraceContext` is used to add metadata to the trace data.
 

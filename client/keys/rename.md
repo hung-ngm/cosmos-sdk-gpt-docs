@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/client/keys/rename.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/client/keys/rename.go)
 
 The `RenameKeyCommand` function is a command-line interface (CLI) command that allows users to rename a key stored in the key store. The function takes two arguments, the old name of the key and the new name of the key. The function first reads the input from the command-line interface and then gets the client query context. It then retrieves the key from the keyring using the old name provided as an argument. If the key is not found, an error is returned. 
 

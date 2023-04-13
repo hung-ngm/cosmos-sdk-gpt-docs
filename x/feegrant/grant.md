@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/x/feegrant/grant.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/x/feegrant/grant.go)
 
 The `feegrant` package contains code related to fee allowances in the Cosmos SDK. The `Grant` struct represents a fee allowance grant, which is a permission given by one account (the granter) to another account (the grantee) to spend a certain amount of fees on transactions. The `NewGrant` function creates a new `Grant` instance by taking the granter and grantee addresses, and a `FeeAllowanceI` interface as input. The `FeeAllowanceI` interface is implemented by various types of fee allowances, and the function checks if the input `feeAllowance` is a valid implementation of this interface. If it is, the function creates a new `Grant` instance with the granter and grantee addresses, and the `FeeAllowanceI` instance packed into a `types.Any` instance. If the input `feeAllowance` is not a valid implementation of `FeeAllowanceI`, the function returns an error.
 

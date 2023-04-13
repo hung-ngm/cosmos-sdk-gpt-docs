@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/x/auth/vesting/msg_server.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/x/auth/vesting/msg_server.go)
 
 The `vesting` package contains the implementation of vesting accounts in the Cosmos SDK. This file defines the `msgServer` struct and its associated methods, which implement the `types.MsgServer` interface for creating different types of vesting accounts.
 

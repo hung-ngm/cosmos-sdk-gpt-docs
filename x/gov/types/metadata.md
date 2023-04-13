@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/x/gov/types/metadata.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/x/gov/types/metadata.go)
 
 The `ProposalMetadata` struct is a data structure that represents the metadata of a proposal in the cosmos-sdk project. This metadata is intended to be stored off-chain when submitted as part of a proposal. 
 

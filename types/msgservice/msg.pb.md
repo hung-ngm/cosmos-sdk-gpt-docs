@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/types/msgservice/msg.pb.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/types/msgservice/msg.pb.go)
 
 This file contains generated code for the `cosmos-sdk` project. It imports several packages, including `fmt`, `proto`, `descriptorpb`, and `math`. The purpose of this code is to define two extensions for the `cosmos.msg.v1` package: `E_Service` and `E_Signer`.
 

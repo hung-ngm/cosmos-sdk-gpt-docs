@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/x/mint/keeper/keeper.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/x/mint/keeper/keeper.go)
 
 The code defines the `Keeper` struct and associated methods for the `mint` module of the Cosmos SDK. The `Keeper` struct contains fields for the codec, store key, staking keeper, bank keeper, fee collector name, and authority. The `NewKeeper` function initializes a new `Keeper` instance with the given parameters and ensures that the module account has been set.
 

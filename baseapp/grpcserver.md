@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/baseapp/grpcserver.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/baseapp/grpcserver.go)
 
 The code defines two methods for registering gRPC services with the gRPC server in the context of a BaseApp. The `GRPCQueryRouter` method returns the `GRPCQueryRouter` of a BaseApp, while the `RegisterGRPCServer` method registers gRPC services directly with the gRPC server.
 

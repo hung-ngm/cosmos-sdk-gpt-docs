@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/crypto/keyring/doc.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/crypto/keyring/doc.go)
 
 The `keyring` package provides a common key management API for the cosmos-sdk project. It defines the `Keyring` interface, which specifies the methods that a type needs to implement to be used as a key storage backend. The package also provides a few implementations out-of-the-box.
 

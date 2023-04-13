@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/x/upgrade/module.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/x/upgrade/module.go)
 
 The code is a part of the cosmos-sdk project and is located in the upgrade package. The purpose of the code is to provide an upgrade module for the cosmos-sdk blockchain. The upgrade module allows for the seamless upgrade of the blockchain software without requiring a hard fork. The module provides a way to propose, vote on, and execute software upgrades on the blockchain.
 

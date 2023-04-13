@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/x/nft/msgs.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/x/nft/msgs.go)
 
 This code is a part of the `nft` package in the `cosmos-sdk` project. The purpose of this code is to define a message type for sending non-fungible tokens (NFTs) and to provide a method for getting the expected signers for this message type.
 

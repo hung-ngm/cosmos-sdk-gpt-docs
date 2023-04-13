@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/x/auth/migrations/legacytx/amino_signing.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/x/auth/migrations/legacytx/amino_signing.go)
 
 The `legacytx` package contains functions for converting signature data to amino-encoded signature bytes. The `SignatureDataToAminoSignature` function takes in a `SignatureData` object and a `codec.LegacyAmino` object and returns the amino-encoded signature bytes. This function only supports `SIGN_MODE_LEGACY_AMINO_JSON`. The `SignatureData` object can be of two types: `SingleSignatureData` or `MultiSignatureData`. If the `SignatureData` object is of type `SingleSignatureData`, the function returns the signature bytes directly. If the `SignatureData` object is of type `MultiSignatureData`, the function calls the `MultiSignatureDataToAminoMultisignature` function to convert the `MultiSignatureData` object to an `AminoMultisignature` object. The `AminoMultisignature` object is then marshalled using the `codec.LegacyAmino` object and returned as the amino-encoded signature bytes.
 

@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/x/auth/vesting/types/msgs.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/x/auth/vesting/types/msgs.go)
 
 This file contains code for creating three different types of messages that can be used in the cosmos-sdk project. These messages are used to create different types of vesting accounts, which are accounts that hold funds that are released over time according to a predetermined schedule. 
 

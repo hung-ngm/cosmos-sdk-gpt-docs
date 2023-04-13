@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/x/auth/signing/sig_verifiable_tx.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/x/auth/signing/sig_verifiable_tx.go)
 
 The code defines two interfaces, `SigVerifiableTx` and `Tx`, that are used for signature verification and transaction handling in the larger `cosmos-sdk` project.
 

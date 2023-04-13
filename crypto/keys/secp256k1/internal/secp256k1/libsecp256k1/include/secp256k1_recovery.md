@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/crypto/keys/secp256k1/internal/secp256k1/libsecp256k1/include/secp256k1_recovery.h)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/crypto/keys/secp256k1/internal/secp256k1/libsecp256k1/include/secp256k1_recovery.h)
 
 The code defines a set of functions and data structures for working with ECDSA signatures in the context of the secp256k1 elliptic curve. Specifically, it provides support for pubkey recovery, which allows one to recover the public key used to sign a message from the signature itself. 
 

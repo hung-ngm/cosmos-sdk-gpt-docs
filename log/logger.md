@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/log/logger.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/log/logger.go)
 
 The code defines a logging package for the Cosmos SDK project. It provides a Logger interface that maintains backward compatibility with the CometBFT logger and allows logging with different levels of severity. The package uses the zerolog library to implement the logging functionality.
 

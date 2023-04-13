@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/core/store/doc.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/core/store/doc.go)
 
 The `store` package in the `cosmos-sdk` project provides a simple API for modules to interact with key-value stores (kv-stores) without being dependent on any specific implementation of that functionality. This allows for greater flexibility and modularity within the project.
 

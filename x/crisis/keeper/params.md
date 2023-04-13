@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/x/crisis/keeper/params.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/x/crisis/keeper/params.go)
 
 This code is a part of the `cosmos-sdk` project and is located in the `keeper` package. The purpose of this code is to provide functions for getting and setting a constant fee in the store. 
 

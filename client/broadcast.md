@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/client/broadcast.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/client/broadcast.go)
 
 The `client` package in the `cosmos-sdk` project contains code for interacting with a CometBFT node. The `BroadcastTx` function is used to broadcast a transaction to a CometBFT node either synchronously or asynchronously based on the context parameters. The result of the broadcast is parsed into an intermediate structure which is logged if the context has a logger defined. 
 

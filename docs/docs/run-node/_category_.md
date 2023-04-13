@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/docs/docs/run-node/_category_.json)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/docs/docs/run-node/_category_.json)
 
 The code snippet above is a JSON object that represents a label, position, and link for running a node, API, and CLI in the cosmos-sdk project. This code is used to provide a user-friendly interface for running a node, API, and CLI in the cosmos-sdk project. 
 

@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/telemetry/metrics.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/telemetry/metrics.go)
 
 The `telemetry` package provides a wrapper around application telemetry functionality. It allows metrics to be gathered at any point in time. The package provides a `Metrics` struct that is used to gather metrics. When creating a `Metrics` object, a global metrics is registered with a set of sinks as configured by the operator. In addition to the sinks, when a process gets a `SIGUSR1`, a dump of formatted recent metrics will be sent to `STDERR`.
 

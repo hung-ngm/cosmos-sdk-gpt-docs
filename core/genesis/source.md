@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/core/genesis/source.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/core/genesis/source.go)
 
 The `genesis` package in the `cosmos-sdk` project contains code related to the initialization of a new blockchain network. This particular file contains a function called `SourceFromRawJSON` that returns a `GenesisSource` interface and an error. 
 

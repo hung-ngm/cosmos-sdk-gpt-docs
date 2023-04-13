@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/x/tx/signing/textual/dec.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/x/tx/signing/textual/dec.go)
 
 The `textual` package in the `cosmos-sdk` project contains code for rendering and parsing scalar values in a human-readable format. Specifically, the `decValueRenderer` type in this file provides a way to encode and decode `sdk.Dec` values, which are decimal numbers with arbitrary precision used throughout the Cosmos SDK.
 

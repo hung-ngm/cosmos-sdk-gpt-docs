@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/tools/confix/cmd/config.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/tools/confix/cmd/config.go)
 
 The `ConfigCommand` function in the `cmd` package of the `cosmos-sdk` project returns a `cobra.Command` object that contains subcommands for managing application configuration. The purpose of this code is to provide a convenient way for users to interactively update configuration values for their applications.
 

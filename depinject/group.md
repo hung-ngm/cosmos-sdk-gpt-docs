@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/depinject/group.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/depinject/group.go)
 
 The `depinject` package provides a dependency injection framework for the Cosmos SDK project. This package contains a set of functions and types that allow developers to define and manage dependencies between different parts of the codebase.
 

@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/client/v2/autocli/flag/message.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/client/v2/autocli/flag/message.go)
 
 The `MessageBinder` struct in this code binds multiple flags in a flag set to a protobuf message. It has a `BuildMessage` method that builds and returns a new message for the bound flags, and a `Bind` method that binds the flag values to an existing protobuf message. The `Get` method calls `BuildMessage` and wraps the result in a `protoreflect.Value`.
 

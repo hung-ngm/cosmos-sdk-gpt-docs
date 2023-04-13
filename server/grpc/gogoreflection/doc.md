@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/server/grpc/gogoreflection/doc.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/server/grpc/gogoreflection/doc.go)
 
 The `gogoreflection` package is responsible for implementing gRPC reflection for gogoproto consumers. This is necessary because the normal reflection library does not work as it points to a different singleton registry. The API and codebase for this package is taken from the official gRPC reflection repository.
 

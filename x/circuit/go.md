@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/x/circuit/go.mod)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/x/circuit/go.mod)
 
 This file is a `go.mod` file that specifies the dependencies required for the `github.com/cosmos/cosmos-sdk/x/circuit` module. The `go.mod` file is used by the Go toolchain to manage dependencies and ensure that the correct versions of each dependency are used.
 

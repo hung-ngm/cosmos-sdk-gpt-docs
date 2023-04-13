@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/x/auth/keeper/keeper.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/x/auth/keeper/keeper.go)
 
 The code defines an interface contract called `AccountKeeperI` and a struct called `AccountKeeper` that implements this interface. The `AccountKeeper` struct is responsible for encoding and decoding accounts using the go-amino (binary) encoding/decoding library. The `AccountKeeper` struct has several methods that allow for the creation, retrieval, and modification of accounts. 
 

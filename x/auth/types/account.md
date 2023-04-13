@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/x/auth/types/account.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/x/auth/types/account.go)
 
 The `types` package in the `cosmos-sdk` project contains various types and interfaces that are used throughout the project. This file defines two main types of accounts: `BaseAccount` and `ModuleAccount`, both of which implement the `sdk.AccountI` interface. 
 

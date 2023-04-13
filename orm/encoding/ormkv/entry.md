@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/orm/encoding/ormkv/entry.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/orm/encoding/ormkv/entry.go)
 
 This code defines interfaces and structs that represent different types of entries in a key-value store used by the ORM (Object-Relational Mapping) instances in the cosmos-sdk project. 
 

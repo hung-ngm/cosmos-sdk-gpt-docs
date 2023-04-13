@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/x/feegrant/filtered_fee.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/x/feegrant/filtered_fee.go)
 
 The `feegrant` package contains code related to fee allowances for transactions in the Cosmos SDK. This specific file defines the `AllowedMsgAllowance` struct, which implements the `FeeAllowanceI` interface. This struct represents a filtered fee allowance that only allows certain types of messages to be included in transactions. 
 

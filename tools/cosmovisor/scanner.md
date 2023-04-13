@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/tools/cosmovisor/scanner.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/tools/cosmovisor/scanner.go)
 
 The `cosmovisor` package contains a file watcher that monitors a file for updates and triggers an action when an update is detected. The file watcher is used to monitor an upgrade plan file that contains information about a planned upgrade to the system. The file watcher is initialized with a logger, the path to the upgrade plan file, and an interval at which to check for updates. 
 

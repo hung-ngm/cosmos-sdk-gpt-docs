@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/crypto/keys/secp256k1/secp256k1_cgo.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/crypto/keys/secp256k1/secp256k1_cgo.go)
 
 This file is a part of the cosmos-sdk project and contains code related to the Secp256k1 elliptic curve cryptography. The purpose of this code is to provide functions for signing and verifying signatures using the Secp256k1 curve. 
 

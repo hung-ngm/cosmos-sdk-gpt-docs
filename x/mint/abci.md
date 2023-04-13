@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/x/mint/abci.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/x/mint/abci.go)
 
 The `BeginBlocker` function in the `mint` package of the `cosmos-sdk` project is responsible for minting new tokens for the previous block. This function takes in three arguments: `ctx`, `k`, and `ic`. The `ctx` argument is of type `sdk.Context` and contains the context of the current block. The `k` argument is of type `keeper.Keeper` and provides access to the state of the blockchain. The `ic` argument is of type `types.InflationCalculationFn` and is a function that calculates the inflation rate.
 

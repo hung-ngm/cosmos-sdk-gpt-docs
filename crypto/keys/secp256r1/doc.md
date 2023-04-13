@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/crypto/keys/secp256r1/doc.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/crypto/keys/secp256r1/doc.go)
 
 The `secp256r1` package is responsible for implementing Cosmos-SDK compatible ECDSA public and private keys. These keys can be serialized using protobuf and packed in Any. 
 

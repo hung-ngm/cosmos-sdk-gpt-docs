@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/runtime/autocli.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/runtime/autocli.go)
 
 The code above is a function that returns a set of AutoCLI options for the Cosmos SDK application module. AutoCLI is a tool that generates a command-line interface (CLI) for gRPC services. The purpose of this function is to provide a set of options that can be used to generate a CLI for the Cosmos SDK application module.
 

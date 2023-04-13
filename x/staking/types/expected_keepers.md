@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/x/staking/types/expected_keepers.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/x/staking/types/expected_keepers.go)
 
 This file defines several interfaces that are expected to be implemented by other modules in the cosmos-sdk project. These interfaces are used by the staking module to interact with other modules and perform various actions related to staking and delegation.
 

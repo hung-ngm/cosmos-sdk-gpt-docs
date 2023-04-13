@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/api/cosmos/slashing/v1beta1/query_grpc.pb.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/api/cosmos/slashing/v1beta1/query_grpc.pb.go)
 
 This code defines the client and server interfaces for the Query service in the cosmos-sdk's slashing module. The Query service provides functionality to query the parameters and signing information of validators in the slashing module. 
 

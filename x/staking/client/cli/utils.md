@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/x/staking/client/cli/utils.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/x/staking/client/cli/utils.go)
 
 The code defines a validator struct and provides a function to parse and validate a JSON file containing information about a validator. The validator struct contains fields for the amount of coins to bond, the validator's public key, moniker, identity, website, security, details, commission rates, and minimum self-delegation. 
 

@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/core/appmodule/register.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/core/appmodule/register.go)
 
 The `appmodule` package contains a function called `Register` that is used to register a module with the global module registry in the `cosmos-sdk` project. This function takes in a protobuf message and a variadic number of options. The protobuf message is used to uniquely identify the protobuf module config type, while the options are used to handle all module initialization.
 

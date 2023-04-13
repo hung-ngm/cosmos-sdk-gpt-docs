@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/x/tx/signing/directaux/direct_aux.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/x/tx/signing/directaux/direct_aux.go)
 
 The `directaux` package contains the implementation of the `SIGN_MODE_DIRECT_AUX` sign mode handler for the Cosmos SDK. This sign mode handler is used to sign transactions that require a direct signature from a single auxiliary signer. 
 

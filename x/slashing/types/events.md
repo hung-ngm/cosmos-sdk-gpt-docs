@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/x/slashing/types/events.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/x/slashing/types/events.go)
 
 This code defines constants for event types and attribute keys related to the slashing module in the cosmos-sdk project. The slashing module is responsible for penalizing validators who act maliciously or fail to perform their duties. 
 

@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/x/authz/client/cli/query.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/x/authz/client/cli/query.go)
 
 The code is a part of the cosmos-sdk project and is located in the cli package. The purpose of this code is to provide the cli query commands for the authz (authorization) module. The code defines three functions that return the cli commands for querying authorization grants. These functions are GetCmdQueryGrants, GetQueryGranterGrants, and GetQueryGranteeGrants. 
 

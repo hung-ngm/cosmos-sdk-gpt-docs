@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/x/gov/types/v1/tally.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/x/gov/types/v1/tally.go)
 
 The code defines several structs and functions related to governance in the cosmos-sdk project. The `ValidatorGovInfo` struct represents information about a validator that is used for tallying votes. It contains the validator's address, bonded tokens (i.e. the power of the validator), delegator shares, delegator deductions, and the validator's vote. The `NewValidatorGovInfo` function creates a new instance of this struct with the given parameters.
 

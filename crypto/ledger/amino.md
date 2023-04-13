@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/crypto/ledger/amino.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/crypto/ledger/amino.go)
 
 This code is responsible for registering and encoding cryptographic types used in the cosmos-sdk project. The package imports the codec and cryptoAmino packages from the cosmos-sdk project. The `cdc` variable is initialized as a new instance of the `codec.LegacyAmino` type.
 

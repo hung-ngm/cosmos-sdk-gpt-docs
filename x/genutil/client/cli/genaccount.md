@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/x/genutil/client/cli/genaccount.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/x/genutil/client/cli/genaccount.go)
 
 The `AddGenesisAccountCmd` function is a command-line interface (CLI) command that adds a new genesis account to the `genesis.json` file. The `genesis.json` file is a configuration file that contains the initial state of the blockchain. The function takes two arguments: `address_or_key_name` and `coin`. The `address_or_key_name` argument specifies the account address or key name, and the `coin` argument specifies the initial coins for the account. The function also supports optional vesting parameters for the account.
 

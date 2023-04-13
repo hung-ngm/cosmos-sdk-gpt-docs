@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/x/evidence/types/querier.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/x/evidence/types/querier.go)
 
 This file is a part of the cosmos-sdk project and contains code related to the evidence module. The evidence module is responsible for handling evidence of misbehavior on the blockchain. This code defines the routes for querying evidence and provides functions for creating instances of query requests and parameters.
 

@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/depinject/errors.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/depinject/errors.go)
 
 The `depinject` package provides a dependency injection framework for the Cosmos SDK project. The package contains error definitions and helper functions for handling errors related to dependency injection.
 

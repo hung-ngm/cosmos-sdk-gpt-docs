@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/client/v2/internal/buf.yaml)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/client/v2/internal/buf.yaml)
 
 This code is a configuration file for the cosmos-sdk project. It specifies the version of the project, its dependencies, and linting and breaking rules.
 

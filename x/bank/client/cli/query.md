@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/x/bank/client/cli/query.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/x/bank/client/cli/query.go)
 
 The code provided is a part of the cosmos-sdk project and is located in the `cli` package. This file contains functions that define the CLI commands for the `x/bank` module. The `x/bank` module is responsible for handling the token transfers between accounts in the Cosmos network. 
 

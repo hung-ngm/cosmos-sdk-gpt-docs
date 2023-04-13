@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/orm/model/ormlist/options.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/orm/model/ormlist/options.go)
 
 The `ormlist` package defines options for listing items from ORM (Object-Relational Mapping) indexes in the `cosmos-sdk` project. The package provides a set of functions that return `Option` values, which can be used to configure the behavior of ORM iterators. 
 

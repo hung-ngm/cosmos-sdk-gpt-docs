@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/x/auth/client/cli/decode.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/x/auth/client/cli/decode.go)
 
 The code above is a part of the cosmos-sdk project and is located in the cli package. This code provides a command-line interface (CLI) for decoding a binary-encoded transaction string. The GetDecodeCommand function returns a Cobra command that can be used to decode a transaction string. 
 

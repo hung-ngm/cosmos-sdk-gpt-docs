@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/x/mint/types/params.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/x/mint/types/params.go)
 
 The code above is a part of the `cosmos-sdk` project and contains functions and methods related to the `Params` struct. The `Params` struct is used to store the parameters of the `x/mint` module, which is responsible for minting new tokens in the Cosmos network. 
 

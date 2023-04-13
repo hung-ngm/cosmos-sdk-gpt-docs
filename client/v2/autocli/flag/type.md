@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/client/v2/autocli/flag/type.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/client/v2/autocli/flag/type.go)
 
 The `flag` package in the `cosmos-sdk` project provides functionality for defining and parsing command-line flags. This specific file defines an interface called `Type` which specifies a custom flag type. 
 

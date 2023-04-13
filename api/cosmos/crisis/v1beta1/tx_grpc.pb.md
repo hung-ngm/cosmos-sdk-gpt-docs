@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/api/cosmos/crisis/v1beta1/tx_grpc.pb.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/api/cosmos/crisis/v1beta1/tx_grpc.pb.go)
 
 This code defines a gRPC service for the `cosmos-sdk` project's `crisis` module. The `MsgClient` interface defines two methods: `VerifyInvariant` and `UpdateParams`. The `MsgServer` interface defines the same two methods, which must be implemented by any server that implements the `MsgServer` interface. 
 

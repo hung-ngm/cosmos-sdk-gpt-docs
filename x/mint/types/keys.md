@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/x/mint/types/keys.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/x/mint/types/keys.go)
 
 This code defines various constants and variables related to the `mint` module in the `cosmos-sdk` project. 
 

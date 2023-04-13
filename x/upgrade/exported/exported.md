@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/x/upgrade/exported/exported.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/x/upgrade/exported/exported.go)
 
 The `exported` package in the `cosmos-sdk` project contains various interfaces and types that are meant to be used by external packages. One such interface is `ProtocolVersionSetter`, which is defined in this file.
 

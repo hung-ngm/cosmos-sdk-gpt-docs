@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/simapp/genesis_account.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/simapp/genesis_account.go)
 
 The code defines a type called `SimGenesisAccount` that implements the `GenesisAccount` interface from the `auth` module of the Cosmos SDK. This type is used for simulation accounts in the genesis state. 
 

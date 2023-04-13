@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/x/tx/signing/std/handler_map.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/x/tx/signing/std/handler_map.go)
 
 The code defines a struct called `SignModeOptions` that contains options for configuring the standard sign mode handler map. The struct has three fields: `Textual`, `DirectAux`, and `AminoJSON`, which are options for `SIGN_MODE_TEXTUAL`, `SIGN_MODE_DIRECT_AUX`, and `SIGN_MODE_LEGACY_AMINO_JSON`, respectively. 
 

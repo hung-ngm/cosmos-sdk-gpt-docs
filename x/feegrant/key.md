@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/x/feegrant/key.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/x/feegrant/key.go)
 
 The `feegrant` package in the `cosmos-sdk` project provides functionality for granting fee allowances to other accounts. This is useful in scenarios where an account wants to allow another account to spend its funds for a limited time or up to a certain amount. 
 

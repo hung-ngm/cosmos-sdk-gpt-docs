@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/x/bank/migrations/v2/store.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/x/bank/migrations/v2/store.go)
 
 The `v2` package in the `cosmos-sdk` project contains code for performing in-place store migrations from version `v0.40` to `v0.43`. The `MigrateStore` function is the main entry point for this package. It takes a `sdk.Context`, a `storetypes.StoreKey`, and a `codec.BinaryCodec` as input parameters. The `storeKey` parameter is used to retrieve the `KVStore` instance from the context. The `BinaryCodec` is used to serialize and deserialize data.
 

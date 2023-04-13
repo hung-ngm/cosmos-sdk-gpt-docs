@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/tools/hubl/internal/config.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/tools/hubl/internal/config.go)
 
 The code above defines a configuration file format and provides functions for loading and saving configuration files in that format. The configuration file format is defined using TOML, a popular configuration file format. The `Config` struct represents the top-level configuration object, which contains a map of `ChainConfig` objects, each of which represents the configuration for a specific blockchain. Each `ChainConfig` object contains a list of `GRPCEndpoint` objects, which represent trusted gRPC endpoints for that blockchain.
 

@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/x/crisis/types/route.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/x/crisis/types/route.go)
 
 The code above defines a type called `InvarRoute` which represents a route for an invariant check. An invariant check is a function that ensures that certain conditions are always true in a system. In the context of the cosmos-sdk project, this is used to ensure that the state of the blockchain is always valid.
 

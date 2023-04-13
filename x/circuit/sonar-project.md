@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/x/circuit/sonar-project.properties)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/x/circuit/sonar-project.properties)
 
 This code is a configuration file for SonarQube, a tool used for continuous code quality inspection. Specifically, it sets up the project key, organization, and name for the Cosmos SDK's x/circuit module, which is a part of the larger Cosmos SDK project. 
 

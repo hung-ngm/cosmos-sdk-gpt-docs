@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/x/evidence/exported/evidence.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/x/evidence/exported/evidence.go)
 
 The code defines several interfaces that are used in the cosmos-sdk project to handle evidence of misbehavior by validators in the network. 
 

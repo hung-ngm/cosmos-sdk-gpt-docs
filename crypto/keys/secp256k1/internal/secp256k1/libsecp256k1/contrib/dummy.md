@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/crypto/keys/secp256k1/internal/secp256k1/libsecp256k1/contrib/dummy.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/crypto/keys/secp256k1/internal/secp256k1/libsecp256k1/contrib/dummy.go)
 
 This code is a part of the `contrib` package in the `cosmos-sdk` project. It is a workaround for the `go mod vendor` command. The purpose of this code is to include a dummy C file in the project. 
 

@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/store/internal/proofs/create.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/store/internal/proofs/create.go)
 
 The `proofs` package in the `cosmos-sdk` project provides functions for creating membership and non-membership proofs for a given key in a map. The package imports the `ics23` and `cosmossdk.io/store/internal/maps` packages.
 

@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/codec/legacy/codec.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/codec/legacy/codec.go)
 
 This file defines a global codec variable `Cdc` that is used throughout the cosmos-sdk project. The `Cdc` variable is a legacy Amino codec that has all CometBFT crypto and evidence types registered. The `init()` function registers the CometBFT crypto, evidence types, and legacy Amino codec with the `Cdc` variable. 
 

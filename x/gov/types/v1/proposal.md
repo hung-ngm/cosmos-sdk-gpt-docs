@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/x/gov/types/v1/proposal.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/x/gov/types/v1/proposal.go)
 
 The code defines the Proposal struct and related functions for creating, manipulating, and querying proposals in the Cosmos SDK. A proposal is a request to change the state of the blockchain, such as modifying parameters or adding new functionality. Proposals are submitted by proposers and must go through a deposit period and a voting period before they can be passed or rejected.
 

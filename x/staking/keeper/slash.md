@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/x/staking/keeper/slash.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/x/staking/keeper/slash.go)
 
 The `keeper` package in the `cosmos-sdk` project contains the implementation of the `Keeper` struct, which is responsible for managing the state of the blockchain. This file contains functions related to slashing and jailing validators in the staking module.
 

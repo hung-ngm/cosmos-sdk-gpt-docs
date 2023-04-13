@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/store/types/utils.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/store/types/utils.go)
 
 This file contains various utility functions that are used throughout the cosmos-sdk project. 
 

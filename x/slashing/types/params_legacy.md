@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/x/slashing/types/params_legacy.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/x/slashing/types/params_legacy.go)
 
 This code is part of the slashing module in the cosmos-sdk project. It defines the parameter store keys and functions for managing parameters related to slashing. However, it is important to note that the usage of x/params to manage parameters is deprecated in favor of x/gov controlled execution of MsgUpdateParams messages. These types remain solely for migration purposes and will be removed in a future release.
 

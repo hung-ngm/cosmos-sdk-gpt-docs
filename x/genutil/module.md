@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/x/genutil/module.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/x/genutil/module.go)
 
 The `genutil` package provides a set of utilities for generating and validating genesis transactions in the Cosmos SDK. This package contains two main components: `AppModuleBasic` and `AppModule`. 
 

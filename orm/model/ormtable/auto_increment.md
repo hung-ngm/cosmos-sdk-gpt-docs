@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/orm/model/ormtable/auto_increment.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/orm/model/ormtable/auto_increment.go)
 
 The `autoIncrementTable` struct is a Table implementation for tables with an auto-incrementing uint64 primary key. It provides methods for inserting, saving, updating, and retrieving the last inserted sequence. 
 

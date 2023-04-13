@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/x/bank/migrations/v4/store.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/x/bank/migrations/v4/store.go)
 
 The code above is a part of the `cosmos-sdk` project and is located in the `v4` package. The purpose of this code is to migrate the state of the `x/bank` module from consensus version 3 to version 4. Specifically, it takes the parameters that are currently stored and managed by the `x/params` module and stores them directly into the `x/bank` module state.
 

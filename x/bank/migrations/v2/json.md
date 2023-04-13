@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/x/bank/migrations/v2/json.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/x/bank/migrations/v2/json.go)
 
 The code provided is a part of the `cosmos-sdk` project and is located in the `v2` package. The purpose of this code is to provide a function that can be used to migrate the exported v0.40 x/bank genesis state to v0.43 x/bank genesis state. The migration includes pruning balances and supply with zero coins.
 

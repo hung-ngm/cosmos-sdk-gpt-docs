@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/x/group/internal/orm/genesis.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/x/group/internal/orm/genesis.go)
 
 The code defines an interface called `TableExportable` that specifies methods for importing and exporting data from a table. The purpose of this interface is to provide a standardized way for tables to be imported and exported across the project. 
 

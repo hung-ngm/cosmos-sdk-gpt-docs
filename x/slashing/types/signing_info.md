@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/x/slashing/types/signing_info.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/x/slashing/types/signing_info.go)
 
 The `types` package in the `cosmos-sdk` project contains various data structures and functions that are used throughout the project. This specific file defines two functions related to `ValidatorSigningInfo`.
 

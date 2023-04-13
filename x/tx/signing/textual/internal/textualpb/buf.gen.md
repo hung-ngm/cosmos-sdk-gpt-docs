@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/x/tx/signing/textual/internal/textualpb/buf.gen.yaml)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/x/tx/signing/textual/internal/textualpb/buf.gen.yaml)
 
 This code is a configuration file for the cosmos-sdk project. It specifies the version of the project, whether or not the project is managed, and the go package prefix for the project. 
 

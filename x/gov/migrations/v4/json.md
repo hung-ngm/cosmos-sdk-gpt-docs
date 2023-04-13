@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/x/gov/migrations/v4/json.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/x/gov/migrations/v4/json.go)
 
 The `MigrateJSON` function in the `v4` package of the `cosmos-sdk` project is responsible for migrating the exported v3 (v0.46) x/gov genesis state to v4 (v0.47) x/gov genesis state. The migration includes several steps, such as migrating params from `x/params` to `gov`, adding a new minimum initial deposit ratio parameter that is set to 0 by default, and tracking proposals in the voting period in a separate index.
 

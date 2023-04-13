@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/x/gov/types/v1/vote.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/x/gov/types/v1/vote.go)
 
 The code defines types and functions related to voting on proposals in the cosmos-sdk project. It includes definitions for the different voting options (yes, no, no with veto, abstain), as well as functions for creating and validating votes.
 

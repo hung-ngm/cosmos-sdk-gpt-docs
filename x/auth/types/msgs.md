@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/x/auth/types/msgs.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/x/auth/types/msgs.go)
 
 This code defines two methods for the `MsgUpdateParams` struct, which is used in the `cosmos-sdk` project. The `MsgUpdateParams` struct is a message type that is used to update certain parameters in the system. 
 

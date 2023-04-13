@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/depinject/internal/codegen/value.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/depinject/internal/codegen/value.go)
 
 The `codegen` package provides a set of functions for generating Go code. The `ValueExpr` function generates an `ast.Expr` to be used in the context of a file for the provided `reflect.Value`, adding any needed imports. The function takes a `reflect.Value` as input and returns an `ast.Expr` and an error. The `ast.Expr` represents the Go code that corresponds to the input value. The function handles different types of values and generates the appropriate `ast.Expr` for each type.
 

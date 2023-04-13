@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/x/staking/types/codec.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/x/staking/types/codec.go)
 
 The code above is part of the `cosmos-sdk` project and is located in the `types` package. The purpose of this code is to register the necessary interfaces and concrete types for Amino JSON serialization and to register the x/staking interfaces types with the interface registry.
 

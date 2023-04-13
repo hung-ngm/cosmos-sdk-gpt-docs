@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/x/nft/expected_keepers.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/x/nft/expected_keepers.go)
 
 The code above defines two interfaces, `BankKeeper` and `AccountKeeper`, that are used in the larger cosmos-sdk project. 
 

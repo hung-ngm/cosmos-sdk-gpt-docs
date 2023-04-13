@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/store/streaming/streaming.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/store/streaming/streaming.go)
 
 The `streaming` package provides functionality for streaming data in the Cosmos SDK project. This file contains functions for managing plugins that can be used for streaming data. 
 

@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/collections/indexed_map.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/collections/indexed_map.go)
 
 The code defines a collection of data structures and functions that allow for the creation and management of an indexed map. The indexed map is a partitioned collection that maintains a map of objects and a set of indexes that are used to create relationships between fields of the objects and their primary keys. The indexes are grouped together in an Indexes interface, which is implemented by the Index type. The Index type represents an index of the Value indexed using the type PrimaryKey. 
 

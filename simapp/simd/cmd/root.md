@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/simapp/simd/cmd/root.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/simapp/simd/cmd/root.go)
 
 The code defines the root command for the `simd` application, which is a simulation app for the Cosmos SDK. The `NewRootCmd()` function creates a new instance of the `cobra.Command` struct, which is used to define the `simd` command and its subcommands. The function also sets up the encoding configuration for the application and initializes the client context.
 

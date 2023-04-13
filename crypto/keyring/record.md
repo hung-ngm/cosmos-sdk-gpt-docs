@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/crypto/keyring/record.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/crypto/keyring/record.go)
 
 This file contains code related to keyring management in the cosmos-sdk project. The keyring is responsible for managing cryptographic keys used for signing transactions and other operations in the blockchain. 
 

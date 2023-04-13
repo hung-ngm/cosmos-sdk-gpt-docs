@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/crypto/keys/secp256k1/internal/secp256k1/libsecp256k1/src/field.h)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/crypto/keys/secp256k1/internal/secp256k1/libsecp256k1/src/field.h)
 
 The code defines a module for field elements used in the cosmos-sdk project. Field elements can be represented in different ways, but the code accessing it needs to take certain properties into account. Each field element can be normalized or not, and each field element has a magnitude that represents how far away its representation is from normalization. Normalized elements always have a magnitude of 1, but a magnitude of 1 doesn't imply normality.
 

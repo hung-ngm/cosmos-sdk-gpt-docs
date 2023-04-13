@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/errors/doc.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/errors/doc.go)
 
 The `errors` package in the `cosmos-sdk` project implements custom error interfaces. The purpose of this package is to provide a broad range of error declarations that cover common cases. Each error instance can wrap a generic error declaration to provide more details. 
 

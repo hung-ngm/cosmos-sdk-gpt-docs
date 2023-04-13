@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/types/account.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/types/account.go)
 
 The `types` package in the `cosmos-sdk` project contains various interfaces and types used throughout the project. This particular file defines two interfaces: `AccountI` and `ModuleAccountI`.
 

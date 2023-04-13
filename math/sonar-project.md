@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/math/sonar-project.properties)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/math/sonar-project.properties)
 
 This code is a configuration file for the SonarQube code analysis tool, specifically for the `cosmos-sdk-math` project within the larger Cosmos SDK project. 
 

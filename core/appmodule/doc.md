@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/core/appmodule/doc.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/core/appmodule/doc.go)
 
 The `appmodule` package in the `cosmos-sdk` project defines the functionality for registering app modules that are assembled using the `cosmossdk.io/depinject` dependency injection system and the declarative app configuration format handled by the `appconfig` package. 
 

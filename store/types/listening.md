@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/store/types/listening.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/store/types/listening.go)
 
 The `MemoryListener` type in the `types` package of the `cosmos-sdk` project is a struct that listens to state writes and accumulates the records in memory. It has a single field, `stateCache`, which is a slice of `StoreKVPair` pointers. 
 

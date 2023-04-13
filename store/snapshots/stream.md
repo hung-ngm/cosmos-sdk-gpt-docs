@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/store/snapshots/stream.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/store/snapshots/stream.go)
 
 The `snapshots` package provides functionality for serializing and deserializing snapshot nodes in the Cosmos SDK project. This package contains two structs, `StreamWriter` and `StreamReader`, which set up stream pipelines to serialize and deserialize snapshot nodes, respectively.
 

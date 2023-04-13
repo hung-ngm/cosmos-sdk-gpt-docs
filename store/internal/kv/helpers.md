@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/store/internal/kv/helpers.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/store/internal/kv/helpers.go)
 
 The code above is a part of the `kv` package in the `cosmos-sdk` project. It contains two functions, `AssertKeyAtLeastLength` and `AssertKeyLength`, that are used to validate the length of a store key.
 

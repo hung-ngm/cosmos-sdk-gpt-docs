@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/runtime/module.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/runtime/module.go)
 
 The `runtime` package contains code related to the runtime of the Cosmos SDK. The purpose of this specific file is to provide a set of functions and types that can be used to register and configure the various modules that make up the Cosmos SDK application.
 

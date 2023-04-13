@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/x/bank/keeper/genesis.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/x/bank/keeper/genesis.go)
 
 The code above is part of the `keeper` package in the `cosmos-sdk` project. It contains two functions: `InitGenesis` and `ExportGenesis`. These functions are responsible for initializing and exporting the bank module's state, respectively.
 

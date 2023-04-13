@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/math/doc.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/math/doc.go)
 
 The `math` package in the Cosmos SDK project provides custom math types for arithmetic operations. This package is used to handle signed and unsigned integer types with a maximum bit length of 256 bits. The purpose of this package is to provide a reliable and efficient way to perform arithmetic operations on large numbers.
 

@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/x/evidence/client/cli/query.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/x/evidence/client/cli/query.go)
 
 The `cli` package in the `cosmos-sdk` project contains code for the command-line interface (CLI) of the Cosmos SDK. This file, `query.go`, defines the CLI commands for querying evidence in the evidence module. 
 

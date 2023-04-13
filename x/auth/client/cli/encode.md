@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/x/auth/client/cli/encode.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/x/auth/client/cli/encode.go)
 
 The `cli` package contains the command-line interface (CLI) functionality for the Cosmos SDK. This particular file contains a function called `GetEncodeCommand()`, which returns a Cobra command that can be used to encode a JSONified transaction into Amino-serialized bytes. 
 

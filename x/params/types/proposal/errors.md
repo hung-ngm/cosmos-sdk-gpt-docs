@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/x/params/types/proposal/errors.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/x/params/types/proposal/errors.go)
 
 This code defines a set of error variables for the `proposal` package within the `cosmos-sdk` project. These errors are related to the `x/params` module, which is responsible for managing and updating various parameters within the Cosmos SDK. 
 

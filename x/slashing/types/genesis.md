@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/x/slashing/types/genesis.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/x/slashing/types/genesis.go)
 
 The code above is a part of the Cosmos SDK project and is located in the `types` package. This file contains functions that are used to create and validate the genesis state of the slashing module. 
 

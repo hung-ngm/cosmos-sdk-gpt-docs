@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/api/cosmos/evidence/v1beta1/tx_grpc.pb.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/api/cosmos/evidence/v1beta1/tx_grpc.pb.go)
 
 This code defines the Msg service for the cosmos-sdk project's evidence module. Specifically, it defines the client and server APIs for submitting evidence of misbehavior, such as equivocation or counterfactual signing. 
 

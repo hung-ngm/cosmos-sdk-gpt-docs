@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/tools/cosmovisor/errors/multi.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/tools/cosmovisor/errors/multi.go)
 
 The `errors` package in the `cosmos-sdk` project contains a `MultiError` type that is used to combine multiple errors into a single error. The `MultiError` type is a struct that contains a slice of errors. It is designed to never have 0 or 1 errors, but always have two or more.
 

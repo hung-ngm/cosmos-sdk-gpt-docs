@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/x/group/internal/orm/indexer.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/x/group/internal/orm/indexer.go)
 
 The `orm` package provides an object-relational mapping (ORM) layer for the Cosmos SDK. This file contains the implementation of an `Indexer` type that manages the persistence of an index based on searchable keys and operations. The `Indexer` type has three methods: `OnCreate`, `OnDelete`, and `OnUpdate`, which respectively persist, remove, and rebuild the secondary index entries for an object. 
 

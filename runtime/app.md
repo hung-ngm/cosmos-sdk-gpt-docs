@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/runtime/app.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/runtime/app.go)
 
 The `App` struct is a wrapper around `BaseApp` and `ModuleManager` that can be used in hybrid app.go/app config scenarios or directly as a `servertypes.Application` instance. It is used to create a hybrid app.go setup where some configuration is done declaratively with an app config and the rest of it is done the old way. 
 

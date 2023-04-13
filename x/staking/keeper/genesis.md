@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/x/staking/keeper/genesis.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/x/staking/keeper/genesis.go)
 
 The code provided is a part of the `cosmos-sdk` project and contains the implementation of the `Keeper` struct. The `Keeper` struct is responsible for managing the state of the staking module. The staking module is responsible for managing the validators and delegators in the Cosmos network. The `Keeper` struct provides methods for initializing the state of the staking module, exporting the state of the staking module, and updating the state of the staking module.
 

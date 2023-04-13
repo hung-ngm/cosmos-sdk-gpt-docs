@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/x/bank/migrations/v2/keys.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/x/bank/migrations/v2/keys.go)
 
 The code above is a part of the `cosmos-sdk` project and is located in the `v2` package. The purpose of this code is to provide functionality related to the `bank` module of the `cosmos-sdk`. 
 

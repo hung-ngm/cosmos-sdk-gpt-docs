@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/core/genesis/target.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/core/genesis/target.go)
 
 The `genesis` package contains code related to the creation of the initial state of a blockchain, also known as the genesis state. This file defines a struct called `RawJSONTarget` that encapsulates a genesis target backed by raw JSON messages. The purpose of this struct is to provide a way to write the initial state of a blockchain in a flexible and extensible way.
 

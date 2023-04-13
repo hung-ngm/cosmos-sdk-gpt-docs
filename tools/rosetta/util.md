@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/tools/rosetta/util.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/tools/rosetta/util.go)
 
 This file contains three functions related to metadata and time conversion. The purpose of this code is to provide utility functions for working with metadata in the context of the Rosetta API. 
 

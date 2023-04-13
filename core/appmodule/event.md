@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/core/appmodule/event.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/core/appmodule/event.go)
 
 The code defines interfaces and types related to event listeners in the cosmos-sdk project. Specifically, it defines the `HasEventListeners` interface that modules should implement to register event listeners, and the `EventListenerRegistrar` type that allows registering event listeners.
 

@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/x/feegrant/simulation/genesis.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/x/feegrant/simulation/genesis.go)
 
 The `simulation` package in the `cosmos-sdk` project contains code for generating random simulation data for testing purposes. This specific file contains functions for generating random fee grants for the `feegrant` module. 
 

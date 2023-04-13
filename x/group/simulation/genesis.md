@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/x/group/simulation/genesis.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/x/group/simulation/genesis.go)
 
 The `simulation` package in the `cosmos-sdk` project contains code for generating random simulation data for testing purposes. This specific file contains functions for generating random data for the `group` module of the `cosmos-sdk`. 
 

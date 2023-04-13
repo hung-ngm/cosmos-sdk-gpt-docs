@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/x/nft/sonar-project.properties)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/x/nft/sonar-project.properties)
 
 This code is a configuration file for SonarQube, a tool used for continuous code quality inspection. Specifically, it sets up the project key, organization, and name for the Cosmos SDK's x/nft module, as well as specifies the source code directory and test file exclusions. It also sets up coverage reporting for Go code using the coverage.out file.
 

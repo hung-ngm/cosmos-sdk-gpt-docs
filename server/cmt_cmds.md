@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/server/cmt_cmds.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/server/cmt_cmds.go)
 
 The `server` package contains various commands and utilities for running a CometBFT node. The code in this file defines several Cobra commands that can be used to interact with the node.
 

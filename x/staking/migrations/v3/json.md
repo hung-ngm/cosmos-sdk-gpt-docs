@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/x/staking/migrations/v3/json.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/x/staking/migrations/v3/json.go)
 
 The `MigrateJSON` function in the `v3` package of the `cosmos-sdk` project is responsible for migrating the exported v0.43 `x/staking` genesis state to the v0.46 `x/staking` genesis state. This function takes in an old state of type `types.GenesisState` and returns a new state of the same type after performing the migration.
 

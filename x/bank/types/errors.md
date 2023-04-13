@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/x/bank/types/errors.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/x/bank/types/errors.go)
 
 This code defines a set of sentinel errors for the `x/bank` module in the `cosmos-sdk` project. Sentinel errors are predefined error values that are used to represent specific error conditions in a program. 
 

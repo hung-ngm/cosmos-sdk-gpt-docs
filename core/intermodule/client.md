@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/core/intermodule/client.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/core/intermodule/client.go)
 
 The `intermodule` package contains the `Client` and `Invoker` interfaces that are used for inter-module communication in the Cosmos SDK project. The `Client` interface is used to send messages and queries between modules, provided that the request is valid and can be authenticated. It extends the `grpc.ClientConnInterface` interface, which is used to establish a connection to a gRPC server.
 

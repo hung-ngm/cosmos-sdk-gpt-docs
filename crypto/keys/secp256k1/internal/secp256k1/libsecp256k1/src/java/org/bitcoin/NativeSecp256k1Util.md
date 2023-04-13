@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/crypto/keys/secp256k1/internal/secp256k1/libsecp256k1/src/java/org/bitcoin/NativeSecp256k1Util.java)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/crypto/keys/secp256k1/internal/secp256k1/libsecp256k1/src/java/org/bitcoin/NativeSecp256k1Util.java)
 
 The code provided is a utility class called `NativeSecp256k1Util` that contains three methods for performing assertion checks. These methods are used to compare two values and throw an exception if they are not equal. The purpose of these methods is to provide a way to test the correctness of the `libsecp256k1` library, which is used for performing cryptographic operations in the Bitcoin protocol.
 

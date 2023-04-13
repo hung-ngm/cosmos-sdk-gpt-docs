@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/x/bank/keeper/grpc_query.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/x/bank/keeper/grpc_query.go)
 
 This file contains the implementation of the `BaseKeeper` struct, which is responsible for handling queries related to the bank module in the Cosmos SDK. The `BaseKeeper` struct implements the `types.QueryServer` interface, which defines the gRPC query methods that can be used to query the bank module.
 

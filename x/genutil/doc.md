@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/x/genutil/doc.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/x/genutil/doc.go)
 
 The `genutil` package is a collection of utility functions for managing the genesis file of a blockchain application. The genesis file is the initial state of the blockchain and contains information such as the initial validators and their stake, the initial supply of tokens, and other important parameters.
 

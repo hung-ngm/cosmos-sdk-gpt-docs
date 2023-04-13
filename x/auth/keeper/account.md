@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/x/auth/keeper/account.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/x/auth/keeper/account.go)
 
 The code above is part of the `cosmos-sdk` project and contains the implementation of the `AccountKeeper` interface. This interface provides methods to manage accounts in the Cosmos SDK blockchain. 
 

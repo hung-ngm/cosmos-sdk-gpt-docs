@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/store/sonar-project.properties)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/store/sonar-project.properties)
 
 This code is a configuration file for SonarQube, a code quality management tool. It sets various properties for the project called "Cosmos SDK - Store" within the larger Cosmos SDK project. 
 

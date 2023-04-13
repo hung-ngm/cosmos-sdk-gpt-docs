@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/x/tx/decode/errors.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/x/tx/decode/errors.go)
 
 This code defines two error variables, `ErrTxDecode` and `ErrUnknownField`, which are used in the decoding process of transactions in the cosmos-sdk project. The `txCodespace` constant is used to group these errors under the "tx" codespace.
 

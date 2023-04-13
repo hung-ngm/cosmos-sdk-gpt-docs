@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/simapp/upgrades.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/simapp/upgrades.go)
 
 The code defines an on-chain upgrade for the sample SimApp in the cosmos-sdk project. The upgrade is from version v0.47.x to v0.48.x. The purpose of the code is to register upgrade handlers and configure store upgrades for the SimApp.
 

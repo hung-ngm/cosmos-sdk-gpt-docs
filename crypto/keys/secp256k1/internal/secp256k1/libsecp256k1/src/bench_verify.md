@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/crypto/keys/secp256k1/internal/secp256k1/libsecp256k1/src/bench_verify.c)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/crypto/keys/secp256k1/internal/secp256k1/libsecp256k1/src/bench_verify.c)
 
 This code is a benchmarking tool for verifying ECDSA signatures using the secp256k1 elliptic curve. The purpose of this code is to measure the performance of the secp256k1 library's ECDSA signature verification function, `secp256k1_ecdsa_verify()`, and compare it to OpenSSL's `ECDSA_verify()` function. 
 

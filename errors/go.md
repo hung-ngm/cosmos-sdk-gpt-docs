@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/errors/go.mod)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/errors/go.mod)
 
 This file is a module for handling errors in the cosmos-sdk project. It imports the `github.com/pkg/errors`, `github.com/stretchr/testify`, and `google.golang.org/grpc` packages. It also has several indirect dependencies, including `github.com/davecgh/go-spew`, `github.com/golang/protobuf`, `github.com/kr/pretty`, `github.com/pmezard/go-difflib`, `github.com/rogpeppe/go-internal`, `google.golang.org/genproto`, `google.golang.org/protobuf`, `gopkg.in/check.v1`, and `gopkg.in/yaml.v3`.
 

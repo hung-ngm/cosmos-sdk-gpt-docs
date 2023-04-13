@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/store/types/gas.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/store/types/gas.go)
 
 The `types` package in the `cosmos-sdk` project contains various types and interfaces used throughout the project. This particular file defines gas consumption descriptors, gas meters, and a gas configuration for key-value stores and transient stores.
 

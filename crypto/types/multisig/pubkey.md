@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/crypto/types/multisig/pubkey.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/crypto/types/multisig/pubkey.go)
 
 The `multisig` package in the `cosmos-sdk` project defines an interface called `PubKey` which extends the `types.PubKey` interface. This interface is used to support multi-signature verification via `MultiSignatureData` which supports multiple `SignMode`s. 
 

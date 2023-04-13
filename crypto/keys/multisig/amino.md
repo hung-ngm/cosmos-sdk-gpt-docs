@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/crypto/keys/multisig/amino.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/crypto/keys/multisig/amino.go)
 
 The `multisig` package contains code for implementing a K of N threshold multisig. The `tmMultisig` struct is used for Amino JSON marshaling of `LegacyAminoPubKey`. The `tmMultisig` struct is copy-pasted from the `threshold_pubkey.go` file in the `tendermint/tendermint` repository. The `LegacyAminoPubKey` struct was used in the SDK <=0.39. In 0.40 and the switch to protobuf, it has been converted to `LegacyAminoPubKey`. However, there's one difference: the threshold field was an `uint` before, and an `uint32` after. This caused amino marshaling to be breaking: amino marshals `uint32` as a JSON number, and `uint` as a JSON string.
 

@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/client/grpc/cmtservice/service.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/client/grpc/cmtservice/service.go)
 
 The `cmtservice` package contains the implementation of the CometBFT query server, which is used to handle queries related to the CometBFT consensus algorithm. The `NewQueryServer` function creates a new instance of the query server, which takes in a `clientCtx` object, an `interfaceRegistry` object, and an `abciQueryFn` function as parameters. The `clientCtx` object is used to interact with the blockchain, while the `interfaceRegistry` object is used to unpack the response from the blockchain. The `abciQueryFn` function is used to handle ABCI queries.
 

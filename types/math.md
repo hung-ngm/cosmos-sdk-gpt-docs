@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/types/math.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/types/math.go)
 
 This code defines type aliases and constants for the math sub-module of the cosmos-sdk project. The aliases are for the `Int` and `Uint` types, which are used for signed and unsigned integers, respectively. These types are defined in the `sdkmath` package, which is imported at the beginning of the file. The constants include `MaxBitLen`, which is the maximum bit length of an integer that can be represented by the `Int` and `Uint` types.
 

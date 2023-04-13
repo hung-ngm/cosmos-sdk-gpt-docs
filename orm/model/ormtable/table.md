@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/orm/model/ormtable/table.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/orm/model/ormtable/table.go)
 
 The `ormtable` package contains interfaces and abstract types for defining and interacting with tables in a key-value store. The package is part of the larger `cosmos-sdk` project, which is a framework for building blockchain applications.
 

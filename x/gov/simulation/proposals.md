@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/x/gov/simulation/proposals.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/x/gov/simulation/proposals.go)
 
 The `simulation` package in the `cosmos-sdk` project provides functionality for simulating various aspects of the blockchain system. This particular file defines functions and constants related to simulating proposals in the governance module of the blockchain.
 

@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/tools/cosmovisor/cmd/cosmovisor/run.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/tools/cosmovisor/cmd/cosmovisor/run.go)
 
 The code above is a part of the `cosmos-sdk` project and is responsible for running an application command. The `Run` function is the main function that runs the configured program with the given arguments and monitors it for upgrades. 
 

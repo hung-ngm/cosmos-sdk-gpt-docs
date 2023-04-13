@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/crypto/codec/cmt.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/crypto/codec/cmt.go)
 
 This code provides functions for converting between different types of public keys used in the cosmos-sdk and CometBFT (CMT) projects. Specifically, it provides functions for converting between CMT's `cmtprotocrypto.PublicKey` and `cmtcrypto.PubKey` types and the `cryptotypes.PubKey` type used in the cosmos-sdk project. 
 

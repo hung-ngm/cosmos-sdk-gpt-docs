@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/tools/confix/migrations.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/tools/confix/migrations.go)
 
 The `confix` package provides functionality for managing configuration files in the Cosmos SDK project. This file defines a `MigrationMap` type that maps a version string to a function that generates a transformation plan for migrating configuration files from the previous version to the current version. The `PlanBuilder` function is the main workhorse of this package, which takes in two `tomledit.Document` objects representing the old and new configuration files, respectively, and returns a `transform.Plan` object that describes the necessary changes to migrate from the old to the new configuration file.
 

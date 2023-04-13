@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/core/address/codec.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/core/address/codec.go)
 
 The `address` package in the `cosmos-sdk` project contains an interface called `Codec` that is used to convert addresses from and to string/bytes. This interface defines two methods: `StringToBytes` and `BytesToString`.
 

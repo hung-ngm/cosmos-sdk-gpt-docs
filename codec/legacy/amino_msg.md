@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/codec/legacy/amino_msg.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/codec/legacy/amino_msg.go)
 
 The `legacy` package in the `cosmos-sdk` project contains code that is no longer actively maintained but is still used in some parts of the project. The `RegisterAminoMsg` function in this package is used to register a concrete message type with the Amino codec.
 

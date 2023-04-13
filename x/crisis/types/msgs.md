@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/x/crisis/types/msgs.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/x/crisis/types/msgs.go)
 
 This file contains code related to two message types: `MsgVerifyInvariant` and `MsgUpdateParams`. These messages are used in the Cosmos SDK to facilitate communication between different modules of the system. 
 

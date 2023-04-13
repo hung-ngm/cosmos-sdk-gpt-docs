@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/x/bank/types/params_legacy.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/x/bank/types/params_legacy.go)
 
 This code is a part of the `types` package in the `cosmos-sdk` project. It defines two variables and two functions related to parameter settings for the bank module.
 

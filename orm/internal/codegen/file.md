@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/orm/internal/codegen/file.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/orm/internal/codegen/file.go)
 
 The `codegen` package contains code that generates Go code for the Cosmos SDK ORM (Object-Relational Mapping) module. The ORM module is used to map data between a relational database and an object-oriented programming language. The generated code is used to create a store interface and struct for each table in the database schema. 
 

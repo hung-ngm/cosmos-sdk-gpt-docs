@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/x/staking/migrations/v3/store.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/x/staking/migrations/v3/store.go)
 
 The code above is a part of the cosmos-sdk project and is located in the v3 package. The purpose of this code is to perform in-place store migrations from v0.43/v0.44/v0.45 to v0.46. Specifically, it sets the MinCommissionRate parameter in the paramstore. 
 

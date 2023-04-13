@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/crypto/armor.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/crypto/armor.go)
 
 The `crypto` package in the `cosmos-sdk` project provides cryptographic functions for the Cosmos blockchain. The code in this file provides functions for encoding and decoding cryptographic keys and data using ASCII armor. ASCII armor is a way of encoding binary data in a human-readable format, which is useful for storing and transmitting cryptographic keys and data.
 

@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/x/upgrade/sonar-project.properties)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/x/upgrade/sonar-project.properties)
 
 This code is a configuration file for SonarQube, a code quality management tool. It sets various properties for the analysis of the `cosmos-sdk-x-upgrade` project, which is a part of the larger Cosmos SDK project. 
 

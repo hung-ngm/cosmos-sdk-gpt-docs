@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/x/auth/tx/legacy_amino_json.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/x/auth/tx/legacy_amino_json.go)
 
 This file contains code related to transaction signing in the cosmos-sdk project. Specifically, it defines a handler for the `SIGN_MODE_LEGACY_AMINO_JSON` sign mode. 
 

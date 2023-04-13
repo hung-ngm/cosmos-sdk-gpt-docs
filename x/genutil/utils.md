@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/x/genutil/utils.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/x/genutil/utils.go)
 
 The `genutil` package in the `cosmos-sdk` project provides utility functions for generating and exporting genesis files, initializing node validator files, and other related tasks. 
 

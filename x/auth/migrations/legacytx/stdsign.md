@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/x/auth/migrations/legacytx/stdsign.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/x/auth/migrations/legacytx/stdsign.go)
 
 The `legacytx` package provides functionality for handling legacy transactions in the Cosmos SDK. The package defines an interface `LegacyMsg` that a message must fulfill, containing an Amino signing method. The `StdSignDoc` struct is a replay-prevention structure that includes the result of `msg.GetSignBytes()`, as well as the ChainID, Sequence numbers for each signature, and TimeoutHeight. The `StdSignBytes` function returns the bytes to sign for a transaction. It takes in the chainID, account number, sequence, timeout, fee, messages, memo, and tip. It returns the sorted JSON bytes of the `StdSignDoc` struct. 
 

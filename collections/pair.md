@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/collections/pair.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/collections/pair.go)
 
 The `collections` package in the `cosmos-sdk` project provides a set of data structures and utilities for working with collections of data. This file defines a `Pair` type that represents a key composed of two keys, and provides methods for working with `Pair` instances.
 

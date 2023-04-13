@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/depinject/supply.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/depinject/supply.go)
 
 The `depinject` package contains code related to dependency injection in the Cosmos SDK project. This specific file defines a type called `supplyResolver` which implements the `resolver` interface. The purpose of this type is to provide a value for a specific type during dependency injection.
 

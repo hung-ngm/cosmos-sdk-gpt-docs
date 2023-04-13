@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/x/auth/tx/direct.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/x/auth/tx/direct.go)
 
 The code defines a sign mode handler for the SIGN_MODE_DIRECT sign mode in the cosmos-sdk project. This handler is responsible for implementing the SignModeHandler interface, which defines methods for handling different sign modes in the SDK. 
 

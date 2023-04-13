@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/store/snapshots/types/options.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/store/snapshots/types/options.go)
 
 The `SnapshotOptions` struct and `NewSnapshotOptions` function are part of the `types` package in the `cosmos-sdk` project. This code defines a snapshot strategy used when determining which heights are snapshotted for state sync.
 

@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/client/keys/add.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/client/keys/add.go)
 
 The `keys` package provides functionality for managing keys in the Cosmos SDK. The `AddKeyCommand` function defines a command to add a new encrypted private key to the keybase. The command can either generate a new key or recover an existing one. The key is encrypted with a local password and saved to a file with the given name. The command can also be used to create and store a multisig key by passing the list of key names stored in a keyring and the minimum number of signatures required. 
 

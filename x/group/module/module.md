@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/x/group/module/module.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/x/group/module/module.go)
 
 This code defines the `group` module for the Cosmos SDK. The `group` module is responsible for managing groups of accounts and executing transactions on behalf of those groups. The module defines a `keeper` that manages the state of the module, an `accountKeeper` that manages accounts, and a `bankKeeper` that manages balances. The module also defines a `registry` that is used to register the module's interface types.
 

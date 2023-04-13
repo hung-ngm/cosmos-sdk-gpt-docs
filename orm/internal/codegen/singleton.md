@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/orm/internal/codegen/singleton.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/orm/internal/codegen/singleton.go)
 
 The `singletonGen` struct and its associated methods are used to generate code for a singleton store in the Cosmos SDK project. A singleton store is a type of key-value store that can only hold one value at a time. This is useful for storing data that is unique across the entire application, such as the current state of the blockchain.
 

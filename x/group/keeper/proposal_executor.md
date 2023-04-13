@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/x/group/keeper/proposal_executor.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/x/group/keeper/proposal_executor.go)
 
 The code provided is a part of the `cosmos-sdk` project and is located in the `keeper` package. The purpose of this code is to execute messages for a group proposal. The `doExecuteMsgs` function takes in a context, message router, proposal, group policy account address, and decision policy. It ensures that it is not too early or too late to execute the messages by checking the minimum execution date and expiry date. It then retrieves the messages from the proposal and ensures that they have the necessary authorization. Finally, it loops through each message, finds the appropriate handler, and executes it. The results of each message execution are stored in an array and returned along with any errors.
 

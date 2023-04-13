@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/x/staking/types/events.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/x/staking/types/events.go)
 
 This code defines constants for event types and attribute keys related to the staking module in the cosmos-sdk project. 
 

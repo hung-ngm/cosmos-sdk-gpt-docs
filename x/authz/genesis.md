@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/x/authz/genesis.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/x/authz/genesis.go)
 
 The `authz` package in the `cosmos-sdk` project contains code related to authorization and permissions. This specific file contains code related to the `GenesisState` object, which represents the initial state of the authorization module.
 

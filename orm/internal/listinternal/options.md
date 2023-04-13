@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/orm/internal/listinternal/options.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/orm/internal/listinternal/options.go)
 
 The `listinternal` package contains code related to internal list options for the larger `cosmos-sdk` project. Specifically, this file defines the `Options` struct and related functions for validating and applying options to the struct.
 

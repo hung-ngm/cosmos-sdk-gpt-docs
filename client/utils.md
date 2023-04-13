@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/client/utils.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/client/utils.go)
 
 The `client` package in the `cosmos-sdk` project contains functions and utilities for interacting with a CometBFT node over JSON RPC and WebSockets. This file contains several functions related to pagination and flag parsing.
 

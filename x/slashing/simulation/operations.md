@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/x/slashing/simulation/operations.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/x/slashing/simulation/operations.go)
 
 The `simulation` package in the `cosmos-sdk` project contains code for simulating various operations in the Cosmos SDK. This particular file contains code for simulating the `MsgUnjail` message in the `slashing` module of the SDK. 
 

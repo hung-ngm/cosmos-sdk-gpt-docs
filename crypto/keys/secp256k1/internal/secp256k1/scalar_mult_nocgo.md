@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/crypto/keys/secp256k1/internal/secp256k1/scalar_mult_nocgo.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/crypto/keys/secp256k1/internal/secp256k1/scalar_mult_nocgo.go)
 
 This file is a part of the cosmos-sdk project and is located in the secp256k1 package. The purpose of this code is to provide a method for scalar multiplication on a BitCurve using the secp256k1 elliptic curve. 
 

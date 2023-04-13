@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/x/simulation/transition_matrix.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/x/simulation/transition_matrix.go)
 
 The `simulation` package contains code for simulating the behavior of the Cosmos SDK blockchain. The `TransitionMatrix` struct represents a transition matrix, which is used to model the probability of transitioning from one state to another in a Markov chain. The `CreateTransitionMatrix` function takes a two-dimensional slice of integers representing the weights of the transition matrix and returns a `TransitionMatrix` struct. The `NextState` method of the `TransitionMatrix` struct takes a random number generator and an integer representing the current state, and returns the next state randomly chosen using the provided weights. The `GetMemberOfInitialState` function takes a random number generator and a one-dimensional slice of integers representing the weights of the initial state, and returns a weighted random number in the range [0,n), where n is the length of the weights slice.
 

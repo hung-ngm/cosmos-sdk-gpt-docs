@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/x/simulation/params.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/x/simulation/params.go)
 
 The `simulation` package in the `cosmos-sdk` project provides tools for simulating various aspects of the Cosmos blockchain. This file in particular defines several structs and functions related to simulation parameters and proposals.
 

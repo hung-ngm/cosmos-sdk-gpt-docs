@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/x/upgrade/types/storeloader.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/x/upgrade/types/storeloader.go)
 
 The `UpgradeStoreLoader` function is a utility function that prepares the `baseapp` with a fixed `StoreLoader` pattern. This function is useful for custom upgrade loading logic. The `baseapp` is a core component of the Cosmos SDK that provides a framework for building blockchain applications. The `StoreLoader` is responsible for loading and initializing the application's state from a persistent storage layer.
 

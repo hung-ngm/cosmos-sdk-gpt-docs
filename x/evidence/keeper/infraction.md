@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/x/evidence/keeper/infraction.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/x/evidence/keeper/infraction.go)
 
 The `handleEquivocationEvidence` function is an implementation of an equivocation evidence handler in the Cosmos SDK. Equivocation is a situation where a validator signs two different blocks at the same height, which is a violation of the consensus rules. This function handles such evidence by slashing, jailing, and tombstoning the validator who committed the misbehavior. Once tombstoned, the validator will not be able to recover.
 

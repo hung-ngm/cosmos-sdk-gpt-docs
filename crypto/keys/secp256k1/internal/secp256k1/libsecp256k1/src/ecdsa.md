@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/crypto/keys/secp256k1/internal/secp256k1/libsecp256k1/src/ecdsa.h)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/crypto/keys/secp256k1/internal/secp256k1/libsecp256k1/src/ecdsa.h)
 
 This code defines functions related to ECDSA (Elliptic Curve Digital Signature Algorithm) for the secp256k1 elliptic curve. The secp256k1 curve is used in Bitcoin and other cryptocurrencies for generating public-private key pairs and signing transactions.
 

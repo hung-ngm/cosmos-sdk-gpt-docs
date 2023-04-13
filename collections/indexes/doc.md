@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/collections/indexes/doc.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/collections/indexes/doc.go)
 
 The `indexes` package in the `cosmos-sdk` project provides a set of common index types that can be used with a `collections.IndexedMap`. This package also includes specialized helper functions that allow for efficient collection and querying of an index.
 

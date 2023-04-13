@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/store/snapshots/types/snapshotter.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/store/snapshots/types/snapshotter.go)
 
 This file defines two interfaces: Snapshotter and ExtensionSnapshotter. These interfaces are used in the larger cosmos-sdk project to manage state snapshots of the blockchain. 
 

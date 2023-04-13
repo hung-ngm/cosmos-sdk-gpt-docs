@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/orm/encoding/ormfield/enum.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/orm/encoding/ormfield/enum.go)
 
 The `EnumCodec` struct in this code file is responsible for encoding and decoding enum values as varints. This is useful in the larger project because it allows for efficient storage and transmission of enum values. 
 

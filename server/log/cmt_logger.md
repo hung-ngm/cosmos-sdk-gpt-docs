@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/server/log/cmt_logger.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/server/log/cmt_logger.go)
 
 The `server` package in the `cosmos-sdk` project contains a type called `CometZeroLogWrapper` that provides a wrapper around a `zerolog.Logger` instance. This type implements the `CometBFT`'s `Logger` interface, which is used for logging in the `CometBFT` consensus algorithm.
 

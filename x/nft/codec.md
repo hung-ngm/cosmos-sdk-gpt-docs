@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/x/nft/codec.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/x/nft/codec.go)
 
 The `nft` package in the `cosmos-sdk` project contains code related to non-fungible tokens. The file shown here is responsible for registering interface types with the interface registry and message service description.
 

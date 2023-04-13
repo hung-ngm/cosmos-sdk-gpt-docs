@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/store/cachekv/internal/mergeiterator.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/store/cachekv/internal/mergeiterator.go)
 
 The `cacheMergeIterator` type is defined in the `internal` package of the `cosmos-sdk` project. This type is used to merge two iterators: a parent iterator and a cache iterator. The cache iterator may return nil keys to signal that an item had been deleted (but not deleted in the parent). If the cache iterator has the same key as the parent, the cache shadows (overrides) the parent. The purpose of this type is to provide an efficient way to iterate over a store that has a cache layer. 
 

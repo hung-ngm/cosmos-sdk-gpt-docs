@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/x/staking/abci.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/x/staking/abci.go)
 
 This code is a part of the staking module in the cosmos-sdk project. The staking module is responsible for managing the validator set and delegations in the Cosmos network. 
 

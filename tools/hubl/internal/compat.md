@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/tools/hubl/internal/compat.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/tools/hubl/internal/compat.go)
 
 The `loadFileDescriptorsGRPCReflection` function attempts to load the file descriptor set for a given gRPC client connection using gRPC reflection. If the `cosmos.reflection.v1` package is available, it will be used to load the file descriptor set. Otherwise, a fallback method is used, which may not be able to read all data and may not support all features.
 

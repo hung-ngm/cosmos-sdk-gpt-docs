@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/tools/confix/file.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/tools/confix/file.go)
 
 The `confix` package contains functions for loading and parsing TOML configuration files. TOML is a configuration file format that is easy to read and write, and is commonly used in Go projects. The `confix` package is used in the larger `cosmos-sdk` project to manage configuration files for various components of the system.
 

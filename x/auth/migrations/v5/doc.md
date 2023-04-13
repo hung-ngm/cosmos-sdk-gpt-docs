@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/x/auth/migrations/v5/doc.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/x/auth/migrations/v5/doc.go)
 
 The `v5` package in the `cosmos-sdk` project is an empty package that serves a specific purpose within the larger project. This package exists because of the group module, which is responsible for managing group policies and accounts. 
 

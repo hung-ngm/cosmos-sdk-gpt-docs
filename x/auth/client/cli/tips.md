@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/x/auth/client/cli/tips.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/x/auth/client/cli/tips.go)
 
 The `cli` package contains command-line interface (CLI) functionality for the Cosmos SDK. This particular file defines a command called `aux-to-fee` that includes auxiliary signer data in a transaction, broadcasts the transaction, and sends a tip amount to the broadcaster. 
 

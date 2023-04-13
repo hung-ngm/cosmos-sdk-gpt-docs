@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/x/group/typesupport.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/x/group/typesupport.go)
 
 The code defines two types, `MemberRequests` and `accAddresses`, and provides methods for validating them. 
 

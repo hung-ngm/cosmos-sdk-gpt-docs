@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/x/feegrant/client/cli/query.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/x/feegrant/client/cli/query.go)
 
 The code above is a part of the cosmos-sdk project and it provides a command-line interface (CLI) for the feegrant module. The feegrant module is responsible for managing fee grants, which are a way for one account (the granter) to pay transaction fees on behalf of another account (the grantee). 
 

@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/depinject/internal/graphviz/graph.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/depinject/internal/graphviz/graph.go)
 
 The `graphviz` package provides functionality for creating and rendering graphviz digraphs. A `Graph` represents a graphviz digraph and contains a set of nodes, edges, and sub-graphs. Each `Graph` has a set of attributes that can be set using the `Attributes` struct. 
 

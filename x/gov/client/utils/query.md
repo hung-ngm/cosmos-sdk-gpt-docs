@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/x/gov/client/utils/query.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/x/gov/client/utils/query.go)
 
 The `utils` package in the `cosmos-sdk` project contains a set of utility functions and types that are used across the project. The code in this file provides functions for querying and retrieving information about governance proposals and votes.
 

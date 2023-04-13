@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/types/module/simulation.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/types/module/simulation.go)
 
 The code defines interfaces and a struct that are used for simulating the behavior of modules in the cosmos-sdk blockchain. The `AppModuleSimulation` interface defines the standard functions that every module should expose for the SDK blockchain simulator. These functions include generating randomized genesis states, registering a function to decode each module's defined types from their corresponding store key, and defining simulation operations (i.e., messages) with their respective weight. 
 

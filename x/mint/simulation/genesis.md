@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/x/mint/simulation/genesis.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/x/mint/simulation/genesis.go)
 
 The `simulation` package in the `cosmos-sdk` project contains code for generating randomized simulation data for various modules. This particular file contains code for generating a random `GenesisState` for the `mint` module.
 

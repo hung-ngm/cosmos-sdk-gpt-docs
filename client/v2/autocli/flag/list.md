@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/client/v2/autocli/flag/list.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/client/v2/autocli/flag/list.go)
 
 The code defines functions and types related to flag parsing and binding for the cosmos-sdk project. Specifically, it provides a way to bind a flag to a list of values of a given type, which can be used to parse command-line arguments.
 

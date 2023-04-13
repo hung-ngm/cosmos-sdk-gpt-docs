@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/api/cosmos/bank/v1beta1/tx_grpc.pb.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/api/cosmos/bank/v1beta1/tx_grpc.pb.go)
 
 This code defines a gRPC service for the `cosmos-sdk` project's `bank` module. The `MsgClient` interface defines four methods for sending and updating balances between accounts, and the `MsgServer` interface defines the corresponding server-side implementations of these methods. 
 

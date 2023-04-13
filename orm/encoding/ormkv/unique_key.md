@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/orm/encoding/ormkv/unique_key.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/orm/encoding/ormkv/unique_key.go)
 
 The `UniqueKeyCodec` is a codec for unique indexes in the `cosmos-sdk` project. It is used to encode and decode keys and values for unique indexes. The purpose of this code is to create a new `UniqueKeyCodec` with an optional prefix for the provided message descriptor, index, and primary key fields. It also provides methods to encode and decode keys and values for unique indexes.
 

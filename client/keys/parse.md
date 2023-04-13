@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/client/keys/parse.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/client/keys/parse.go)
 
 The `keys` package provides functionality for handling cryptographic keys in the Cosmos SDK. This particular file contains a command-line interface (CLI) tool for parsing and converting between bech32 and hexadecimal address formats. 
 

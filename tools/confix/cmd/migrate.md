@@ -1,4 +1,4 @@
-[View code on GitHub](https://github.com/cosmos/cosmos-sdk.git/tools/confix/cmd/migrate.go)
+[View code on GitHub](https://github.com/cosmos/cosmos-sdk/blob/main/tools/confix/cmd/migrate.go)
 
 The code defines a command-line interface (CLI) command for migrating a Cosmos SDK app configuration file to a specified version. The command is defined as a function `MigrateCommand()` that returns a `cobra.Command` object. The command takes a target version and an optional path to the app configuration file as arguments. The command also has three optional flags: `--stdout`, `--verbose`, and `--skip-validate`.
 
